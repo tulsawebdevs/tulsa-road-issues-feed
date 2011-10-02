@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Houston TranStar Traffic Information for IH-10 KATY</title>
+        <link>http://traffic.houstontranstar.org</link>
+        <description>Houston TranStar Traffic Information for IH-10 KATY</description>
+        <language>en-us</language>
+        <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        <item>
+            <title>No incidents are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 Katy Eastbound from Beltway 8-West to Downtown</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 15 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">3250967</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 Katy Eastbound from IH-610 West Loop to Downtown</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 9 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">4352498</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 Katy Westbound from Downtown to IH-610 West Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 6 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">5248801</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 Katy Westbound from Downtown to Beltway 8-West</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 12 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6693135</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 Katy Westbound from IH-610 West Loop to Barker-Cypress</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 14 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">7121515</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 Katy Westbound from Beltway 8-West to Barker-Cypress</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 8 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">8345243</guid>
+        </item>
+        <item>
+            <title>Lane Closure: IH-10 KATY Westbound Frontage Road from west of MASON RD. to the entrance from MASON RD </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed until further notice - Lanes Affected: 1 inside lane - Status: Active</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6101082803</guid>
+        </item>
+        <item>
+            <title>Lane Closure: IH-10 KATY Westbound Frontage Road from PATTERSON ST to SHEPHERD </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed until further notice - Lanes Affected: 1 outside lane - Status: Active</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6751562726</guid>
+        </item>
+        <item>
+            <title>Lane Closure: IH-10 KATY Westbound Frontage Road from PATTERSON ST to T C JESTER BLVD </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed continuously until 3:00 PM, Saturday, October 8 - Lanes Affected: 1 inside lane - Status: Active</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6760498336</guid>
+        </item>
+    </channel>
+</rss>

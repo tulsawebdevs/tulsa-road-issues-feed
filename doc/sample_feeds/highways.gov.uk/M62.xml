@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, on the M62</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:16 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, on the M62</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:16 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">313630</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6836931804829&amp;lon=-0.970881909849162</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M62 J35 eastbound to M18 J7 southbound | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound exit slip at junction J35  , minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:21:19 GMT</pubDate>
+      <reference>P-11-0829-0109</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344346</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6836931804829&amp;lon=-0.970881909849162</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M62 J35 eastbound to M18 J7 southbound | Eastbound | Roadworks</title>
+      <description>The M62 eastbound exit slip at junction J35 is closed  , due to roadworks. Road expected to re-open from 3:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:21:18 GMT</pubDate>
+      <reference>P-11-1001-0167</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">313629</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6832374538546&amp;lon=-0.967016869284323</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M62 J35 westbound to M18 J7 southbound | Westbound | Roadworks</title>
+      <description>On the M62 westbound exit slip at junction J35  , minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:13:26 GMT</pubDate>
+      <reference>P-11-0829-0108</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">334621</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.733325546624&amp;lon=-1.6124960746459</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J27 and J28 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J27 and J28, there are currently delays of 10 mins due to roadworks closing two lanes. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:53 GMT</pubDate>
+      <reference>P-11-0922-0101</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">138606</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7046481600111&amp;lon=-1.27898000410621</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J32A and J33 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J32A and J33, minor delays are possible due to roadworks closing two lanes. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:37 GMT</pubDate>
+      <reference>P-11-0325-0065</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">83742</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6825378248481&amp;lon=-1.06918956484809</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J34 and J35 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J34 and J35, minor delays can be expected at peak times due to roadworks closing one lane, between 9:30 am and 3 pm, from 3 February 2011 to 22 November 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 14:00:55 GMT</pubDate>
+      <reference>P-11-0202-0411</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">316962</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7233675671082&amp;lon=-1.73917696286387</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J25 and J26 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J25 and J26, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 24 March 2013.</description>
+      <pubDate>Thu, 29 Sep 2011 12:21:06 GMT</pubDate>
+      <reference>P-11-0909-0109</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340205</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.733325546624&amp;lon=-1.6124960746459</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J27 and J28 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J27 and J28, minor delays are possible due to roadworks . Expect disruption until 6:00 am on 21 January 2013.</description>
+      <pubDate>Thu, 29 Sep 2011 05:07:41 GMT</pubDate>
+      <reference>P-11-0922-0095</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339386</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6710007301321&amp;lon=-1.83404038166687</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 J24 westbound access | Westbound | Roadworks</title>
+      <description>The M62 westbound entry slip at junction J24 will be closed   due to roadworks,  from 8 pm on 3 October 2011 to 6 am on 4 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 14:05:26 GMT</pubDate>
+      <reference>P-11-0928-0261</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336974</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4002213743235&amp;lon=-2.80669002164314</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M57 southbound to M62 J6 eastbound | Eastbound | Roadworks</title>
+      <description>The M62 eastbound entry slip at junction J6 will be closed   due to roadworks, between 10 pm and 5 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:25:46 GMT</pubDate>
+      <reference>P-11-0926-0107</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336620</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7530779667407&amp;lon=-0.772493163003226</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J37 and J38 | Eastbound | Roadworks</title>
+      <description>The M62 eastbound will be closed between junctions J37 and J38 due to carriageway resurfacing, between 8 pm and 6 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:02:04 GMT</pubDate>
+      <reference>P-11-0920-0190</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336619</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7347581616591&amp;lon=-0.866397039002199</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 J37 eastbound access | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound entry slip at junction J37  , expect delays of up to 10 mins at peak times due to carriageway resurfacing , between 8 pm and 6 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:01:37 GMT</pubDate>
+      <reference>P-11-0920-0194</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336618</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7337420525191&amp;lon=-1.5787489075501</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 J28 eastbound exit | Eastbound | Roadworks</title>
+      <description>The M62 eastbound exit slip at junction J28 will be closed   due to roadworks, between 8 pm and 6 am, from 3 October 2011 to 4 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:01:26 GMT</pubDate>
+      <reference>P-11-0922-0105</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">274966</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7279722353299&amp;lon=-1.48454705278534</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 westbound between J30 and J29 | Westbound | Roadworks</title>
+      <description>On the M62 westbound between junctions J30 and J25, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 21 January 2013.</description>
+      <pubDate>Thu, 22 Sep 2011 11:12:11 GMT</pubDate>
+      <reference>P-11-0801-0047</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">316963</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7281327755604&amp;lon=-1.48425711127924</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J29 and J30 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J29 and J30, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 19 July 2013.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:58 GMT</pubDate>
+      <reference>P-11-0909-0110</reference>
+    </item>
+  </channel>
+</rss>

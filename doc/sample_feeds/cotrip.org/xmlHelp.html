@@ -1,0 +1,930 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Cotrip.org :: Help Page</title>
+<style type="text/css">
+<!--
+.style4 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: small; }
+.style5 {font-size: small}
+.style6 {font-size: medium}
+.style7 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: medium; }
+.tablestyle {border: 1px solid #F4F4F4;}
+.columnstyle2 {border: 1px solid #F4F4F4; border-width: 0 1px 1px 0;}
+.columnstyle1 {border: 1px solid #F4F4F4; border-width: 0 0 1px 0;}
+-->
+</style>
+</head>
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td> 
+<!-- Body Text starts here -->
+	<table width="80%"" border="0" align="center" cellpadding="2" cellspacing="0">
+		<tr> 
+			<td width="100%"><font size="+2" face="Verdana, Arial, Helvetica, sans-serif"><strong><font size="+1">XML Help</font></strong></font></td>
+		</tr>
+		<tr> 
+			<td valign="top"><span class="style5"><font face="Verdana, Arial, Helvetica, sans-serif">The following pages have help content: <a href="#speedsxml">Speeds for all Roads</a>, <a href="#destinationsxml">Destinations</a>, <a href="#roadconditionsxml">Road Conditions</a>, <a href="#alertsxmlHelp">Alerts</a>, <a href="#camerasxml">Cameras</a>, <a href="#messagesignsxml">Message Signs</a>, <a href="#weatherstationsxml">Weather Stations</a>, <a href="#speedsegpolylinexml">Speed Segment Polylines</a>, <a href="#speedroupolylinexml">Speed Route Polylines</a> and <a href="#weatherroupolylinexml">Weather Route Polylines</a></font></span></td>
+		</tr>
+	</table> 
+	<hr width="80%" noshade="noshade" />
+	<table width=80%" align="center" cellpadding="4" cellspacing="0" class="tablestyle">
+		<tr valign="top"> 
+			<td colspan="2" class="columnstyle1"><div align="left"><font color="#666666"><strong> 
+          	<font face="Verdana, Arial, Helvetica, sans-serif"><span class="style6"><a name="speedsxml" id="speedsxml"></a></span></font><span class="style6"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif">Speeds XML Help</font><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif"></font></span></strong></font></div></td>
+		</tr>
+		<tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">SegmentId<br /></span></td>
+			<td class="columnstyle1"><span class="style4">Unique ID for the Segment</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">SegmentName</span></td>
+			<td class="columnstyle1"><span class="style4">Name that describe the segment's location. The first part of the segment name is the Highway Number (3 digits) Direction (1 digit) and Mile-marker (3 digits and start) of the Segment. The next is the common descriptive name.
+			<br/><br/>Segment's are unique, have only 1 direction and do not overlap.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">SegmentType</span></td>
+			<td class="columnstyle1"><span class="style4">Four types exist in cotrip: Highway, Arterial, Frontage and HOV. Currently only Highway and Arterial types are implemented.</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">RoadName</span></td>
+			<td class="columnstyle1"><span class="style4">Highway road name</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">Direction</span></td>
+			<td class="columnstyle1"><span class="style4">Only 1 per segment. Values include: North, South, East and West</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">SpeedLimit</span></td>
+			<td class="columnstyle1"><span class="style4">Segment's have 1 speed limit. If there are physically 2 speed limits on the actual roadway, the segment will use the lower one. For example, if the speed limit changes in the middle of the segment, the system will use the lower one</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">Length</span></td>
+			<td class="columnstyle1"><span class="style4">In miles, the length of the segment. This is the actual distance when driven by a calibrated car and not necessarily the difference between the start and end-milemarker of the segment</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">StartMileMarker</span></td>
+			<td class="columnstyle1"><span class="style4">Mile-marker at the start of the segment</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">EndMileMarker</span></td>
+			<td class="columnstyle1"><span class="style4">Mile-marker at the end of the segment</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">Status</span></td>
+			<td class="columnstyle1"><span class="style4">Only enabled segments will be available through this api. The other value is 'disabled' and these segments will not be available.</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">ExpectedTravelTime</span></td>
+			<td class="columnstyle1"><span class="style4">The current expected or estimated travel time for the segment. This is determined by the speed algorithm. Please refer to  <a href="helpSpeedCalculation.htm" target="new" style="color: #7D0693;text-decoration: underline;font-size: 12px;">How is Speed Calculated</a> for more details</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">CalculatedDate</span></td>
+			<td class="columnstyle1"><span class="style4">The timestamp and date of when this segment data was calculated. This is done every two minutes</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">AverageSpeed</span></td>
+			<td class="columnstyle1"><span class="style4">In miles, the expected Average Speed of the segment. This is determined by the speed algorithm. See the link above for more. If there is a '-1' here, then it means we have no data for the segment and hence cannot calculate a speed. We need to get data at least once in 6 minutes to make this calculation. In other words, if we do not get data on a given segment for 6 minutes, its Travel Time, Average Speed etc. will be set to -1 (or no data).</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">AverageOccupancy</span></td>
+			<td class="columnstyle1"><span class="style4">In %, the Occupancy for the past 2 minutes on the segment. The occupancy is the amount of time the loop was occupied during the last 2 minutes. Note, on the highway, an occupancy of 30% or greater is considered very congested or stop-n-go traffic. This is calculated by the Speed application.</span></td>
+        </tr>
+        <tr valign="top">
+ 			<td align="left" class="columnstyle2"><span class="style7">AverageVolume</span></td>
+			<td class="columnstyle1"><span class="style4">The number of cars that the loop counted over the past two minutes across all the lanes in that segment. This is done by the speed application as well. </span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">TravelTime</span></td>
+			<td class="columnstyle1"><span class="style4">Current travel time on the segment</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">SpeedUnitOfMeasure</span></td>
+			<td class="columnstyle1"><span class="style4">Measuring unit of speed</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">AverageTrafficFlow</span></td>
+			<td class="columnstyle1"><span class="style4">This is a term that we are using to denote the congestion on arterial segments (i.e. city streets). This is represented as a %. A higher number here is better while a smaller one denote more congestion. Refer to the City Congestion section of <a href="helpSpeedCalculation.htm" style="color: #7D0693;text-decoration: underline;font-size: 12px;">How is Speed Calculated</a>  for more information</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">TypeTrafficFlowCd</span></td>
+			<td class="columnstyle1"><span class="style4">The AverageTrafficFlow is translated into a meaning text value that is presented on the map with a color. The values are: 1-4. </span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">TypeTrafficFlowTxt</span></td>
+			<td class="columnstyle1"><span class="style4">The text value of the above mentioned code. The values are: Wide Open, Slowing, Heavy and Stop-n-go traffic flow.</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">IsSlowDown</span></td>
+			<td class="columnstyle1"><span class="style4">Used on our website to display segments that are in a slow down state (see Speed page)</span></td>
+		</tr>
+	</table>  
+	<hr width="80%" noshade="noshade" />
+	<table width="80%" border="1" align="center" cellpadding="4" cellspacing="0" class="tablestyle">
+		<tr valign="top">
+			<td colspan="2" class="columnstyle1"><div align="left"><font color="#666666"><strong> <font face="Verdana, Arial, Helvetica, sans-serif"><span class="style6"><a name="destinationsxml" id="destinationsxml"></a></span></font>
+			<span class="style6"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif">Destinations XML Help</font><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif"></font></span></strong></font></div></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">RouteId<br /></span></td>
+			<td class="columnstyle1"><span class="style4">Unique ID for the Route. A Route is a destination. It is basically a summation of all the segments in it. </span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">RouteName</span></td>
+			<td class="columnstyle1"><span class="style4">Name that describe the routes's location. The first part of the  name is the Highway Number (3 digits) Direction (1 digit) and Mile-marker (3 digits and start) of the route. The next is the common descriptive name.
+			<br/><br/>Routes can cover more than 1 road. But will have a given direction on each road.</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">Description</span></td>
+			<td class="columnstyle1"><span class="style4">The description of the route's location.</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">Status</span></td>
+			<td class="columnstyle1"><span class="style4">Only enabled destinations (routes) will be available through this api. The other value is 'disabled' and these routes will not be available.</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">ExpectedTravelTime</span></td>
+			<td class="columnstyle1"><span class="style4">This is the summation of all the segment travel times in the route (based on the length of the segment that is in the route). Please refer to <a href="helpSpeedCalculation.htm" style="color: #7D0693;text-decoration: underline;font-size: 12px;">How is Speed Calculated</a> for more details</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">CalculatedDate</span></td>
+			<td class="columnstyle1"><span class="style4">The timestamp and date of when this  data was calculated. This is done every two minutes</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">AverageSpeed</span></td>
+			<td class="columnstyle1"><span class="style4">In miles, the average (expected) speed of the route. This is based on the travel times in each of the segments and the total distance traveled. If it is not know this values will be set to -1 (or no data). (For example, if even 1 segment in the entire route doesn't have data, we will set the route's data to -1). </span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">RoadInfo</span></td>
+			<td class="columnstyle1"><span class="style4">Routes can have more than 1 road associated with them.</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">RoadName</span></td>
+			<td class="columnstyle1"><span class="style4">For each road, there will be a road name</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">DirectionTxt</span></td>
+			<td class="columnstyle1"><span class="style4">For each road, there will be a direction. Values include: North, South, East and West</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">DirectionCd</span></td>
+			<td class="columnstyle1"><span class="style4">The type code in our tables for the direction text</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">Length</span></td>
+			<td class="columnstyle1"><span class="style4">In miles, the length of the route. This is the actual distance when driven by a calibrated car</span></td>
+		</tr>
+	</table>
+	<hr width="80%" noshade="noshade" />
+	<table width="80%&quot;" border="1" align="center" cellpadding="4" cellspacing="0" class="tablestyle">
+		<tr valign="top"> 
+			<td colspan="2" class="columnstyle1"><div align="left"><font color="#666666"><strong> <font face="Verdana, Arial, Helvetica, sans-serif"><span class="style6">
+          	<a name="roadconditionsxml" id="destinationsxml2"></a></span></font><span class="style6"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif">Weather 
+              Route Road Condition XML Help</font></span></strong></font></div></td>
+		</tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">WeatherRouteId</span></td>
+			<td class="columnstyle1"><span class="style4">Unique ID for the Weather Route. A Weather 
+            Route is a section of roadway that CDOT provides a road condition 
+            for. It is updated 4 times a day in the winter and once daily in the 
+            summer</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">RouteName</span></td>
+			<td class="columnstyle1"><span class="style4">The name of the weather route (descriptive, location)</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Status</span></td>
+			<td class="columnstyle1"><span class="style4">Will always be enabled</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">StartMileMarker</span></td>
+			<td class="columnstyle1"><span class="style4">The start mile-marker of the weather route 
+            (highway)</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EndMileMarker</span></td>
+			<td class="columnstyle1"><span class="style4">Mile-marker at the end of the Weather Route</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Length</span></td>
+			<td class="columnstyle1"><span class="style4">In miles, the length of the Weather Route</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">CalculatedDate</span></td>
+			<td class="columnstyle1"><span class="style4">The timestamp and date of when the road condition 
+            was last set (most recent)</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RoadName</span></td>
+			<td class="columnstyle1"><span class="style4">A Weather Route can have ONLY 1 Road. This 
+            is its Road Name. And Weather Routes do not have a direction</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Comment</span></td>
+			<td class="columnstyle1"><span class="style4">Additional comments added by the operator</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RoadConditionCategoryTxt</span></td>
+			<td class="columnstyle1"><span class="style4">The road condition has a category associated 
+            with it. A Weather Route can have more than 1 road condition category 
+            associated with it</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RoadConditionCategoryCd</span></td>
+			<td class="columnstyle1"><span class="style4">The type code in our tables for the road condition. 
+            See the values listed below.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RouteGroupTxt</span></td>
+			<td class="columnstyle1"><span class="style4">The name of the group to which weather route belongs</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">IsHazardousCondition</span></td>
+			<td class="columnstyle1"><span class="style4">We use this on CoTrip to display the weather 
+            route in the Hazardous driving section. The business logic on our 
+            end determines this (such as Blowing Snow, or a combination of conditions)</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RoadCondition</span></td>
+			<td class="columnstyle1"><span class="style4">The road condition that is currently set to 
+            the Weather Route. There can be more than 1 road condition associated 
+            with a weather route. The values possible are: <br />
+            No Data 11<br />
+            Error 10<br />
+            Dry 9<br />
+            Scattered Showers 8<br />
+            Rain 8<br />
+            Wet 8<br />
+            Slushy 8<br />
+            High Wind 7<br />
+            Poor Visibility 6<br />
+            Snow 5<br />
+            Snow Packed 5<br />
+            Snow Packed Icy Spots 5<br />
+            Icy 4<br />
+            Icy Spots 4<br />
+            Blowing Snow 3</span></td>
+		</tr>
+	</table>
+	<hr width="80%" noshade="noshade" />
+	<table width="80%" border="1" align="center" cellpadding="4" cellspacing="0" class="tablestyle">
+		<tr valign="top">
+			<td colspan="2" class="columnstyle1"><div align="left"><font color="#666666"><strong><font face="Verdana, Arial, Helvetica, sans-serif"><span class="style6">
+			<a name="alertsxmlHelp" id="destinationsxml3"></a></span></font><span class="style6"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif">Alert XML Help</font></span></strong></font></div></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">Type<br /></span></td>
+			<td class="columnstyle1"><span class="style4">The type of  Alert. The values could be: Closed, Seasonal Closure, Restriction, Partial Closure, Road Work (construction), Incident, Response and Amber Alert. An Alert can only be of one type.</span></td>
+        </tr>
+        <tr valign="top">
+			<td align="left" class="columnstyle2"><span class="style7">Title</span></td>
+			<td class="columnstyle1"><span class="style4">The title of the alert. For example, Bridge Construction</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">Headline</span></td>
+			<td class="columnstyle1"><span class="style4">The short description of the alert. Includes highway, location, road name</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">Description</span></td>
+			<td class="columnstyle1"><span class="style4">The detailed description of the alert. It includes the work being done or reason for closure, any alternate route information and estimated time to clear</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">Impact</span></td>
+			<td class="columnstyle1"><span class="style4">The traffic impact of the event. The values include: Severe, Medium, Low</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">Location</span></td>
+			<td class="columnstyle1"><span class="style4">The latitude and longitude of the alert</span></td>
+        </tr>		
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">ReportedTime</span></td>
+			<td class="columnstyle1"><span class="style4">The timestamp and date of when this alert was created</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">LastUpdateDate</span></td>
+			<td class="columnstyle1"><span class="style4">The timestamp and date of when this alert was last updated</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">AlertIcon</span></td>
+			<td class="columnstyle1"><span class="style4">The icon cotrip.org uses to display the alert on the map (url)</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">ExpectedEndTime</span></td>
+			<td class="columnstyle1">Time/Date when alert expires</td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">Direction</span></td>
+			<td class="columnstyle1"><span class="style4">The direction associated with the alert. This is the text representation of TypeDirectionCode</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">DirectionType</span></td>
+			<td class="columnstyle1"><span class="style4">The direction code associated with the alert</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">RoadName</span></td>
+			<td class="columnstyle1"><span class="style4">The road name that the alert is on. There can be only 1 road name for a given alert</span></td>
+        </tr>	
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">StartMileMarker</span></td>
+			<td class="columnstyle1"><span class="style4">Mile-marker at the start of the alert</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">EndMileMarker</span></td>
+			<td class="columnstyle1"><span class="style4">Mile-marker at the end of the alert</span></td>
+        </tr>	
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">IsBothDirectionFlg</span></td>
+			<td class="columnstyle1"><span class="style4">Alert is valid for both direction. Value is true for bidirectional alert</span></td>
+        </tr>
+        <tr valign="top">
+			<td class="columnstyle2"><span class="style7">Images</span></td>
+			<td class="columnstyle1"><span class="style4">Images that are associated with each alert. There can be several images for each alert</span></td>
+        </tr>
+	</table>
+	<hr width="80%" noshade="noshade" />
+	<table width="80%" border="1" align="center" cellpadding="4" cellspacing="0" class="tablestyle">
+		<tr valign="top"> 
+			<td colspan="2" class="columnstyle1"><div align="left"><font color="#666666"><strong><font face="Verdana, Arial, Helvetica, sans-serif"><span class="style6"><a name="camerasxml" id="camerasxml"></a></span></font><span class="style6"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif">Camera 
+			XML Help</font></span></strong></font></div></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Location</span></td>
+			<td class="columnstyle1"><span class="style4">The latitude and longitude of the Camera</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">CameraId</span></td>
+			<td class="columnstyle1"><span class="style4">Unique ID for the Camera</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">CameraType</span></td>
+			<td class="columnstyle1"><span class="style4">The type of Camera. The values could be: Still, 
+            Streaming, Camera Tour. Note: Streaming camera content is not currently 
+            available through this API. The system block's this content from being 
+            rendered from outside cotrip</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Name</span></td>
+			<td class="columnstyle1"><span class="style4">The name of the Camera (descriptive, location)</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Description</span></td>
+			<td class="columnstyle1"><span class="style4">A more descriptive name for the camera</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Status</span></td>
+			<td class="columnstyle1"><span class="style4">Will always be enabled</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">IsWeatherStation</span></td>
+			<td class="columnstyle1"><span class="style4">If this camera is part of a weather station, 
+            this will be checked (weather station cameras are of type still)</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Source</span></td>
+			<td class="columnstyle1"><span class="style4">Which Agency this camera belongs to (i.e. CDOT ITS)</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Icon</span></td>
+			<td class="columnstyle1"><span class="style4">An icon representing the camera type that 
+            we use on Cotrip</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">CameraView</span></td>
+			<td class="columnstyle1"><span class="style4">1 to many relationship with camera. A camera 
+            can have many views (typically, still and camera tour have more than 
+            1 view, while the streaming has only 1)</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">CameraViewId</span></td>
+			<td class="columnstyle1"><span class="style4">Unique Id for the CameraView. The CameraId, 
+            CameraName, CameraType, ImageSource are repeated in this list table 
+            and the CameraId is what relates it to the view</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">ViewDescription</span></td>
+			<td class="columnstyle1"><span class="style4">For each view, the description of the direction 
+            the camera view is pointing. This is more descriptive than just the 
+            direction</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Direction</span></td>
+			<td class="columnstyle1"><span class="style4">The directions associated with this view. The 
+            values could be: North, South, East or West. Each Camera View will 
+            have 1 value here</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">ImageLocation</span></td>
+			<td class="columnstyle1"><span class="style4">The url for the location of the image for the 
+            camera view</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">DisplayOrder</span></td>
+			<td class="columnstyle1"><span class="style4">We use this in our balloon window to order 
+            the view presented</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RoadName</span></td>
+			<td class="columnstyle1"><span class="style4">The road name that the camera is on. There 
+            can be only 1 road name for a given alert</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">LastUpdateDate</span></td>
+			<td class="columnstyle1"><span class="style4">The timestamp and date of when this device 
+            was last updated (when the picture was taken). Typically, we collect 
+            images from our still cameras every 20 minutes</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">CameraDisplayType</span></td>
+			<td class="columnstyle1"><span class="style4">The type of interface the camera will be displayed at. This field has two values Kiosk and Web</span></td>
+        </tr>
+	</table>
+	<hr width="80%" noshade="noshade" />
+	<table width="80%" border="1" align="center" cellpadding="4" cellspacing="0" class="tablestyle">
+        <tr valign="top"> 
+			<td colspan="2" class="columnstyle1"><font color="#666666"><strong><font face="Verdana, Arial, Helvetica, sans-serif"><span class="style6"><a name="messagesignsxml" id="messagesignsxml"></a></span></font><span class="style6"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif">DMS 
+            XML Help (Dynamic Message Sign)</font></span></strong></font></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Location</span></td>
+			<td class="columnstyle1"><span class="style4">The latitude and longitude of the device</span></td>
+		</tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">DeviceId</span></td>
+			<td class="columnstyle1"><span class="style4">Unique ID for the Device</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">CommonName<br /></span></td>
+			<td class="columnstyle1"><span class="style4">The name of the device. The format is always 
+            3 digit hwy 1 digit direction 3 digit mile-marker space common descritive 
+            location name. For example: 025E146 GARDEN OF THE GODS</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Status</span></td>
+			<td class="columnstyle1"><span class="style4">Will always be enabled</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EntityId</span></td>
+			<td class="columnstyle1"><span class="style4">An internal ID for the group / division that 
+            owns the sign. For external purposes, please assume that the sign 
+            is owned by CDOT</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RoadName</span></td>
+			<td class="columnstyle1"><span class="style4">The road name that the device is on. There 
+            can be only 1 road name for a given alert</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Direction</span></td>
+			<td class="columnstyle1"><span class="style4">The direction the device faces. The values 
+            could be: North, South, East or West. Can have only 1 value here</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">MileMarker</span></td>
+			<td class="columnstyle1"><span class="style4">The milemarker the device is on</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">LastUpdateDate</span></td>
+			<td class="columnstyle1"><span class="style4">The timestamp and date of when the device was 
+            last updated</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Icon</span></td>
+			<td class="columnstyle1"><span class="style4">An icon representing the device type that 
+            we use on Cotrip</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">DMSId</span></td>
+			<td class="columnstyle1"><span class="style4">The specific device entity id (in our system 
+            we have a relationship between device (generic, all devices) and specific 
+            device type entity tables (dms in this case). This is the DMS Id that 
+            is unique across DMSes (Dynamic Message Sign)</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">BlankMessage</span></td>
+			<td class="columnstyle1"><span class="style4">If the Sign is blank, this will be true</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">MessageImg</span></td>
+			<td class="columnstyle1"><span class="style4">An image that is based on the sign's configuration 
+            with the current message (this is typically an animated gif image 
+            that shows up to 3 pages depending on the actual message)</span></td>
+        </tr>
+	</table>
+	<hr width="80%" noshade="noshade" />
+	<table width="80%&quot;" border="1" align="center" cellpadding="4" cellspacing="0" class="tablestyle">
+        <tr valign="top"> 
+			<td colspan="2" class="columnstyle1"><font color="#666666"><strong><font face="Verdana, Arial, Helvetica, sans-serif"><span class="style6"><a name="weatherstationsxml" id="weatherstationsxml"></a></span></font><span class="style6"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif">Weather 
+            Station XML Help</font></span></strong></font></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Location</span></td>
+			<td class="columnstyle1"><span class="style4">The latitude and longitude of the weather station</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">DeviceId</span></td>
+			<td class="columnstyle1"><span class="style4">Unique ID for the Device</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">CommonName<br /></span></td>
+			<td class="columnstyle1"><span class="style4">The name of the device. The format is always 
+            3 digit hwy 1 digit direction 3 digit mile-marker space common descriptive 
+            location name. For example: 025E146 GARDEN OF THE GODS</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Status</span></td>
+			<td class="columnstyle1"><span class="style4">Will always be enabled</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EntityId</span></td>
+			<td class="columnstyle1"><span class="style4">An internal ID for the group / division that 
+            owns the sign. For external purposes, please assume that the sign 
+            is owned by CDOT</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RoadName</span></td>
+			<td class="columnstyle1"><span class="style4">The road name that the device is on. There 
+            can be only 1 road name for a given alert</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Direction</span></td>
+			<td class="columnstyle1"><span class="style4">The direction the device faces. The values 
+            could be: North, South, East or West. Can have only 1 value here</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">MileMarker</span></td>
+			<td class="columnstyle1"><span class="style4">The milemarker the device is on</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">LastUpdateDate</span></td>
+			<td class="columnstyle1"><span class="style4">The timestamp and date of when the device was 
+            last updated</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Icon</span></td>
+			<td class="columnstyle1"><span class="style4">An icon representing the device type that 
+            we use on Cotrip</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">WeatherStationId</span></td>
+			<td class="columnstyle1"><span class="style4">The specific device entity id (in our system 
+            we have a relationship between device (generic, all devices) and specific 
+            device type entity tables (weather station in this case). This is 
+            the Weather Station Id that is unique across Weather Stations</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">ConfigurationId</span></td>
+			<td class="columnstyle1"><span class="style4">The Id for this weather station from it's 
+            external system. In CDOT ITS case, the weather stations are part of 
+            an SSI system and this is the primary key in it</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">Manufacturer</span></td>
+			<td class="columnstyle1"><span class="style4">The maker of this weather station. The values 
+            include: SSI and Vaisalla</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">DeviceCollectionDt</span></td>
+			<td class="columnstyle1"><span class="style4">The timestamp and date of when the device collected 
+            the data</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">SystemCollectionDt</span></td>
+			<td class="columnstyle1"><span class="style4">The timestamp and date of when the our system 
+            collected the information from the device</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">WeatherInfo</span></td>
+			<td class="columnstyle1"><span class="style4">For each Weather Station, one weather info 
+            section will provide information about the reading from the environment</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">EssAirTemp</span></td>
+			<td class="columnstyle1"><span class="style4">Air temperature at the site (F)</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">EssRelHumidity</span></td>
+			<td class="columnstyle1"><span class="style4">Percent of moisture in the air. A relative humidity of 0% shows 
+            that the air contains no moisture and 100% shows that the air is completely 
+            saturated and cannot absorb more moisture</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssDewPointTemp</span></td>
+			<td class="columnstyle1"><span class="style4">Temperature at which the air becomes saturated as it cools. If the 
+            road or runway temperature drops to or below the dew point, moisture 
+            may develop on the surface. The form the moisture takes depends on 
+            the surface temperature and the amount of chemical present</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssWetBulbTemp</span></td>
+			<td class="columnstyle1"><span class="style4">The wet bulb temperature is the temperature of a thermometer whose bulb is wrapped in wet muslin. The wetbulb is always in between the temperature and dew point, except at saturation, when all three are equivalent</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssMinTemp</span></td>
+			<td class="columnstyle1"><span class="style4">The minimum temperature recorded during the 24 hours preceding the observation</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssMaxTemp</span></td>
+			<td class="columnstyle1"><span class="style4">The maximum temperature recorded during the 24 hours preceding the observation</span></td>
+        </tr>
+		<tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssAtmosPressure</span></td>
+			<td class="columnstyle1"><span class="style4">The force per unit area exerted by the atmosphere, measured in inches of mercury (inHg).  This reading is not adjusted for site elevation</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssAvgWindSpeed</span></td>
+			<td class="columnstyle1"><span class="style4">Average wind speed measured during an evaluation cycle. The time period over which wind gust speed is monitored can vary based on the type and manufacturer of the RWIS site</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssAvgWindDir</span></td>
+			<td class="columnstyle1"><span class="style4">Average wind direction during an evaluation 
+              cycle. Wind direction can be displayed in two formats: cardinal 
+              points or degrees. Cardinal format has 8 possible headings. Degree 
+              format displays wind direction in values ranging from 1 to 360. 
+              This field will have the actual degree range</span>
+	            <table width="100%" border="1" cellpadding="2" cellspacing="0"  style="border: 1px solid #CCCCCC;">
+	              <tr> 
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif"><strong>Direction</strong></font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif"><strong>Cardinal Format</strong></font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif"><strong>Degree Range</strong></font></td>
+	              </tr>
+	              <tr> 
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">North</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">N</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">338 - 22</font></td>
+	              </tr>
+	              <tr> 
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">Northeast</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">NE</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">23 - 68</font></td>
+	              </tr>
+	              <tr> 
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">East</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">E</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">69 - 112</font></td>
+	              </tr>
+	              <tr> 
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">Southeast</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">SE</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">113 - 158</font></td>
+	              </tr>
+	              <tr> 
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">South</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">S</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">159 - 202</font></td>
+	              </tr>
+	              <tr> 
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">Southwest</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">SW</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">203 - 248</font></td>
+	              </tr>
+	              <tr> 
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">West</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">W</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">249 - 292</font></td>
+	              </tr>
+	              <tr> 
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">Northwest</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">NW</font></td>
+	                <td><font face="Verdana, Arial, Helvetica, sans-serif">293 - 337</font></td>
+	              </tr>
+	            </table>            
+			</td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssMaxWindGustSpeed</span></td>
+			<td class="columnstyle1"><span class="style4">Maximum wind speed measured during an evaluation cycle. The time period over which wind gust speed is monitored can vary based on the type and manufacturer of the RWIS site</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssMaxWindGustDir</span></td>
+			<td class="columnstyle1"><span class="style4">See EssAvgWindDir for details</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssVisibility</span></td>
+			<td class="columnstyle1"><span class="style4">Average distance that you can see, both day and night, computed every three minutes</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssPrecipRate</span></td>
+			<td class="columnstyle1"><span class="style4">Average precipitation rate computed every minute. Snowfall is converted to water equivalent and the rate represents the rate of liquid equivalent</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssPrecipStartDt</span></td>
+			<td class="columnstyle1"><span class="style4">The time at which the most recent precipitation event began</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssPrecipEndDt</span></td>
+			<td class="columnstyle1"><span class="style4">The time at which the most recent precipitation event ended</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">TenMinPrecipAccum</span></td>
+			<td class="columnstyle1"><span class="style4">Rainfall amount or snowfall liquid equivalent for the previous 10 minute period</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssPrecip1Hr</span></td>
+			<td class="columnstyle1"><span class="style4">Rainfall amount or snowfall liquid equivalent for the previous 1 hour period</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssPrecip3Hr</span></td>
+			<td class="columnstyle1"><span class="style4">Rainfall amount or snowfall liquid equivalent for the previous 3 hour period</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssPrecip6Hr</span></td>
+			<td class="columnstyle1"><span class="style4">Rainfall amount or snowfall liquid equivalent for the previous 6 hour period</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssPrecip12Hr</span></td>
+			<td class="columnstyle1"><span class="style4">Rainfall amount or snowfall liquid equivalent for the previous 12 hour period</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssPrecip24Hr</span></td>
+			<td class="columnstyle1"><span class="style4">Rainfall amount or snowfall liquid equivalent for the previous 24 hour period</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">WindDir</span></td>
+			<td class="columnstyle1"><span class="style4">See EssAverageWindDir. This field will have the Cardinal format</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">WindDirIcon</span></td>
+			<td class="columnstyle1"><span class="style4">url for the location of the arrow that Cotrip uses to display the wind direction</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">WindGustDir</span></td>
+			<td class="columnstyle1"><span class="style4">See EssAverageWindDir. This field will have the Cardinal format</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">WindGustDirIcon</span></td>
+			<td class="columnstyle1"><span class="style4">Url for the location of the arrow that Cotrip 
+            uses to display the wind direction</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssVisibilityTxt</span></td>
+			<td class="columnstyle1"><span class="style4">The text value of the EssAverageVisibility 
+            (for example: Clear)</span></td>
+        </tr>
+		<tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RwisPrecipStatus</span></td>
+			<td class="columnstyle1"><span class="style4">Type of precipitation detected by a precipitation 
+              sensor, if one is available. Certain types of precipitation sensors 
+              can only detect the presence or absence of precipitation and will 
+              display Yes or No. Other types of precipitation sensors, such as 
+              the Weather Identifier and Visibility Sensor (WIVIS) or Optical 
+              Weather Identifier (OWI), can classify the type of precipitation 
+              and will report a specific type of precipitation. The WIVIS and 
+              OWI precipitation sensors may report Yes at the onset of precipitation 
+              until sufficient time has elapsed to classify the precipitation 
+              type. The values include: None, Yes, Rain, Snow, Mixed, Upper, Lower, 
+              Both, Light, Light Freezing, Freezing Rain, Sleet, Hail, Lens Dirty, 
+              No Com, Fault, Initialized, Other, Unidentified, Unknown, Frozen, 
+              No Data</span>
+			</td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RwisPrecipIntensity</span></td>
+			<td class="columnstyle1"><span class="style4">Intensity of the precipitation as derived from 
+            the precipitation rate. The National Weather Service defines the following 
+            intensity classes: light, moderate, or heavy. The values include: 
+            None, Reserved, Light, Moderate, Heavy, Reserved, Reserved, Initialized, 
+            Slight, Other, Unknown, No Data </span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">SurfaceSensorData</span></td>
+			<td class="columnstyle1"><span class="style4">It is the most recent RWIS surface data collected by a weather station sensor. 
+          	There can be zero or many sensors for each weather station and hence the corresponding SurfaceSensorData.</span></td>
+        </tr>        
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">WeatherStationSensorId</span></td>
+			<td class="columnstyle1"><span class="style4">It is the system generated unique identifier for each of the 'weather station sensor' collecting RWIS surface data.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">TypeWeatherSensorTxt</span></td>
+			<td class="columnstyle1"><span class="style4">Identifies the type of sensor at the weather station.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">SensorId</span></td>
+			<td class="columnstyle1"><span class="style4">The external system identifier for the weather station sensor.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">SensorName</span></td>
+			<td class="columnstyle1"><span class="style4">Weather station Sensor name.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">DeviceCollectionDt</span></td>
+			<td class="columnstyle1"><span class="style4">Date and time that surface data were last collected by the RWIS weather station sensor.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">RwisSurfaceStatus</span></td>
+			<td class="columnstyle1"><span class="style4">The status of the surface data collected by the RWIS weather station sensor.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssSurfaceTemperature</span></td>
+			<td class="columnstyle1"><span class="style4">Temperature of the pavement sensor roughly 3 mm (1/8 inch) below the surface of the sensor, in degrees Fahrenheit.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssSubSurfaceTemperature</span></td>
+			<td class="columnstyle1"><span class="style4">Temperature approximately 43cm (17 inches) below the top of the pavement, in degrees Fahrenheit.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssSurfaceFreezePoint</span></td>
+			<td class="columnstyle1"><span class="style4">Freezing point of the moisture on the pavement sensor based upon the specific chemical in use, in degrees Fahrenheit.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">ChemicalFactor</span></td>
+			<td class="columnstyle1"><span class="style4">Relative indication of chemical present in the moisture on the surface. Chemical factor uses a relative scale ranging from 5 to 95 in increments of 5.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">ChemicalPercentage</span></td>
+			<td class="columnstyle1"><span class="style4">Percent of chemical saturation in the moisture.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssWaterDepth</span></td>
+			<td class="columnstyle1"><span class="style4">Depth of water layer on the sensor, in inches.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">IcePercentage</span></td>
+			<td class="columnstyle1"><span class="style4">Percent of ice in the moisture.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssSurfaceConductivity</span></td>
+			<td class="columnstyle1"><span class="style4">Conductance of the ice/liquid mixture on the pavement.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssSurfaceSalinity</span></td>
+			<td class="columnstyle1"><span class="style4">Number of grams of dissolved matter per kilogram of seawater, in parts per 100,000.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssSurfaceBlackIce</span></td>
+			<td class="columnstyle1"><span class="style4">NTCIP 1204 value indicating if black ice is detected by the RWIS weather station sensor.</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">EssPvmtSensorError</span></td>
+			<td class="columnstyle1"><span class="style4">NTCIP 1204 classification of the type of error at the RWIS weather station pavement sensor.</span></td>
+        </tr>        
+        <tr valign="top"> 
+			<td class="columnstyle2"><span class="style7">WeatherStation Camera</span></td>
+			<td class="columnstyle1"><span class="style4"> Please refer to the Camera Device Help. The 
+            XML is exactly the same, except the value of the IsWeatherStation 
+            is true. The device type will be still camera (<a href="#camerasxml">click 
+            here </a>)</span></td>
+		</tr>
+	</table>
+	<hr width="80%" noshade="noshade" />
+	<table width="80%&quot;" border="1" align="center" cellpadding="4" cellspacing="0" class="tablestyle">
+        <tr valign="top"> 
+			<td colspan="2" class="columnstyle1"><font color="#666666"><strong><font face="Verdana, Arial, Helvetica, sans-serif"><span class="style6"><a name="speedsegpolylinexml" id="speedsegpolylinexml"></a></span></font><span class="style6"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif">Speed Segment Polylines Help</font></span></strong></font></td>
+        </tr> 
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Id</span></td>
+			<td class="columnstyle1"><span class="style4">Unique ID for the Segment</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Name</span></td>
+			<td class="columnstyle1"><span class="style4">Name that describe the segment's location. The first part of the segment name is the Highway Number (3 digits) Direction (1 digit) and Mile-marker (3 digits and start) of the Segment. The next is the common descriptive name.
+			<br/><br/>Segment's are unique, have only 1 direction and do not overlap</span></td>
+        </tr>     
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Points</span></td>
+			<td class="columnstyle1"><span class="style4">A series of longitude, latitude, and altitude (always 0) points that identify the polyline feature of a speed segment</span></td>
+        </tr>
+	</table>
+	<hr width="80%" noshade="noshade" />
+	<table width="80%&quot;" border="1" align="center" cellpadding="4" cellspacing="0" class="tablestyle">
+        <tr valign="top"> 
+			<td colspan="2" class="columnstyle1"><font color="#666666"><strong><font face="Verdana, Arial, Helvetica, sans-serif"><span class="style6"><a name="speedroupolylinexml" id="speedroupolylinexml"></a></span></font><span class="style6"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif">Speed Route Polylines Help</font></span></strong></font></td>
+        </tr>   
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Id</span></td>
+			<td class="columnstyle1"><span class="style4">Unique ID for the Route</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Name</span></td>
+			<td class="columnstyle1"><span class="style4">Name that describe the routes's location. The first part of the  name is the Highway Number (3 digits) Direction (1 digit) and Mile-marker (3 digits and start) of the route. The next is the common descriptive name.
+			<br/><br/>Routes can cover more than 1 road. But will have a given direction on each road</span></td>
+        </tr>     
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Points</span></td>
+			<td class="columnstyle1"><span class="style4">A series of longitude, latitude, and altitude (always 0) points that identify the polyline feature of a speed route.</span></td>
+        </tr>
+	</table>
+	<hr width="80%" noshade="noshade" />
+	<table width="80%&quot;" border="1" align="center" cellpadding="4" cellspacing="0" class="tablestyle">
+        <tr valign="top"> 
+			<td colspan="2" class="columnstyle1"><font color="#666666"><strong><font face="Verdana, Arial, Helvetica, sans-serif"><span class="style6"><a name="weatherroupolylinexml" id="weatherroupolylinexml"></a></span></font><span class="style6"><font color="#000000" face="Verdana, Arial, Helvetica, sans-serif">Weather Route Polylines Help</font></span></strong></font></td>
+        </tr> 
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Id</span></td>
+			<td class="columnstyle1"><span class="style4">Unique ID for the Weather Route</span></td>
+        </tr>
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Name</span></td>
+			<td class="columnstyle1"><span class="style4">The name of the weather route (descriptive, location)</span></td>
+        </tr>     
+        <tr valign="top"> 
+			<td align="left" class="columnstyle2"><span class="style7">Points</span></td>
+			<td class="columnstyle1"><span class="style4">A series of longitude, latitude, and altitude (always 0) points that identify the polyline feature of a weather route</span></td>
+		</tr>
+	</table>
+	<hr width="80%" noshade="noshade" />
+<p>&nbsp;</p></td></tr>
+</table>
+</body>
+</html>

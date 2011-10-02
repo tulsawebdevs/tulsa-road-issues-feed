@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Houston TranStar Traffic Information for US-290 NORTHWEST</title>
+        <link>http://traffic.houstontranstar.org</link>
+        <description>Houston TranStar Traffic Information for US-290 NORTHWEST</description>
+        <language>en-us</language>
+        <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        <item>
+            <title>No incidents are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Travel Time: US-290 Northwest Eastbound from Barker-Cypress to Beltway 8-West</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 8 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">51975300</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-290 Northwest Eastbound from Barker-Cypress to IH-610 West Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 15 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">52266119</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-290 Northwest Eastbound from Beltway 8-West to IH-610 West Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 8 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">53547036</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-290 Northwest Westbound from IH-610 West Loop to Beltway 8-West</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 6 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">54138078</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-290 Northwest Westbound from IH-610 West Loop to Barker-Cypress</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 16 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">55125063</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-290 Northwest Westbound from Beltway 8-West to Barker-Cypress</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 8 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">56263494</guid>
+        </item>
+        <item>
+            <title>Lane Closure: US-290 NORTHWEST Eastbound Frontage Road from 34TH ST to DACOMA RD </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed continuously until 5:00 AM, Thursday, March 1, 2012 - Lanes Affected: 1 inside lane closed - Status: Active</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6612897529</guid>
+        </item>
+        <item>
+            <title>Lane Closure: US-290 NORTHWEST Eastbound Frontage Road at MANGUM </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed until further notice - Lanes Affected: TOTAL CLOSURE OF U-TURN - Status: Active</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6624026611</guid>
+        </item>
+        <item>
+            <title>Lane Closure: US-290 NORTHWEST Eastbound Frontage Road at LITTLE YORK RD </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed nightly 9:00 PM to 5:00 AM through Monday, October 3 - Lanes Affected: 1 inside lane + the EXIT RAMP TO LITTLE YORK - Status: Inactive</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6761054703</guid>
+        </item>
+        <item>
+            <title>Lane Closure: US-290 NORTHWEST Westbound Frontage Road at 34th STREET and MANGUM </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed until further notice - Lanes Affected: TOTAL CLOSURE OF U-TURNS - Status: Active</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6623813807</guid>
+        </item>
+    </channel>
+</rss>

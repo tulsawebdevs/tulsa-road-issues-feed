@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, for south west</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:06 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, for south west</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:06 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">344246</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.9989708990293&amp;lon=-2.09783572026811</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 northbound between M5 and B4079 | Northbound | Roadworks</title>
+      <description>On the A46 from The M5 towards Coventry between the junctions with the M5 and the A435 Tewkesbury, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:14:39 GMT</pubDate>
+      <reference>P-11-0930-0352</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336572</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.9974232122791&amp;lon=-2.10948455265996</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 northbound between M5 and B4079 | Northbound | Roadworks</title>
+      <description>On the A46 from The M5 towards Coventry between the junctions with the M5 and the A4184, minor delays are possible due to roadworks . Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:14:25 GMT</pubDate>
+      <reference>P-11-0926-0320</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339769</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.1202717543743&amp;lon=-2.03096827237911</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A303 westbound between A36 and A350 | Westbound | Roadworks</title>
+      <description>On the A303 westbound between the junctions with the A36 and the A350, minor delays are possible due to roadworks . Expect disruption until 8:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:13:03 GMT</pubDate>
+      <reference>P-11-0928-0361</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339770</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.1195685722898&amp;lon=-2.03711143344767</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A303 eastbound between A350 and A36 | Eastbound | Roadworks</title>
+      <description>On the A303 eastbound between the junctions with the A350 and the A36, minor delays are possible due to roadworks . Expect disruption until 8:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:58 GMT</pubDate>
+      <reference>P-11-0928-0362</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344251</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.6895181178329&amp;lon=-3.480240301526</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J30 and J31 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J30 and J31, minor delays are possible due to roadworks closing one lane. Expect disruption until 8:00 pm.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:57 GMT</pubDate>
+      <reference>P-11-0925-0019</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344247</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.9991334799202&amp;lon=-2.09693299459343</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 southbound between B4079 and M5 | Southbound | Roadworks</title>
+      <description>On the A46 from Coventry towards The M5 between the junctions with the A435 Evesham South  and the M5, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:23 GMT</pubDate>
+      <reference>P-11-0930-0351</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341318</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.8225492860351&amp;lon=-2.21997902551229</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J11A and J12 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J11A and J12, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:11:57 GMT</pubDate>
+      <reference>P-11-0919-0030</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">319069</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.6895181178329&amp;lon=-3.480240301526</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J30 and J31 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J30 and J31, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:09:56 GMT</pubDate>
+      <reference>P-11-0911-0013</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339870</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7758663775072&amp;lon=-2.1403127336973</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A31 eastbound between A35 and A350 | Eastbound | Roadworks</title>
+      <description>On the A31 eastbound between the junctions with the A35 and the A350, minor delays are possible due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:09:35 GMT</pubDate>
+      <reference>P-11-0928-0245</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">323937</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0197963005115&amp;lon=-3.06124073999864</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 southbound exit | Southbound | Roadworks</title>
+      <description>On the M5 southbound exit slip at junction J25  , minor delays are possible due to roadworks closing one lane. Expect disruption until 7:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:05:30 GMT</pubDate>
+      <reference>P-11-0914-0165</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">323938</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0173468150367&amp;lon=-3.06459213302588</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 northbound exit | Northbound | Roadworks</title>
+      <description>On the M5 northbound exit slip at junction J25  , minor delays are possible due to roadworks closing one lane. Expect disruption until 7:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:05:29 GMT</pubDate>
+      <reference>P-11-0914-0164</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">332516</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7297726708434&amp;lon=-3.45375081588837</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A30 westbound between B3184 and M5 | Westbound | Roadworks</title>
+      <description>On the A30 from Honiton towards Penzance between the junctions with the A375 and the M5, minor delays are possible due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:01:27 GMT</pubDate>
+      <reference>P-11-0922-0133</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">332517</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7293011082125&amp;lon=-3.45838377661194</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A30 eastbound between M5 and B3184 | Eastbound | Roadworks</title>
+      <description>On the A30 from Penzance towards Honiton between the junctions with the M5 and the A375, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:01:24 GMT</pubDate>
+      <reference>P-11-0922-0134</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344299</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0186151151245&amp;lon=-3.06356616938739</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 northbound access | Northbound | Roadworks</title>
+      <description>The M5 northbound entry slip at junction J25 will be closed   due to roadworks,  from 7 pm on 8 October 2011 to 7 am on 10 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:40:42 GMT</pubDate>
+      <reference>P-11-0910-0053</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344298</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0197963005115&amp;lon=-3.06124073999864</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 southbound exit | Southbound | Roadworks</title>
+      <description>The M5 southbound exit slip at junction J25 will be closed   due to roadworks,  from 7 pm on 8 October 2011 to 7 am on 10 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:40:30 GMT</pubDate>
+      <reference>P-11-0910-0054</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327267</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.6895181178329&amp;lon=-3.480240301526</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J30 and J31 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J30 and J31, minor delays can be expected at peak times due to roadworks , between 8:30 am and 8 pm, from 19 September 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 19:01:04 GMT</pubDate>
+      <reference>P-11-0911-0010</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">334591</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0197963005115&amp;lon=-3.06124073999864</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 southbound exit | Southbound | Roadworks</title>
+      <description>The M5 southbound exit slip at junction J25 is closed  , due to roadworks. Road expected to re-open from 7:00 am on 3 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 18:03:14 GMT</pubDate>
+      <reference>P-11-0910-0047</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">342653</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0173468150367&amp;lon=-3.06459213302588</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 northbound exit | Northbound | Roadworks</title>
+      <description>The M5 northbound exit slip at junction J25 is closed  , due to roadworks. Road expected to re-open from 7:00 am on 3 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 18:01:39 GMT</pubDate>
+      <reference>P-11-0930-0203</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327282</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.4081197343967&amp;lon=-4.20319473367522</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A38 westbound between B3413 and B3271 near Plymouth (east) | Westbound | Roadworks</title>
+      <description>On the A38 from Exeter towards Bodmin between the junctions with the A3064 and the A388, there are currently delays of 10 mins due to roadworks . Expect disruption until 12:00 am on 7 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 15:45:19 GMT</pubDate>
+      <reference>P-11-0912-0063</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336153</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7302073778786&amp;lon=-3.46356968551952</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M5 J29 northbound to A30 | Northbound | Roadworks</title>
+      <description>On the M5 northbound exit slip at junction J29  , minor delays can be expected at peak times due to roadworks closing one lane, between 9:30 am and 4:30 pm, from 20 September 2011 to 19 November 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 15:30:09 GMT</pubDate>
+      <reference>P-11-0926-0236</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">311423</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9188477276018&amp;lon=-3.35549592883725</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J27 northbound access | Northbound | Roadworks</title>
+      <description>On the M5 northbound entry slip at junction J27  , minor delays can be expected at peak times due to roadworks , between 6 am and 4 pm, from 6 September 2011 to 11 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 15:00:25 GMT</pubDate>
+      <reference>P-11-0829-0047</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">311421</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9182528381906&amp;lon=-3.35483844246544</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J27 southbound exit | Southbound | Roadworks</title>
+      <description>On the M5 southbound exit slip at junction J27  , minor delays can be expected at peak times due to roadworks , between 6 am and 4 pm, from 6 September 2011 to 11 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 15:00:21 GMT</pubDate>
+      <reference>P-11-0829-0048</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">342237</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7324881818242&amp;lon=-3.98641315782859</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A30 westbound between B3260 near Okehampton (east) and B3260 near Okehampton (west) | Westbound | Roadworks</title>
+      <description>On the A30 from Honiton towards Penzance between the junctions with the A382 and the A386, minor delays can be expected at peak times due to roadworks , between 5:35 am and 2 pm, from 19 September 2011 to 19 November 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 13:00:08 GMT</pubDate>
+      <reference>P-11-0930-0112</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343540</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5212610554346&amp;lon=-2.63148275526</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J18 and J17 | Northbound | Roadworks</title>
+      <description>On the M5 northbound between junctions J18A and J17, expect delays of up to 10 mins at peak times due to roadworks closing two lanes,  from 11:30 pm on 2 October 2011 to 6 am on 3 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 04:23:15 GMT</pubDate>
+      <reference>P-11-1001-0057</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343173</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.560814338617&amp;lon=-2.56079735107406</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 eastbound between J21 and J20 | Eastbound | Roadworks</title>
+      <description>On the M4 eastbound between junctions J22 and J20, expect delays of up to 10 mins at peak times due to roadworks closing two lanes, between 7 pm and 6 am, from 7 October 2011 to 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 19:41:29 GMT</pubDate>
+      <reference>P-11-0930-0021</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">316006</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.8008913159204&amp;lon=-3.16087226622857</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A35 eastbound between A30 and A3052 | Eastbound | Roadworks</title>
+      <description>On the A35 eastbound between the junctions with the A30 and the A3052, there are currently delays of 10 mins due to roadworks . Expect disruption until 3:30 pm on 16 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 19:10:05 GMT</pubDate>
+      <reference>P-11-0908-0156</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336689</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9440311087075&amp;lon=-2.79719518745293</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A303 westbound between A356 and A358 | Westbound | Roadworks</title>
+      <description>The A303 westbound will be closed between the junctions with the A356 and the A358 due to roadworks, between 11:30 pm and 6 am, from 3 October 2011 to 8 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 18:21:01 GMT</pubDate>
+      <reference>P-11-0926-0045</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">316005</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.79998809522&amp;lon=-3.1594592176527</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A35 westbound between A3052 and A30 | Westbound | Roadworks</title>
+      <description>On the A35 westbound between the junctions with the A3052 and the A30, there are currently delays of 10 mins due to roadworks . Expect disruption until 3:30 pm on 16 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 17:00:43 GMT</pubDate>
+      <reference>P-11-0908-0157</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">313182</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9207530875133&amp;lon=-2.99154930417975</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A303 eastbound between A30/A35 and A358 | Eastbound | Roadworks</title>
+      <description>On the A303 eastbound between the junctions with the A30 and the A358, there are currently delays of 10 mins due to roadworks . Expect disruption until 11:59 pm on 7 November 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 16:01:30 GMT</pubDate>
+      <reference>P-11-0906-0130</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">311249</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7270976157636&amp;lon=-4.00551232076537</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A30 eastbound between B3260 near Okehampton (west) and B3260 near Okehampton (east) | Eastbound | Roadworks</title>
+      <description>On the A30 from Penzance towards Honiton between the junctions with the A386 and the A382, minor delays are possible due to roadworks . Expect disruption until 2:00 pm on 18 November 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 15:26:33 GMT</pubDate>
+      <reference>P-11-0829-0167</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">311074</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.4492669556316&amp;lon=-4.46841840085414</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A38 eastbound between B3254 and A390 near Liskeard (east) | Eastbound | Roadworks</title>
+      <description>On the A38 from Bodmin towards Exeter between the junctions with the A390 Liskeard West and the A390 Liskeard East, minor delays are possible due to roadworks . Expect disruption until 4:00 pm on 14 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 15:03:10 GMT</pubDate>
+      <reference>P-11-0824-0156</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341612</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7939661299019&amp;lon=-3.128875640901</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A35 eastbound between A30 and A3052 | Eastbound | Roadworks</title>
+      <description>On the A35 eastbound between the junctions with the A30 and the A3052, minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 4 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 23:01:17 GMT</pubDate>
+      <reference>P-11-0923-0085</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341611</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7939120477363&amp;lon=-3.12888852628444</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A35 westbound between A3052 and A30 | Westbound | Roadworks</title>
+      <description>On the A35 westbound between the junctions with the A3052 and the A30, minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 4 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 23:01:11 GMT</pubDate>
+      <reference>P-11-0923-0086</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341310</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.4106698035717&amp;lon=-4.21384130713782</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A38 westbound between B3271 near Plymouth (east) and B3271 near Plymouth (west) | Westbound | Roadworks</title>
+      <description>The A38 from Exeter towards Bodmin will be closed between the junctions with the A3064 and the A388 due to roadworks, between 8 pm and 6 am, from 6 October 2011 to 9 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:03:55 GMT</pubDate>
+      <reference>P-11-0929-0057</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341303</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.4106975660955&amp;lon=-4.21380037590568</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A38 eastbound between B3271 near Plymouth (west) and B3271 near Plymouth (east) | Eastbound | Roadworks</title>
+      <description>The A38 from Bodmin towards Exeter will be closed between the junctions with the A388 and the A3064 due to roadworks, between 8 pm and 6 am, from 6 October 2011 to 9 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:03:26 GMT</pubDate>
+      <reference>P-11-0929-0018</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341253</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7758395023561&amp;lon=-2.14022755782896</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A31 westbound between A350 and A35 | Westbound | Roadworks</title>
+      <description>The A31 westbound will be closed between the junctions with the A350 and the A35 due to roadworks,  from 10 pm on 4 October 2011 to 6 am on 5 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 18:21:16 GMT</pubDate>
+      <reference>P-11-0929-0316</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341245</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7758663775072&amp;lon=-2.1403127336973</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A31 eastbound between A35 and A350 | Eastbound | Roadworks</title>
+      <description>The A31 eastbound will be closed between the junctions with the A35 and the A350 due to roadworks,  from 10 pm on 4 October 2011 to 6 am on 5 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 18:16:50 GMT</pubDate>
+      <reference>P-11-0929-0309</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339826</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9182528381906&amp;lon=-3.35483844246544</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J27 southbound exit | Southbound | Roadworks</title>
+      <description>The M5 southbound exit slip at junction J27 will be closed   due to roadworks,  from 8 pm on 5 October 2011 to 6 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 19:09:04 GMT</pubDate>
+      <reference>P-11-0928-0080</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336688</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9188477276018&amp;lon=-3.35549592883725</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J27 northbound access | Northbound | Roadworks</title>
+      <description>The M5 northbound entry slip at junction J27 will be closed   due to roadworks, between 8 pm and 6 am, from 4 October 2011 to 5 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 14:46:28 GMT</pubDate>
+      <reference>P-11-0926-0054</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336659</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.1195685722898&amp;lon=-2.03711143344767</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A303 eastbound between A350 and A36 | Eastbound | Roadworks</title>
+      <description>The A303 eastbound will be closed between the junctions with the A350 and the A36 due to carriageway resurfacing, between 8 pm and 8 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:05:12 GMT</pubDate>
+      <reference>P-11-0919-0169</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336654</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.1202717543743&amp;lon=-2.03096827237911</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A303 westbound between A36 and A350 | Westbound | Roadworks</title>
+      <description>The A303 westbound will be closed between the junctions with the A36 and the A350 due to carriageway resurfacing, between 8 pm and 8 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:05:02 GMT</pubDate>
+      <reference>P-11-0919-0175</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336653</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5156886899468&amp;lon=-2.12051476071416</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 J17 eastbound access | Eastbound | Roadworks</title>
+      <description>The M4 eastbound entry slip at junction J17 will be closed   due to carriageway resurfacing, between 8 pm and 6 am, from 3 October 2011 to 8 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:04:55 GMT</pubDate>
+      <reference>P-11-0919-0185</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336651</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5146563856491&amp;lon=-2.11884037955131</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 J17 westbound exit | Westbound | Roadworks</title>
+      <description>The M4 westbound exit slip at junction J17 will be closed   due to carriageway resurfacing, between 8 pm and 6 am, from 3 October 2011 to 8 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:04:29 GMT</pubDate>
+      <reference>P-11-0919-0186</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336317</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7758663775072&amp;lon=-2.1403127336973</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A31 eastbound between A35 and A350 | Eastbound | Roadworks</title>
+      <description>On the A31 eastbound between the junctions with the A35 and the A350, minor delays are possible due to roadworks . Expect disruption until 6:00 am on 18 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 14:24:59 GMT</pubDate>
+      <reference>P-11-0926-0274</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327283</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.4081638675354&amp;lon=-4.20323900463978</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A38 eastbound between B3271 near Plymouth (east) and B3413 | Eastbound | Roadworks</title>
+      <description>On the A38 from Bodmin towards Exeter between the junctions with the A388 and the A3064, there are currently delays of 10 mins due to roadworks . Expect disruption until 12:00 am on 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 11:26:09 GMT</pubDate>
+      <reference>P-11-0912-0064</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">311424</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9179684444477&amp;lon=-3.35609634093818</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound within J27 | Northbound | Roadworks</title>
+      <description>On the M5 northbound at junction J27, there are currently delays of 10 mins due to roadworks . Expect disruption until 4:00 pm on 11 October 2011.</description>
+      <pubDate>Sun, 25 Sep 2011 13:49:38 GMT</pubDate>
+      <reference>P-11-0829-0044</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">311422</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9181089088222&amp;lon=-3.35561672209521</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound within J27 | Southbound | Roadworks</title>
+      <description>On the M5 southbound at junction J27, there are currently delays of 10 mins due to roadworks . Expect disruption until 4:00 pm on 11 October 2011.</description>
+      <pubDate>Sun, 25 Sep 2011 13:06:58 GMT</pubDate>
+      <reference>P-11-0829-0045</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">313185</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9244285246542&amp;lon=-2.96066712660523</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A303 westbound between A358 and A30/A35 | Westbound | Roadworks</title>
+      <description>On the A303 westbound between the junctions with the A358 and the A30, there are currently delays of 10 mins due to roadworks . Expect disruption until 11:59 pm on 7 November 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:55 GMT</pubDate>
+      <reference>P-11-0906-0133</reference>
+    </item>
+  </channel>
+</rss>

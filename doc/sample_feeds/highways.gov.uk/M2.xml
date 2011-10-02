@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, on the M2</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:09 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, on the M2</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:09 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">341322</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.2981740277966&amp;lon=0.90692263341584</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M2 westbound between J7 and J6 | Westbound | Roadworks</title>
+      <description>On the M2 westbound between junctions J7 and J6, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:31:22 GMT</pubDate>
+      <reference>P-11-0922-0008</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">332251</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3283135098366&amp;lon=0.6662701038183</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M2 westbound within J5 | Westbound | Roadworks</title>
+      <description>On the M2 westbound at junction J5, there are currently delays of 10 mins due to roadworks closing two lanes. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:31:20 GMT</pubDate>
+      <reference>P-11-0922-0004</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341321</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3935356150325&amp;lon=0.456997121780981</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M2 eastbound between J1 and J2 | Eastbound | Roadworks</title>
+      <description>On the M2 eastbound between junctions J1 and J2, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:09 GMT</pubDate>
+      <reference>P-11-0922-0006</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340879</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3377175478573&amp;lon=0.506848620410921</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M2 J3 westbound access | Westbound | Roadworks</title>
+      <description>The M2 westbound entry slip at junction J3 will be closed   due to roadworks,  from 8 pm on 5 October 2011 to 6 am on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 14:38:48 GMT</pubDate>
+      <reference>P-11-0929-0203</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340878</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3330743779526&amp;lon=0.511160729660895</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M2 J3 westbound exit | Westbound | Roadworks</title>
+      <description>The M2 westbound exit slip at junction J3 will be closed   due to roadworks,  from 8 pm on 5 October 2011 to 6 am on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 14:38:36 GMT</pubDate>
+      <reference>P-11-0929-0201</reference>
+    </item>
+  </channel>
+</rss>

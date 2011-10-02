@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<head runat="server">
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+    <meta name="keywords" content="Houston, traffic, freeway, datafeed, rss, xml, incidents, lane closures, travel times, trip times" />
+    <meta name="description" content="Houston TranStar Traffic Map" />
+    <title>Houston TranStar RSS Feeds</title>
+    <link href="/styles/template1_style_sheet.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+        }
+    </style>
+</head>
+<body>
+    <div style="width: 1000px; height: 52px; background-color: #000000; position: relative;">
+  <span>
+    <a id="tsisLink">
+      <img src="/images/topnav2_negative_gradient.gif" width="198" height="48" border="0" alt="" />
+    </a>
+  </span>
+  <span>
+    <img style="position: absolute; border: 0; top: 8px; right: 0px;" src="/images/transtar_logo_text_negative_16.gif" height="38" width="395" alt="The Greater Houston Transportation and Emergency Management Center" usemap="#transtar_agencies" />
+    <map id="transtar_agencies_map" name="transtar_agencies">
+      <area shape="rect" coords="238,0,334,17" href="http://www.houstontx.gov/" alt="City of Houston" title="" />
+      <area shape="rect" coords="238,17,334,33" href="http://www.co.harris.tx.us/" alt="Harris County" title="" />
+      <area shape="rect" coords="335,0,394,17" href="http://www.ridemetro.org/" alt="METRO" title="" />
+      <area shape="rect" coords="335,17,394,33" href="http://www.dot.state.tx.us/" alt="Texas Department of Transportation" title="" />
+      <area shape="default" nohref="nohref" alt="" />
+    </map>
+  </span>
+</div>
+<div style="width: 1000px; background: url(/images/blue-gradient-30x1.gif) left top repeat-x; position: relative; padding: 4px 0px 4px 0px;" class="topmenu">
+  <span style="padding: 0px 8px 0px 8px;">
+    <a href="http://www.houstontranstar.org">Home</a>
+  </span>
+  |
+  <span style="padding: 0px 8px 0px 8px;">
+    <a href="http://www.houstontranstar.org/contact/">Contact Us</a>
+  </span>
+  |
+  <span style="padding: 0px 8px 0px 8px;">
+    <a href="http://www.houstontranstar.org/about_transtar/">About Houston TranStar</a>
+  </span>
+  <span style="padding: 0px 8px 0px 120px;">
+    <img src="/images/hurricane_icon_small_trans.gif" border="0" width="12" height="14" style="vertical-align:text-top">
+    <i><a href="http://traffic.houstontranstar.org/weather/hurricane_season.html">Hurricane Information</a></i>
+  </span>
+  |
+  <span style="padding: 0px 8px 0px 8px;">
+    <i><a href="http://traffic.houstontranstar.org/bluetooth/transtar_bluetooth.html">Bluetooth&#0153; Traffic Data</a></i>
+  </span>
+  <span style="position: absolute; right: 0px;">
+    <span style="padding: 0px 8px 0px 8px;">
+      <a href="http://houstontranstar.newsrouter.com">News Room</a>
+    </span>
+    |
+    <span style="padding: 0px 8px 0px 8px;">
+      <a href="http://www.houstontranstar.org/tours/">Tours</a>
+    </span>
+  </span>
+</div>
+
+    <table width="1000" cellpadding="2" cellspacing="0">
+        <tr>
+            <td class="pagetext" valign="top" style="width: 168px;">
+                <script type="text/javascript" src="/controls/ts_traffic_sidebar2.js"></script>
+            </td>
+            <td valign="top" class="pagetext">
+            <h2 style="margin-top: 10px;">Houston TranStar RSS Feeds</h2>
+            <p>
+            In addition to the information offered on the website, Houston TranStar publishes traffic
+            information using RSS feeds. By subscribing to the feeds, you can automatically receive the latest traffic 
+            information in your web browser or feed reader software without actually having to visit the website directly.
+            <a href="http://www.usa.gov/Topics/Reference_Shelf/Libraries/RSS_Library/What_Is_RSS.shtml">More Information on RSS</a>
+            </p>
+            <div style="border: 1px solid #cccccc; background-color: #eeeeee; padding: 5px;">
+            <h4 style="margin: 0px;">How to read RSS feeds</h4><br />
+            Some browsers, such as the latest versions of Internet Explorer, Firefox, Opera, and Safari, have RSS readers built in. If you're using a browser that doesn't currently support RSS, 
+            there are a variety of <a href="http://www.google.com/Top/Computers/Software/Internet/Clients/WWW/Feed_Readers/">RSS readers available online</a>. In addition, search engines such as <a href=http://www.google.com/ig>Google</a> and <a href="http://my.yahoo.com/">Yahoo!</a> allow
+            you to add RSS feed information to your personalized home page. You can also subscribe to RSS feeds on your mobile device using the appropriate software.
+            </div>
+            <h4>Traffic Information RSS Feeds</h4>
+            Houston TranStar offers RSS feeds for all reported incidents, lane closures, and travel times. 
+            In addition, there are custom feeds available for specified roadways that contain a combination of all three items. This allows you to view only traffic information
+            that is important to you. Each feed is typically updated every three minutes. Note that as the feeds are developed and new information is added, the format and content of each feed is subject to change without notice.
+            A link to each feed is listed below.
+            <p>
+            <div>
+                <div style="float: left;">
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/incidents_rss.xml">Incidents (All Monitored Roads)</a><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/laneclosures_rss.xml">Lane Closures (All Monitored Roads)</a><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traveltimes_rss.xml">Freeway Travel Times (All Monitored Roads)</a><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traffic_rss_ih-45_north.xml">IH-45 North Information</a><img src="/images/i-45_svg_small.gif" width="20" height="20" style="padding: 5px; vertical-align: middle; alt="IH-45" /><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traffic_rss_ih-45_gulf.xml">IH-45 Gulf Information</a><img src="/images/i-45_svg_small.gif" width="20" height="20" style="padding: 5px; vertical-align: middle; alt="IH-45" /><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traffic_rss_ih-10_katy.xml">IH-10 Katy Information</a><img src="/images/i-10_svg_small.gif" width="20" height="20" style="padding: 5px; vertical-align: middle; alt="IH-10" /><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traffic_rss_ih-10_east.xml">IH-10 East Information</a><img src="/images/i-10_svg_small.gif" width="20" height="20" style="padding: 5px; vertical-align: middle; alt="IH-10" /><br />
+                </div>
+                <div style="float: right; margin-right: 150px;">
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traffic_rss_us-59_southwest.xml">US-59 Southwest Information</a><img src="/images/us-59_svg_small.gif" width="20" height="20" style="border: solid 1px black; margin: 5px; padding: 0px; vertical-align: middle; alt="US-59" /><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traffic_rss_us-59_eastex.xml">US-59 Eastex Information</a><img src="/images/us-59_svg_small.gif" width="20" height="20" style="border: solid 1px black; margin: 5px; padding: 0px; vertical-align: middle; alt="US-59" /><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traffic_rss_us-290_northwest.xml">US-290 Northwest Information</a><img src="/images/us-290_svg_small.gif" width="20" height="20" style="border: solid 1px black; margin: 5px; padding: 0px; vertical-align: middle; alt="US-290" /><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traffic_rss_sh-288.xml">SH-288 Information</a><img src="/images/sh-288_svg_small.gif" width="20" height="20" style="border: solid 1px black; margin: 5px; padding: 0px; vertical-align: middle; alt="SH-288" /><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traffic_rss_sh-249.xml">SH-249 Information</a><img src="/images/sh-249_svg_small.gif" width="20" height="20" style="border: solid 1px black; margin: 5px; padding: 0px; vertical-align: middle; alt="SH-249" /><br />
+            <img src="/images/rss-logo.gif" width="44" height="17" alt="RSS Logo" style="padding: 5px; vertical-align: middle;"/><a href="/data/rss/traffic_rss_sh-225.xml">SH-225 Information</a><img src="/images/sh-225_svg_small.gif" width="20" height="20" style="border: solid 1px black; margin: 5px; padding: 0px; vertical-align: middle; alt="SH-225" /><br />
+                </div>
+            </div>
+            </p>
+            </td>
+        </tr>
+    </table>
+    
+    <script type="text/javascript" src="/controls/footer.js"></script>
+        
+</body>
+</html>

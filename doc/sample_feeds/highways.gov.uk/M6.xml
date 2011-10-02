@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, on the M6</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:14 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, on the M6</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:14 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">344280</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7791920826638&amp;lon=-2.64727152888483</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M6 southbound between J31A and J31 | Southbound | Roadworks</title>
+      <description>On the M6 southbound between junctions J31A and J30, minor delays are possible due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:32:21 GMT</pubDate>
+      <reference>P-11-0930-0320</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">295914</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.8272696270982&amp;lon=-2.8891867951737</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M6 southbound between J42 and J41 | Southbound | Roadworks</title>
+      <description>On the M6 southbound between junctions J42 and J41, minor delays are possible due to barrier repairs closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:03:56 GMT</pubDate>
+      <reference>P-11-0820-0025</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344325</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.5603079861758&amp;lon=-2.70154884189865</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M6 southbound between J27 and J26 | Southbound | Roadworks</title>
+      <description>On the M6 southbound between junctions J27 and J26, expect delays of up to 10 mins at peak times due to roadworks ,  from 10 pm on 8 October 2011 to 5 am on 9 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 21:08:21 GMT</pubDate>
+      <reference>P-11-1001-0030</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343308</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7145447475754&amp;lon=-2.66282426954663</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M6 J29 southbound access | Southbound | Roadworks</title>
+      <description>The M6 southbound entry slip at junction J29 will be closed   due to roadworks, between 10 pm and 5 am, from 7 October 2011 to 8 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 21:04:24 GMT</pubDate>
+      <reference>P-11-0930-0024</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340717</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.8960837174097&amp;lon=-2.88758412272095</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>sports event</category>
+      <title>M6 J43 northbound access | Northbound | Sports Event</title>
+      <description>On the M6 northbound entry slip at junction J43  , expect delays of up to 10 mins at peak times due to a sports event ,  from 12 pm on 2 October 2011 to 4 pm on 2 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 12:36:40 GMT</pubDate>
+      <reference>P-11-0929-0185</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340716</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.894720130839&amp;lon=-2.8860261064324</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>sports event</category>
+      <title>M6 J43 southbound access | Southbound | Sports Event</title>
+      <description>On the M6 southbound entry slip at junction J43  , expect delays of up to 10 mins at peak times due to a sports event ,  from 12 pm on 2 October 2011 to 4 pm on 2 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 12:36:30 GMT</pubDate>
+      <reference>P-11-0929-0183</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340665</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.8936619180872&amp;lon=-2.88695396136691</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>sports event</category>
+      <title>M6 J43 northbound exit | Northbound | Sports Event</title>
+      <description>On the M6 northbound exit slip at junction J43  , expect delays of up to 10 mins at peak times due to a sports event ,  from 8 am on 2 October 2011 to 12 pm on 2 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 11:31:57 GMT</pubDate>
+      <reference>P-11-0929-0154</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340664</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.8976720632628&amp;lon=-2.8866678795166</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>sports event</category>
+      <title>M6 J43 southbound exit | Southbound | Sports Event</title>
+      <description>On the M6 southbound exit slip at junction J43  , expect delays of up to 10 mins at peak times due to a sports event ,  from 8 am on 2 October 2011 to 12 pm on 2 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 11:31:45 GMT</pubDate>
+      <reference>P-11-0929-0159</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340633</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6109711624128&amp;lon=-2.68689585115924</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M6 southbound between J28 and J27 | Southbound | Roadworks</title>
+      <description>On the M6 southbound between junctions J28 and J27, expect delays of up to 10 mins at peak times due to barrier repairs closing two lanes, between 10 pm and 5 am, from 3 October 2011 to 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 11:04:47 GMT</pubDate>
+      <reference>P-11-0929-0144</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339388</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4578582583491&amp;lon=-2.60589607986852</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M6 southbound between J23 and J22 | Southbound | Roadworks</title>
+      <description>On the M6 southbound between junctions J23 and J21A, expect delays of up to 20 mins at peak times due to roadworks ,  from 12:01 am on 3 October 2011 to 11:59 pm on 25 November 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 14:07:34 GMT</pubDate>
+      <reference>P-11-0928-0262</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339385</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4353629977312&amp;lon=-2.57431195058834</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M6 northbound between J21A and J22 | Northbound | Roadworks</title>
+      <description>On the M6 northbound between junctions J21A and J23, expect delays of up to 20 mins at peak times due to roadworks ,  from 12:01 am on 3 October 2011 to 11:59 pm on 25 November 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 14:07:24 GMT</pubDate>
+      <reference>P-11-0928-0259</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">338415</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5087448212158&amp;lon=-1.7938905806649</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M6 J5 northbound exit | Northbound | Roadworks</title>
+      <description>The M6 northbound exit slip at junction J5 will be closed   due to carriageway resurfacing, between 10 pm and 5 am, from 4 October 2011 to 12 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 21:02:42 GMT</pubDate>
+      <reference>P-11-0927-0208</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">239132</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4063270146518&amp;lon=-1.2154634671798</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M6 southbound between J1 and M1/A14 | Southbound | Roadworks</title>
+      <description>On the M6 southbound between junction J1 and the M1, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 13 April 2013.</description>
+      <pubDate>Sun, 25 Sep 2011 20:48:14 GMT</pubDate>
+      <reference>P-11-0630-0029</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">295915</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.8269891431732&amp;lon=-2.88944525098349</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M6 northbound between J41 and J42 | Northbound | Roadworks</title>
+      <description>On the M6 northbound between junctions J41 and J42, minor delays are possible due to barrier repairs closing one lane. Expect disruption until 6:00 am on 30 October 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:49 GMT</pubDate>
+      <reference>P-11-0820-0024</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">238691</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4061250574032&amp;lon=-1.21483495562696</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M6 northbound between M1/A14 and J1 | Northbound | Roadworks</title>
+      <description>On the M6 northbound between the M1 and junction J1, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 13 April 2013.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:00 GMT</pubDate>
+      <reference>P-11-0629-0239</reference>
+    </item>
+  </channel>
+</rss>

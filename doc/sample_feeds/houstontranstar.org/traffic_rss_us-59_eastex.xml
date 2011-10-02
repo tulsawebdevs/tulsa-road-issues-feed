@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Houston TranStar Traffic Information for US-59 EASTEX</title>
+        <link>http://traffic.houstontranstar.org</link>
+        <description>Houston TranStar Traffic Information for US-59 EASTEX</description>
+        <language>en-us</language>
+        <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        <item>
+            <title>No incidents are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Travel Time: US-59 Eastex Northbound from Downtown to IH-610 North Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 5 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">37828042</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-59 Eastex Northbound from Downtown to Beltway 8-North</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 14 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">38627270</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-59 Eastex Northbound from IH-610 North Loop to Beltway 8-North</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 9 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">39983373</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-59 Eastex Northbound from IH-610 North Loop to Townsen</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 14 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">40319557</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-59 Eastex Southbound from Townsen to IH-610 North Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 14 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">33820120</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-59 Eastex Southbound from Beltway 8-North to IH-610 North Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 9 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">34361114</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-59 Eastex Southbound from Beltway 8-North to Downtown</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 13 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">35759573</guid>
+        </item>
+        <item>
+            <title>Travel Time: US-59 Eastex Southbound from IH-610 North Loop to Downtown</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 5 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">36264679</guid>
+        </item>
+        <item>
+            <title>Lane Closure: US-59 EASTEX Southbound from LYONS AVE to CAVALCADE ST </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed nightly 9:00 PM to 5:00 AM from Friday, September 30 to Sunday, October 2 - Lanes Affected: 1 inside lane - Status: Inactive</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6773082803</guid>
+        </item>
+    </channel>
+</rss>

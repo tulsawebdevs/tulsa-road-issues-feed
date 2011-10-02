@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, for north east</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:02 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, for north east</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:02 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">343571</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7843402234944&amp;lon=-1.5454299399163</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M621 eastbound within J3 after J4 exit | Eastbound | Roadworks</title>
+      <description>On the M621 eastbound at junction J3, minor delays are possible due to roadworks . Expect disruption until 10:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:30:39 GMT</pubDate>
+      <reference>P-11-0928-0215</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">313630</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6836931804829&amp;lon=-0.970881909849162</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M62 J35 eastbound to M18 J7 southbound | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound exit slip at junction J35  , minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:21:19 GMT</pubDate>
+      <reference>P-11-0829-0109</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344346</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6836931804829&amp;lon=-0.970881909849162</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M62 J35 eastbound to M18 J7 southbound | Eastbound | Roadworks</title>
+      <description>The M62 eastbound exit slip at junction J35 is closed  , due to roadworks. Road expected to re-open from 3:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:21:18 GMT</pubDate>
+      <reference>P-11-1001-0167</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">313629</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6832374538546&amp;lon=-0.967016869284323</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M62 J35 westbound to M18 J7 southbound | Westbound | Roadworks</title>
+      <description>On the M62 westbound exit slip at junction J35  , minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:13:26 GMT</pubDate>
+      <reference>P-11-0829-0108</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">334621</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.733325546624&amp;lon=-1.6124960746459</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J27 and J28 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J27 and J28, there are currently delays of 10 mins due to roadworks closing two lanes. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:53 GMT</pubDate>
+      <reference>P-11-0922-0101</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">138606</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7046481600111&amp;lon=-1.27898000410621</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J32A and J33 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J32A and J33, minor delays are possible due to roadworks closing two lanes. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:37 GMT</pubDate>
+      <reference>P-11-0325-0065</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343123</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7819655703002&amp;lon=-1.55940245648745</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M621 eastbound between J2 and J2A | Eastbound | Roadworks</title>
+      <description>On the M621 eastbound between junctions J2 and J3, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:28 GMT</pubDate>
+      <reference>P-11-0618-0069</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343124</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7837246111974&amp;lon=-1.55382934355831</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M621 westbound between J3 and J2A | Westbound | Roadworks</title>
+      <description>On the M621 westbound between junctions J3 and J2, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:21 GMT</pubDate>
+      <reference>P-11-0618-0048</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">317598</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7837246111974&amp;lon=-1.55382934355831</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M621 westbound between J3 and J2A | Westbound | Roadworks</title>
+      <description>On the M621 westbound between junctions J3 and J2, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:16 GMT</pubDate>
+      <reference>P-11-0618-0046</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336650</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.9068421636109&amp;lon=-1.56951510274301</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 northbound between A1(M)/A194(M) and A167 near Washington Birtley | Northbound | Roadworks</title>
+      <description>On the A1 northbound between the junctions with the A194(M) and the A167 Washington Birtley , minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:12 GMT</pubDate>
+      <reference>P-11-0919-0018</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">326319</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.967149860399&amp;lon=-1.69807595136355</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 southbound between A191 and A694/A69 | Southbound | Roadworks</title>
+      <description>The A1 southbound is closed between the junctions with the A191 and the A694, due to roadworks. Road expected to re-open from 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:11:50 GMT</pubDate>
+      <reference>P-11-0917-0027</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">312267</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.1154402401694&amp;lon=-1.41391271532017</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1(M) northbound between J48 and J49 | Northbound | Roadworks</title>
+      <description>On the A1(M) northbound between junctions J48 and J49, minor delays are possible due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:11:34 GMT</pubDate>
+      <reference>P-11-0829-0099</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">329503</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.9434353094332&amp;lon=-1.49275815014699</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A184 westbound between A19 and A194(M) | Westbound | Roadworks</title>
+      <description>The A184 westbound is closed between the junctions with the A19 and the A194(M), due to roadworks. Road expected to re-open from 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:11:27 GMT</pubDate>
+      <reference>P-11-0912-0141</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">329444</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.1221594628083&amp;lon=-1.41319064056161</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1(M) southbound between J49 and J48 | Southbound | Roadworks</title>
+      <description>On the A1(M) southbound between junctions J49 and J48, minor delays are possible due to carriageway resurfacing . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:00:11 GMT</pubDate>
+      <reference>P-11-0914-0152</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">333746</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7634599236515&amp;lon=-0.632940493300529</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A63 westbound between A1034 and M62/B1230 | Westbound | Roadworks</title>
+      <description>The A63 from Hull towards The M62 is closed between the junctions with the A1034 and the M62, due to roadworks. Road expected to re-open from 6:00 am on 3 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 19:49:41 GMT</pubDate>
+      <reference>P-11-0923-0078</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">320595</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6496426739329&amp;lon=-0.965462716780708</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M18 northbound between J6 and J7 | Northbound | Roadworks</title>
+      <description>On the M18 northbound between junctions J6 and J7, minor delays can be expected at peak times due to roadworks closing one lane, between 6 am and 7 pm, from 13 September 2011 to 5 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 18:00:31 GMT</pubDate>
+      <reference>P-11-0902-0124</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">162112</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.5094215702902&amp;lon=-1.71236956324747</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A628 westbound between A616 and A57 | Westbound | Roadworks</title>
+      <description>On the A628 westbound between the junctions with the A616 and the A57, minor delays can be expected at peak times due to roadworks , between 9:30 am and 3:30 pm, from 29 November 2010 to 31 March 2012.</description>
+      <pubDate>Sat, 01 Oct 2011 14:35:15 GMT</pubDate>
+      <reference>P-11-0415-0099</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">162113</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4960867728255&amp;lon=-1.84613387133582</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A628 eastbound between A57 and A616 | Eastbound | Roadworks</title>
+      <description>On the A628 eastbound between the junctions with the A57 and the A616, minor delays can be expected at peak times due to roadworks , between 9:30 am and 3:30 pm, from 29 November 2010 to 31 March 2012.</description>
+      <pubDate>Sat, 01 Oct 2011 14:30:59 GMT</pubDate>
+      <reference>P-11-0415-0100</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">83742</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6825378248481&amp;lon=-1.06918956484809</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J34 and J35 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J34 and J35, minor delays can be expected at peak times due to roadworks closing one lane, between 9:30 am and 3 pm, from 3 February 2011 to 22 November 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 14:00:55 GMT</pubDate>
+      <reference>P-11-0202-0411</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">334948</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.9739030423843&amp;lon=-1.47673649670305</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A19 northbound between A194 and A185 | Northbound | Roadworks</title>
+      <description>On the A19 northbound between the junctions with the A194 and the A185, minor delays can be expected at peak times due to roadworks , between 9:30 am and 3 pm, from 25 September 2011 to 8 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 14:00:49 GMT</pubDate>
+      <reference>P-11-0923-0157</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">109705</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.5013593304449&amp;lon=-1.69089604210405</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A616 eastbound between A628 and A6102 | Eastbound | Roadworks</title>
+      <description>On the A616 eastbound between the junctions with the A628 and the A6102, minor delays can be expected at peak times due to roadworks , between 9:30 am and 12 pm, from 28 February 2011 to 31 March 2012.</description>
+      <pubDate>Sat, 01 Oct 2011 11:00:49 GMT</pubDate>
+      <reference>P-11-0217-0206</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339322</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7834844792938&amp;lon=-1.5425707899806</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M621 J4 eastbound exit | Eastbound | Roadworks</title>
+      <description>The M621 eastbound exit slip at junction J4 will be closed   due to roadworks, between 6 am and 10 am, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 09:00:05 GMT</pubDate>
+      <reference>P-11-0928-0214</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">157134</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.1654518704967&amp;lon=-1.4491995641645</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 northbound between A1(M)/A168 and A61 | Northbound | Roadworks</title>
+      <description>On the A1 northbound between the junctions with the A168 and the A6136 Catterick South , there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 31 March 2012.</description>
+      <pubDate>Sat, 01 Oct 2011 04:15:10 GMT</pubDate>
+      <reference>P-11-0411-0252</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">963</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.1654518704967&amp;lon=-1.4491995641645</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 northbound between A1(M)/A168 and A61 | Northbound | Roadworks</title>
+      <description>On the A1 northbound between the junctions with the A168 and the A61, there are currently delays of 10 mins due to roadworks . Expect disruption until 11:59 pm on 31 March 2012.</description>
+      <pubDate>Sat, 01 Oct 2011 04:11:55 GMT</pubDate>
+      <reference>P-10-0707-0123</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">107072</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.2069839434683&amp;lon=-1.47558504090098</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 northbound between A61 and B6267 | Northbound | Roadworks</title>
+      <description>On the A1 northbound between the junctions with the A61 and the A684, there are currently delays of 10 mins due to roadworks . Expect disruption until 11:59 pm on 31 March 2012.</description>
+      <pubDate>Sat, 01 Oct 2011 04:11:55 GMT</pubDate>
+      <reference>P-09-1224-0190</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343171</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7634599236515&amp;lon=-0.632940493300529</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A63 westbound between A1034 and M62/B1230 | Westbound | Roadworks</title>
+      <description>The A63 from Hull towards The M62 will be closed between the junctions with the A1034 and the M62 due to roadworks, between 8 pm and 6 am, from 7 October 2011 to 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 19:41:07 GMT</pubDate>
+      <reference>P-11-0923-0079</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343168</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6020900555378&amp;lon=-0.343906280370565</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A180 westbound between A160 and M180/A15 | Westbound | Roadworks</title>
+      <description>The A180 westbound will be closed between the junctions with the A160 and the M180 due to roadworks,  from 8 pm on 7 October 2011 to 8 pm on 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 19:40:26 GMT</pubDate>
+      <reference>P-11-0930-0063</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343167</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.1864215169647&amp;lon=-0.487059065459555</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A64 northbound between B1248 near Norton-on-Derwent (east) and B1249 | Northbound | Roadworks</title>
+      <description>On the A64 northbound between the junctions with the A169  and the A1039, expect delays of up to 10 mins at peak times due to roadworks , between 8 pm and 6 am, from 7 October 2011 to 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 19:40:17 GMT</pubDate>
+      <reference>P-11-0930-0067</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343166</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.1864215169647&amp;lon=-0.487059065459555</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A64 northbound between B1248 near Norton-on-Derwent (east) and B1249 | Northbound | Roadworks</title>
+      <description>On the A64 northbound between the junctions with the A169  and the A1039, expect delays of up to 10 mins at peak times due to roadworks ,  from 8 pm on 7 October 2011 to 6 am on 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 19:40:07 GMT</pubDate>
+      <reference>P-11-0930-0068</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">342605</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=55.6240723668871&amp;lon=-1.84967241671966</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 southbound between A1167 and B1340 | Southbound | Roadworks</title>
+      <description>On the A1 southbound between the junctions with the A1167 and the A1068, minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 5 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 14:29:07 GMT</pubDate>
+      <reference>P-11-0930-0185</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">342603</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=55.6233339416783&amp;lon=-1.84834137131446</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 northbound between B1340 and A1167 | Northbound | Roadworks</title>
+      <description>On the A1 northbound between the junctions with the A1068 and the A1167, minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 5 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 14:28:19 GMT</pubDate>
+      <reference>P-11-0930-0184</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341323</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.9245978057448&amp;lon=-1.37888375325582</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A1(M) northbound between J45 and J46 | Northbound | Roadworks</title>
+      <description>On the A1(M) northbound between junctions J45 and J46, expect delays of up to 15 mins at peak times due to carriageway resurfacing , between 8 pm and 6 am, from 6 October 2011 to 8 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:04:23 GMT</pubDate>
+      <reference>P-11-0929-0064</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">316962</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7233675671082&amp;lon=-1.73917696286387</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J25 and J26 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J25 and J26, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 24 March 2013.</description>
+      <pubDate>Thu, 29 Sep 2011 12:21:06 GMT</pubDate>
+      <reference>P-11-0909-0109</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340205</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.733325546624&amp;lon=-1.6124960746459</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J27 and J28 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J27 and J28, minor delays are possible due to roadworks . Expect disruption until 6:00 am on 21 January 2013.</description>
+      <pubDate>Thu, 29 Sep 2011 05:07:41 GMT</pubDate>
+      <reference>P-11-0922-0095</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">14290</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.5052037989187&amp;lon=-1.54820249888198</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A66 eastbound between A67 near Darlington (south) and A67 near Darlington (east) | Eastbound | Roadworks</title>
+      <description>On the A66 eastbound between the junctions with the A167 and the A67, there are currently delays of 10 mins due to roadworks . Expect disruption until 11:59 pm on 21 October 2012.</description>
+      <pubDate>Wed, 28 Sep 2011 21:16:08 GMT</pubDate>
+      <reference>P-10-1128-0004</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339828</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.9661436906009&amp;lon=-1.69819282485299</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 northbound between A694/A69 and A191 | Northbound | Roadworks</title>
+      <description>The A1 northbound will be closed between the junctions with the A694 and the A191 due to roadworks, between 8 pm and 6 am, from 5 October 2011 to 17 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 19:09:20 GMT</pubDate>
+      <reference>P-11-0917-0028</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339825</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.9246580390121&amp;lon=-1.37836510827394</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1(M) southbound between J46 and J45 | Southbound | Roadworks</title>
+      <description>On the A1(M) southbound between junctions J46 and J45, expect delays of up to 10 mins at peak times due to carriageway resurfacing closing two lanes,  from 8 pm on 5 October 2011 to 6 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 19:08:55 GMT</pubDate>
+      <reference>P-11-0928-0081</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">300038</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=55.0608249613691&amp;lon=-1.56786529557038</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A19 northbound between A1056 and A189 | Northbound | Roadworks</title>
+      <description>The A19 northbound will be closed between the junctions with the A1056 and the A189 due to roadworks,  from 11:30 pm on 15 November 2011 to 5:30 am on 16 November 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 17:56:44 GMT</pubDate>
+      <reference>P-11-0818-0185</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">310169</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.9183936492692&amp;lon=-1.5996260698693</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A1 northbound between A167 near Washington Birtley and A692 | Northbound | Roadworks</title>
+      <description>The A1 northbound will be closed between the junctions with the A167 Washington Birtley  and the A692 due to roadworks,  from 9 pm on 16 November 2011 to 5:30 am on 17 November 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 17:48:03 GMT</pubDate>
+      <reference>P-11-0903-0104</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339386</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.6710007301321&amp;lon=-1.83404038166687</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 J24 westbound access | Westbound | Roadworks</title>
+      <description>The M62 westbound entry slip at junction J24 will be closed   due to roadworks,  from 8 pm on 3 October 2011 to 6 am on 4 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 14:05:26 GMT</pubDate>
+      <reference>P-11-0928-0261</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">338184</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.1221594628083&amp;lon=-1.41319064056161</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1(M) southbound between J49 and J48 | Southbound | Roadworks</title>
+      <description>The A1(M) southbound will be closed between junctions J49 and J48 due to roadworks,  from 7 pm on 4 October 2011 to 6 am on 5 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 18:12:11 GMT</pubDate>
+      <reference>P-11-0916-0054</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">329247</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.0436809533341&amp;lon=-1.38653275180966</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1(M) northbound between J47 and J48 | Northbound | Roadworks</title>
+      <description>On the A1(M) northbound between junctions J47 and J48, expect delays of up to 10 mins at peak times due to roadworks , between 9 pm and 6 am, from 4 October 2011 to 5 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 11:47:01 GMT</pubDate>
+      <reference>P-11-0920-0237</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336685</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.9739030423843&amp;lon=-1.47673649670305</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A19 northbound between A194 and A185 | Northbound | Roadworks</title>
+      <description>The A19 northbound will be closed between the junctions with the A194 and the A185 due to roadworks, between 8 pm and 6 am, from 3 October 2011 to 4 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:19:03 GMT</pubDate>
+      <reference>P-11-0926-0068</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336684</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7394701362548&amp;lon=-1.72922290064316</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M606 J1 northbound access | Northbound | Roadworks</title>
+      <description>The M606 northbound entry slip at junction J1 from roundabout will be closed   due to roadworks, between 8 pm and 6 am, from 3 October 2011 to 10 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:18:49 GMT</pubDate>
+      <reference>P-11-0926-0119</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336620</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7530779667407&amp;lon=-0.772493163003226</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J37 and J38 | Eastbound | Roadworks</title>
+      <description>The M62 eastbound will be closed between junctions J37 and J38 due to carriageway resurfacing, between 8 pm and 6 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:02:04 GMT</pubDate>
+      <reference>P-11-0920-0190</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336619</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7347581616591&amp;lon=-0.866397039002199</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 J37 eastbound access | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound entry slip at junction J37  , expect delays of up to 10 mins at peak times due to carriageway resurfacing , between 8 pm and 6 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:01:37 GMT</pubDate>
+      <reference>P-11-0920-0194</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336618</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7337420525191&amp;lon=-1.5787489075501</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 J28 eastbound exit | Eastbound | Roadworks</title>
+      <description>The M62 eastbound exit slip at junction J28 will be closed   due to roadworks, between 8 pm and 6 am, from 3 October 2011 to 4 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:01:26 GMT</pubDate>
+      <reference>P-11-0922-0105</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336617</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.763745042491&amp;lon=-0.634296597306197</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A63 eastbound between M62/B1230 and A1034 | Eastbound | Roadworks</title>
+      <description>The A63 from The M62 towards Hull will be closed between the junctions with the M62 and the A1034 due to carriageway resurfacing, between 8 pm and 6 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:01:18 GMT</pubDate>
+      <reference>P-11-0923-0106</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">239117</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.3859462468373&amp;lon=-1.65474311081378</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 southbound between A6136 near Catterick (north) and A6136 near Catterick (south) | Southbound | Roadworks</title>
+      <description>On the A1 southbound between the junctions with the A6136 Catterick North  and the A168, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 31 March 2012.</description>
+      <pubDate>Sun, 25 Sep 2011 20:48:05 GMT</pubDate>
+      <reference>P-11-0630-0018</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">962</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.1649906621684&amp;lon=-1.44857772949189</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 southbound between A61 and A1(M)/A168 | Southbound | Roadworks</title>
+      <description>On the A1 southbound between the junctions with the A61 and the A168, there are currently delays of 10 mins due to roadworks . Expect disruption until 11:59 pm on 31 March 2012.</description>
+      <pubDate>Sun, 25 Sep 2011 20:47:39 GMT</pubDate>
+      <reference>P-10-0707-0124</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">103644</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=55.3567049752984&amp;lon=-1.72691856009485</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 southbound between A1068 and A697 | Southbound | Roadworks</title>
+      <description>On the A1 southbound between the junctions with the A1068 and the A697, there are currently delays of 10 mins due to roadworks . Expect disruption until 11:59 pm on 18 November 2011.</description>
+      <pubDate>Fri, 23 Sep 2011 12:40:20 GMT</pubDate>
+      <reference>P-10-1021-0131</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">274966</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7279722353299&amp;lon=-1.48454705278534</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 westbound between J30 and J29 | Westbound | Roadworks</title>
+      <description>On the M62 westbound between junctions J30 and J25, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 21 January 2013.</description>
+      <pubDate>Thu, 22 Sep 2011 11:12:11 GMT</pubDate>
+      <reference>P-11-0801-0047</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">103643</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=55.3527883055474&amp;lon=-1.72740284682755</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 northbound between A697 and A1068 | Northbound | Roadworks</title>
+      <description>On the A1 northbound between the junctions with the A697 and the A1068, there are currently delays of 10 mins due to roadworks . Expect disruption until 11:59 pm on 18 November 2011.</description>
+      <pubDate>Thu, 22 Sep 2011 04:23:21 GMT</pubDate>
+      <reference>P-10-1021-0130</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">329536</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.9372665193462&amp;lon=-1.47276374346839</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A19 northbound between A1290 and A184 | Northbound | Roadworks</title>
+      <description>On the A19 northbound between the junctions with the A1290 and the A184, minor delays are possible due to roadworks . Expect disruption until 5:00 am on 7 October 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 19:07:16 GMT</pubDate>
+      <reference>P-11-0913-0045</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327281</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.5106521170814&amp;lon=-1.5117540108106</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A66 westbound between A67 near Darlington (east) and A67 near Darlington (south) | Westbound | Roadworks</title>
+      <description>On the A66 westbound between the junctions with the A67 and the A167, minor delays are possible due to roadworks . Expect disruption until 12:00 am on 5 December 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:49 GMT</pubDate>
+      <reference>P-11-0912-0031</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327280</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.5052037989187&amp;lon=-1.54820249888198</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A66 eastbound between A67 near Darlington (south) and A67 near Darlington (east) | Eastbound | Roadworks</title>
+      <description>On the A66 eastbound between the junctions with the A167 and the A67 , minor delays are possible due to roadworks . Expect disruption until 12:00 am on 5 December 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:49 GMT</pubDate>
+      <reference>P-11-0912-0032</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">107073</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.2059369832754&amp;lon=-1.47457110621441</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A1 southbound between B6267 and A61 | Southbound | Roadworks</title>
+      <description>On the A1 southbound between the junctions with the A684 and the A61, there are currently delays of 10 mins due to roadworks . Expect disruption until 11:59 pm on 31 March 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:00 GMT</pubDate>
+      <reference>P-09-1224-0191</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">323960</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.3990601000299&amp;lon=-1.34855434465163</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 J33 southbound access | Southbound | Roadworks</title>
+      <description>The M1 southbound entry slip at junction J33 will be closed   due to roadworks, between 4 am and 8 am, from 9 October 2011 to 9 October 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:53 GMT</pubDate>
+      <reference>P-11-0915-0143</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">323959</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.3948890963781&amp;lon=-1.27963751082551</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M18 southbound to M1 northbound J32 | Southbound | Roadworks</title>
+      <description>The M18 slip road to the M1 northbound will be closed   due to roadworks, between 4 am and 8 am, from 9 October 2011 to 9 October 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:53 GMT</pubDate>
+      <reference>P-11-0915-0141</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">323381</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.3948890963781&amp;lon=-1.27963751082551</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M18 southbound to M1 northbound J32 | Southbound | Roadworks</title>
+      <description>On the M18 slip road to the M1 northbound  , expect delays of up to 10 mins at peak times due to roadworks closing two lanes, between 4 am and 8 am, from 2 October 2011 to 2 October 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:54 GMT</pubDate>
+      <reference>P-11-0915-0138</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">323380</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.3950688534636&amp;lon=-1.2796344764758</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M1 J32 southbound to M18 northbound | Northbound | Roadworks</title>
+      <description>On the M18 northbound between the M1 southbound and junction J1, expect delays of up to 10 mins at peak times due to roadworks closing two lanes, between 4 am and 8 am, from 2 October 2011 to 2 October 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:54 GMT</pubDate>
+      <reference>P-11-0915-0137</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">316963</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.7281327755604&amp;lon=-1.48425711127924</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M62 eastbound between J29 and J30 | Eastbound | Roadworks</title>
+      <description>On the M62 eastbound between junctions J29 and J30, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 19 July 2013.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:58 GMT</pubDate>
+      <reference>P-11-0909-0110</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">202781</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4960867728255&amp;lon=-1.84613387133582</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A628 eastbound between A57 and A616 | Eastbound | Roadworks</title>
+      <description>On the A628 eastbound between the junctions with the A57 and the A616, minor delays are possible due to roadworks . Expect disruption until 10:00 am on 31 March 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:00 GMT</pubDate>
+      <reference>P-11-0527-0003</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">14291</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.5054986203411&amp;lon=-1.55014507087935</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A66 westbound between A67 near Darlington (east) and A67 near Darlington (south) | Westbound | Roadworks</title>
+      <description>On the A66 westbound between the junctions with the A67  and the A167, there are currently delays of 10 mins due to roadworks . Expect disruption until 11:59 pm on 21 October 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:00 GMT</pubDate>
+      <reference>P-10-1128-0005</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">208205</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4949849280896&amp;lon=-1.86407514469275</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A628 westbound between A616 and A57 | Westbound | Roadworks</title>
+      <description>On the A628 westbound between the junctions with the A616 and the A57, minor delays are possible due to roadworks . Expect disruption until 3:30 pm on 31 May 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:01 GMT</pubDate>
+      <reference>P-11-0602-0003</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">208206</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4960867728255&amp;lon=-1.84613387133582</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A628 eastbound between A57 and A616 | Eastbound | Roadworks</title>
+      <description>On the A628 eastbound between the junctions with the A57 and the A616, minor delays are possible due to roadworks . Expect disruption until 3:30 pm on 31 May 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:01 GMT</pubDate>
+      <reference>P-11-0602-0004</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">272089</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.5069683587789&amp;lon=-1.58155661994301</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A66 eastbound between A66(M) and A67 near Darlington (south) | Eastbound | Roadworks</title>
+      <description>On the A66 eastbound between the junctions with the A66(M) and the A167, minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 31 January 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:02 GMT</pubDate>
+      <reference>P-11-0722-0067</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">272090</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=54.5069041699738&amp;lon=-1.58118663033882</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A66 westbound between A67 near Darlington (south) and A66(M) | Westbound | Roadworks</title>
+      <description>On the A66 westbound between the junctions with the A67 and the A66(M), minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 31 January 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:02 GMT</pubDate>
+      <reference>P-11-0722-0066</reference>
+    </item>
+  </channel>
+</rss>

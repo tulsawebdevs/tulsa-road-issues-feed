@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, on the M60</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:17 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, on the M60</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:17 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">307266</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4170698642779&amp;lon=-2.28498843048684</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 clockwise between J5 and J6 | Clockwise | Roadworks</title>
+      <description>On the M60 clockwise between junctions J5 and J6, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:32:36 GMT</pubDate>
+      <reference>P-11-0825-0049</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">283411</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.5008177383448&amp;lon=-2.12786117663565</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 anti-clockwise between J23 and J22 | AntiClockwise | Roadworks</title>
+      <description>On the M60 anti-clockwise between junctions J23 and J18, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:32:30 GMT</pubDate>
+      <reference>P-11-0808-0359</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">307267</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4171603231766&amp;lon=-2.28474830205775</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 anti-clockwise between J6 and J5 | AntiClockwise | Roadworks</title>
+      <description>On the M60 anti-clockwise between junctions J6 and J5, minor delays are possible due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:18:12 GMT</pubDate>
+      <reference>P-11-0825-0048</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">283410</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.5450269750316&amp;lon=-2.25006685599542</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 clockwise between J18 and J19 | Clockwise | Roadworks</title>
+      <description>On the M60 clockwise between junctions J18 and J23, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:18:02 GMT</pubDate>
+      <reference>P-11-0808-0358</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339874</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4939454469669&amp;lon=-2.38258955502178</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 anti-clockwise between J13 and J12 | AntiClockwise | Roadworks</title>
+      <description>On the M60 anti-clockwise between junctions J13 and J12, minor delays are possible due to roadworks closing one lane. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:17:53 GMT</pubDate>
+      <reference>P-11-0927-0159</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344301</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4356608155067&amp;lon=-2.31265879916164</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 J7 clockwise exit | Clockwise | Roadworks</title>
+      <description>On the M60 clockwise exit slip at junction J7  , expect delays of up to 10 mins at peak times due to roadworks ,  from 3:30 pm on 8 October 2011 to 5 pm on 8 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:41:15 GMT</pubDate>
+      <reference>P-11-1001-0052</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344300</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4598974029672&amp;lon=-2.34092570178004</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>sports event</category>
+      <title>M60 J9 anti-clockwise exit | AntiClockwise | Sports Event</title>
+      <description>On the M60 anti-clockwise exit slip at junction J9  , expect delays of up to 10 mins at peak times due to a sports event ,  from 3:30 pm on 8 October 2011 to 5 pm on 8 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:41:04 GMT</pubDate>
+      <reference>P-11-1001-0054</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344293</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4362200634743&amp;lon=-2.3119102773181</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 J7 anti-clockwise access | AntiClockwise | Roadworks</title>
+      <description>On the M60 anti-clockwise entry slip at junction J7  , expect delays of up to 10 mins at peak times due to roadworks ,  from 9 pm on 8 October 2011 to 11:30 pm on 8 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:38:38 GMT</pubDate>
+      <reference>P-11-1001-0053</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344292</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4583987177114&amp;lon=-2.3400853626674</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 J9 clockwise access | Clockwise | Roadworks</title>
+      <description>On the M60 clockwise entry slip at junction J9  , expect delays of up to 10 mins at peak times due to roadworks ,  from 9 pm on 8 October 2011 to 11:30 pm on 8 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:37:56 GMT</pubDate>
+      <reference>P-11-1001-0055</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343189</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.5270622752761&amp;lon=-2.15907526882599</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 J21 clockwise access | Clockwise | Roadworks</title>
+      <description>The M60 clockwise entry slip at junction J21 is closed  , due to roadworks. Road expected to re-open from 5:00 am on 3 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 19:48:55 GMT</pubDate>
+      <reference>P-11-0930-0385</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343240</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.527533325025&amp;lon=-2.16302928350185</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 J21 anti-clockwise access | AntiClockwise | Roadworks</title>
+      <description>The M60 anti-clockwise entry slip at junction J21 is closed  , due to roadworks. Road expected to re-open from 5:00 am on 3 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 19:48:47 GMT</pubDate>
+      <reference>P-11-0930-0400</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341502</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.3988074929503&amp;lon=-2.22970185636059</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 J3 anti-clockwise exit | AntiClockwise | Roadworks</title>
+      <description>The M60 anti-clockwise exit slip at junction J3 will be closed   due to roadworks,  from 10 pm on 5 October 2011 to 5 am on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 21:00:51 GMT</pubDate>
+      <reference>P-11-0926-0301</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340764</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4884241795405&amp;lon=-2.37482342550455</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>link road from M62 J12 eastbound to M60 J12 anti-clockwise | AntiClockwise | Roadworks</title>
+      <description>The M60 anti-clockwise entry slip at junction J12 will be closed   due to roadworks,  from 10 pm on 5 October 2011 to 5:30 am on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 13:21:59 GMT</pubDate>
+      <reference>P-11-0928-0074</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340763</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4858371752968&amp;lon=-2.37428821724414</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M602 J1 westbound to M60 J12 anti-clockwise | AntiClockwise | Roadworks</title>
+      <description>The M60 anti-clockwise entry slip at junction J12 will be closed   due to roadworks,  from 10 pm on 5 October 2011 to 5:30 am on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 13:21:30 GMT</pubDate>
+      <reference>P-11-0928-0055</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339423</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4997732118434&amp;lon=-2.38716459552879</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 J13 clockwise access | Clockwise | Roadworks</title>
+      <description>The M60 clockwise entry slip at junction J13 will be closed   due to roadworks,  from 10 pm on 3 October 2011 to 5 am on 4 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 14:24:15 GMT</pubDate>
+      <reference>P-11-0928-0284</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339417</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4997039404313&amp;lon=-2.38356101188321</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 J13 anti-clockwise access | AntiClockwise | Roadworks</title>
+      <description>The M60 anti-clockwise entry slip at junction J13 will be closed   due to roadworks,  from 10 pm on 3 October 2011 to 5 am on 4 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 14:22:22 GMT</pubDate>
+      <reference>P-11-0928-0282</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">338442</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.534338723132&amp;lon=-2.2084834322752</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 J20 anti-clockwise access | AntiClockwise | Roadworks</title>
+      <description>The M60 anti-clockwise entry slip at junction J20 will be closed   due to roadworks,  from 10 pm on 4 October 2011 to 5:30 am on 5 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 21:04:58 GMT</pubDate>
+      <reference>P-11-0927-0075</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336980</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4066609012285&amp;lon=-2.24892293419946</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 anti-clockwise between J5 and J4 | AntiClockwise | Roadworks</title>
+      <description>On the M60 anti-clockwise between junctions J5 and J4, expect delays of up to 10 mins at peak times due to roadworks , between 10 pm and 5 am, from 3 October 2011 to 5 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:29:37 GMT</pubDate>
+      <reference>P-11-0926-0299</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336979</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4127258588742&amp;lon=-2.16144586283665</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M60 clockwise between J27 and J1 | Clockwise | Roadworks</title>
+      <description>On the M60 clockwise between junctions J26 and J1, expect delays of up to 15 mins at peak times due to roadworks , between 10 pm and 5 am, from 3 October 2011 to 17 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:29:20 GMT</pubDate>
+      <reference>P-11-0926-0163</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336978</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.4040837546938&amp;lon=-2.19432326808457</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 clockwise between J1 and J2 | Clockwise | Roadworks</title>
+      <description>On the M60 clockwise between junctions J1 and J3, expect delays of up to 10 mins at peak times due to roadworks , between 10 pm and 5 am, from 3 October 2011 to 5 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:29:12 GMT</pubDate>
+      <reference>P-11-0926-0302</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">254858</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.5008177383448&amp;lon=-2.12786117663565</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M60 anti-clockwise between J23 and J22 | AntiClockwise | Roadworks</title>
+      <description>On the M60 anti-clockwise between junctions J23 and J19, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am on 28 February 2013.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:02 GMT</pubDate>
+      <reference>P-11-0713-0192</reference>
+    </item>
+  </channel>
+</rss>

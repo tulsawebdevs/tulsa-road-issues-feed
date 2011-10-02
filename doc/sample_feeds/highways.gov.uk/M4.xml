@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, on the M4</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:12 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, on the M4</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:12 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">111941</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4628464030069&amp;lon=-1.22743878662175</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 westbound between J12 and J13 | Westbound | Roadworks</title>
+      <description>On the M4 westbound between junctions J12 and J13, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:26:31 GMT</pubDate>
+      <reference>P-11-0302-0052</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336745</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4204553051502&amp;lon=-1.00289578036358</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 eastbound between J12 and J11 | Eastbound | Roadworks</title>
+      <description>On the M4 eastbound between junctions J12 and J11, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:09:56 GMT</pubDate>
+      <reference>P-11-0919-0035</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336742</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4202449829657&amp;lon=-1.00248329097657</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 westbound between J11 and J12 | Westbound | Roadworks</title>
+      <description>On the M4 westbound between junctions J11 and J12, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:09:39 GMT</pubDate>
+      <reference>P-11-0919-0036</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343208</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4531396544469&amp;lon=-1.48349974718379</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 westbound within J14 | Westbound | Roadworks</title>
+      <description>On the M4 westbound at junction J14, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:09:14 GMT</pubDate>
+      <reference>P-11-0921-0024</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">334560</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5824218426636&amp;lon=-2.73771617100372</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 eastbound between J23 and J22 | Eastbound | Roadworks</title>
+      <description>On the M4 eastbound between junctions J23 and J22, there are currently delays of 10 mins due to roadworks closing two lanes. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:05:31 GMT</pubDate>
+      <reference>P-11-0924-0007</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">333744</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4695684463939&amp;lon=-1.51975238694388</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 eastbound between J15 and J14 | Eastbound | Roadworks</title>
+      <description>On the M4 eastbound between junctions J15 and J14, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 23 December 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 20:06:47 GMT</pubDate>
+      <reference>P-11-0923-0074</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343173</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.560814338617&amp;lon=-2.56079735107406</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 eastbound between J21 and J20 | Eastbound | Roadworks</title>
+      <description>On the M4 eastbound between junctions J22 and J20, expect delays of up to 10 mins at peak times due to roadworks closing two lanes, between 7 pm and 6 am, from 7 October 2011 to 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 19:41:29 GMT</pubDate>
+      <reference>P-11-0930-0021</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340766</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.487247182188&amp;lon=-0.39300025969104</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 westbound at the Heston services slip road between J2 and J3 | Westbound | Roadworks</title>
+      <description>The M4 westbound entry slip from Heston Services will be closed   due to roadworks, between 10 pm and 5 am, from 5 October 2011 to 7 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 13:22:35 GMT</pubDate>
+      <reference>P-11-0928-0344</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336953</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4951975542897&amp;lon=-0.450560243618495</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 J4 westbound exit | Westbound | Roadworks</title>
+      <description>The M4 westbound exit slip at junction J4 will be closed   due to roadworks,  from 10 pm on 3 October 2011 to 5 am on 4 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:13:06 GMT</pubDate>
+      <reference>P-11-0926-0010</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336952</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4955687049284&amp;lon=-0.456886269970382</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 J4 westbound access | Westbound | Roadworks</title>
+      <description>The M4 westbound entry slip at junction J4 will be closed   due to roadworks,  from 10 pm on 3 October 2011 to 5 am on 4 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:12:59 GMT</pubDate>
+      <reference>P-11-0926-0008</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336948</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4937096963149&amp;lon=-0.431307497201506</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 westbound between J3 and J4 | Westbound | Roadworks</title>
+      <description>On the M4 westbound between junctions J3 and J4, expect delays of up to 10 mins at peak times due to roadworks closing two lanes,  from 10 pm on 3 October 2011 to 5 am on 4 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:12:44 GMT</pubDate>
+      <reference>P-11-0926-0004</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336653</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5156886899468&amp;lon=-2.12051476071416</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 J17 eastbound access | Eastbound | Roadworks</title>
+      <description>The M4 eastbound entry slip at junction J17 will be closed   due to carriageway resurfacing, between 8 pm and 6 am, from 3 October 2011 to 8 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:04:55 GMT</pubDate>
+      <reference>P-11-0919-0185</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336651</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5146563856491&amp;lon=-2.11884037955131</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 J17 westbound exit | Westbound | Roadworks</title>
+      <description>The M4 westbound exit slip at junction J17 will be closed   due to carriageway resurfacing, between 8 pm and 6 am, from 3 October 2011 to 8 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 19:04:29 GMT</pubDate>
+      <reference>P-11-0919-0186</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">277808</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4288786814143&amp;lon=-0.858710910083661</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M4 eastbound within J10 before A329(M) westbound access | Eastbound | Roadworks</title>
+      <description>On the M4 eastbound at junction J10, minor delays are possible due to roadworks closing one lane. Expect disruption until 5:00 pm on 26 November 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:52 GMT</pubDate>
+      <reference>P-11-0803-0165</reference>
+    </item>
+  </channel>
+</rss>

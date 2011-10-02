@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Houston TranStar Traffic Information for SH-249</title>
+        <link>http://traffic.houstontranstar.org</link>
+        <description>Houston TranStar Traffic Information for SH-249</description>
+        <language>en-us</language>
+        <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        <item>
+            <title>No incidents are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Travel Time: SH-249 Northbound from Beltway 8-North to Northpointe</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 7 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">66799634</guid>
+        </item>
+        <item>
+            <title>Travel Time: SH-249 Southbound from Jones to Beltway 8-North</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 6 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">67179740</guid>
+        </item>
+        <item>
+            <title>No Lane Closures are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

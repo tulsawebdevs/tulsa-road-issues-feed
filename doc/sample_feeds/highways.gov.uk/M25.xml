@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, on the M25</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:14 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, on the M25</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:14 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">336589</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4461906246893&amp;lon=0.235611790495434</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A282 northbound between A296/A225 and A206 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J1B and J1A, there are currently delays of 10 mins due to carriageway resurfacing closing three lanes. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:28:13 GMT</pubDate>
+      <reference>P-11-0926-0370</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340677</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3747924441023&amp;lon=-0.508910492044002</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise within J11 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise at junction J11, there are currently delays of 10 mins due to roadworks closing three lanes. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:27:06 GMT</pubDate>
+      <reference>P-11-0929-0173</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343299</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6723156407566&amp;lon=0.144591449319478</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J27 and J28 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J27 and J30, minor delays are possible due to roadworks . Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:26:57 GMT</pubDate>
+      <reference>P-11-0923-0081</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343295</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5348624430448&amp;lon=0.279954722321282</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise between J30 and J29 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J30 and J27, minor delays are possible due to roadworks . Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:21:00 GMT</pubDate>
+      <reference>P-11-0923-0031</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343298</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6723156407566&amp;lon=0.144591449319478</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J27 and J28 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J27 and J30, minor delays are possible due to roadworks . Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:19:10 GMT</pubDate>
+      <reference>P-11-0923-0077</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343300</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6723156407566&amp;lon=0.144591449319478</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J27 and J28 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J27 and J30, minor delays are possible due to roadworks . Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:18:48 GMT</pubDate>
+      <reference>P-11-0923-0070</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341510</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3990166137011&amp;lon=-0.535206353351071</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M3 J2 westbound to M25 J12 anti-clockwise | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise entry slip at junction J12  , minor delays are possible due to roadworks closing one lane. Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:18:46 GMT</pubDate>
+      <reference>P-11-0926-0294</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343303</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5348624430448&amp;lon=0.279954722321282</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise between J30 and J29 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J30 and J27, minor delays are possible due to roadworks . Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:18:33 GMT</pubDate>
+      <reference>P-11-0923-0034</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">333758</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.2587398847733&amp;lon=-0.200161078051699</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J8 anti-clockwise exit | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise exit slip at junction J8 is closed  , due to roadworks. Road expected to re-open from 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:18:17 GMT</pubDate>
+      <reference>P-11-0923-0040</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339405</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4948399055606&amp;lon=-0.494913035340282</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M4 J4B westbound to M25 J15 clockwise | Clockwise | Roadworks</title>
+      <description>The M25 clockwise entry slip at junction J15 is closed  , due to roadworks. Road expected to re-open from 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:11:55 GMT</pubDate>
+      <reference>P-11-0928-0274</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344263</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4661357962164&amp;lon=0.258673140934805</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A282 northbound Dartford Crossing | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J1A and J30, minor delays are possible due to roadworks closing two lanes. Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:10:44 GMT</pubDate>
+      <reference>P-11-0924-0016</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327254</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.499825336252&amp;lon=0.268839764812471</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J30 clockwise exit | Clockwise | Roadworks</title>
+      <description>The M25 clockwise exit slip at junction J30 is closed  , due to roadworks. Road expected to re-open from 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:10:18 GMT</pubDate>
+      <reference>P-11-0918-0018</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">333865</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3096748971922&amp;lon=-0.382596375616767</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J9 and J10 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J9 and J10, there are currently delays of 10 mins due to roadworks closing three lanes. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:08:53 GMT</pubDate>
+      <reference>P-11-0923-0089</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344333</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.486299528984&amp;lon=0.26792329559245</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J31 clockwise access | Clockwise | Roadworks</title>
+      <description>The M25 clockwise entry slip at junction J31 will be closed   due to roadworks,  from 10 pm on 8 October 2011 to 5 am on 9 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 21:10:39 GMT</pubDate>
+      <reference>P-11-1001-0041</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344328</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6832978463119&amp;lon=-0.0473069493661581</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J25 clockwise access | Clockwise | Roadworks</title>
+      <description>The M25 clockwise entry slip at junction J25 will be closed   due to roadworks,  from 10 pm on 8 October 2011 to 5 am on 9 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 21:09:03 GMT</pubDate>
+      <reference>P-11-1001-0033</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344327</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6804372392811&amp;lon=-0.00656550751760689</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise between J26 and J25 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J26 and J25, expect delays of up to 10 mins at peak times due to roadworks ,  from 10 pm on 8 October 2011 to 5 am on 9 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 21:08:44 GMT</pubDate>
+      <reference>P-11-1001-0034</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344326</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6805972072333&amp;lon=-0.00910439273807236</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J25 and J26 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J25 and J26, expect delays of up to 10 mins at peak times due to roadworks ,  from 10 pm on 8 October 2011 to 5 am on 9 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 21:08:32 GMT</pubDate>
+      <reference>P-11-1001-0032</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343280</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5349110277016&amp;lon=0.280231125720564</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J29 and J30 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J29 and J30, minor delays can be expected at peak times due to roadworks , between 10:30 pm and 5:30 am, from 2 October 2011 to 31 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:27:01 GMT</pubDate>
+      <reference>P-11-0930-0308</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343297</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5348624430448&amp;lon=0.279954722321282</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise between J30 and J29 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J30 and J27, minor delays can be expected at peak times due to roadworks , between 10 pm and 5:30 am, from 2 October 2011 to 31 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:25:21 GMT</pubDate>
+      <reference>P-11-0923-0083</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343293</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5348624430448&amp;lon=0.279954722321282</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise between J30 and J29 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J30 and J27, minor delays can be expected at peak times due to roadworks , between 10 pm and 5:30 am, from 2 October 2011 to 31 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:25:19 GMT</pubDate>
+      <reference>P-11-0923-0084</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343305</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5348624430448&amp;lon=0.279954722321282</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise between J30 and J29 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J30 and J27, minor delays can be expected at peak times due to roadworks , between 10 pm and 5:30 am, from 2 October 2011 to 31 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:24:15 GMT</pubDate>
+      <reference>P-11-0923-0024</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343311</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6791774122705&amp;lon=0.12080210635077</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>link road from M11 J6 northbound to M25 J27 anti-clockwise | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise entry slip at junction J27 From M11 North will be closed   due to roadworks, between 10 pm and 5 am, from 7 October 2011 to 8 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 21:05:31 GMT</pubDate>
+      <reference>P-11-0930-0034</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343310</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6884681068717&amp;lon=0.0769493900881857</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise between J27 and J26 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J27 and J26, expect delays of up to 10 mins at peak times due to roadworks closing two lanes, between 10 pm and 5 am, from 7 October 2011 to 8 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 21:05:07 GMT</pubDate>
+      <reference>P-11-0930-0033</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343309</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6895666714135&amp;lon=0.0870118491234375</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J26 and J27 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J26 and J27, expect delays of up to 10 mins at peak times due to roadworks closing two lanes, between 10 pm and 5 am, from 7 October 2011 to 8 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 21:04:32 GMT</pubDate>
+      <reference>P-11-0930-0032</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343226</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6102833750398&amp;lon=0.259654896539075</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J28 anti-clockwise access | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise entry slip at junction J28 will be closed   due to roadworks, between 10 pm and 5:30 am, from 4 October 2011 to 6 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 20:11:48 GMT</pubDate>
+      <reference>P-11-0930-0396</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343225</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6483460378332&amp;lon=0.201657758310384</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M25 anti-clockwise between J28 and J27 | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise will be closed between junctions J28 and J27 due to roadworks, between 10 pm and 5:30 am, from 4 October 2011 to 6 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 20:11:14 GMT</pubDate>
+      <reference>P-11-0930-0395</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343224</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.2593668874691&amp;lon=-0.0625592899481618</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J6 anti-clockwise access | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise entry slip at junction J6 will be closed   due to roadworks,  from 10 pm on 6 October 2011 to 5 am on 7 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 20:07:58 GMT</pubDate>
+      <reference>P-11-0930-0394</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343218</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.2576761303588&amp;lon=-0.0948774399589594</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise between J7 and J6 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J7 and J5, expect delays of up to 10 mins at peak times due to roadworks closing two lanes,  from 10 pm on 6 October 2011 to 5 am on 7 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 20:06:30 GMT</pubDate>
+      <reference>P-11-0930-0393</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343209</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.2589370354867&amp;lon=-0.0686543197631694</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J6 anti-clockwise exit | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise exit slip at junction J6 will be closed   due to roadworks,  from 10 pm on 6 October 2011 to 5 am on 7 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 20:04:30 GMT</pubDate>
+      <reference>P-11-0930-0392</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">200032</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.7146134274246&amp;lon=-0.369552171044421</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise within J21A | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J21A and J23, there are currently delays of 10 mins due to roadworks . Expect disruption until 12:00 am on 8 July 2012.</description>
+      <pubDate>Fri, 30 Sep 2011 19:10:36 GMT</pubDate>
+      <reference>P-11-0525-0126</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">269636</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3096748971922&amp;lon=-0.382596375616767</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J9 and J10 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J9 and J10, there are currently delays of 10 mins due to carriageway resurfacing . Expect disruption until 11:00 pm on 11 July 2012.</description>
+      <pubDate>Fri, 30 Sep 2011 19:10:26 GMT</pubDate>
+      <reference>P-11-0727-0078</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">303808</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3096748971922&amp;lon=-0.382596375616767</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J9 and J10 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J9 and J10, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am on 18 December 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 19:10:10 GMT</pubDate>
+      <reference>P-11-0828-0021</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341505</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6806513005386&amp;lon=0.117862118477508</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M25 J27 clockwise to M11 J6 | Clockwise | Roadworks</title>
+      <description>The M25 clockwise exit slip at junction J27 will be closed   due to roadworks, between 10 pm and 5:30 am, from 6 October 2011 to 14 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 21:01:50 GMT</pubDate>
+      <reference>P-11-0929-0073</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340947</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.401135363837&amp;lon=-0.537812629891923</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise within J12 | Clockwise | Roadworks</title>
+      <description>The M25 clockwise will be closed at junction J12 due to roadworks, between 10 pm and 5:30 am, from 3 October 2011 to 20 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 15:19:42 GMT</pubDate>
+      <reference>P-11-0927-0080</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">338444</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.401135363837&amp;lon=-0.537812629891923</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise within J12 | Clockwise | Roadworks</title>
+      <description>The M25 clockwise will be closed at junction J12 due to roadworks, between 10 pm and 5:30 am, from 3 October 2011 to 20 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 15:14:01 GMT</pubDate>
+      <reference>P-11-0927-0078</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336964</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.7174246469281&amp;lon=-0.27793018558289</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J22 clockwise access | Clockwise | Roadworks</title>
+      <description>The M25 clockwise entry slip at junction J22 will be closed   due to roadworks, between 10 pm and 5:30 am, from 4 October 2011 to 7 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 12:00:26 GMT</pubDate>
+      <reference>P-11-0926-0098</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336963</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6859896791227&amp;lon=-0.226652679757144</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J23 clockwise access | Clockwise | Roadworks</title>
+      <description>The M25 clockwise entry slip at junction J23 will be closed   due to roadworks, between 10 pm and 5:30 am, from 4 October 2011 to 7 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 12:00:24 GMT</pubDate>
+      <reference>P-11-0926-0101</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336954</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.7156148516076&amp;lon=-0.274090392488599</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J22 anti-clockwise exit | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise exit slip at junction J22 will be closed   due to roadworks, between 10 pm and 5:30 am, from 4 October 2011 to 7 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 11:53:09 GMT</pubDate>
+      <reference>P-11-0926-0015</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">209521</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4958090249377&amp;lon=0.26865469596487</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise within J30 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J30 and J27, there are currently delays of 10 mins due to roadworks . Expect disruption until 12:00 am on 30 September 2012.</description>
+      <pubDate>Thu, 29 Sep 2011 00:38:53 GMT</pubDate>
+      <reference>P-11-0603-0035</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339758</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.2588102653308&amp;lon=-0.065334515451697</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise within J6 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise at junction J6, expect delays of up to 10 mins at peak times due to roadworks closing three lanes, between 10 pm and 5 am, from 4 October 2011 to 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 18:17:05 GMT</pubDate>
+      <reference>P-11-0928-0348</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339414</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4996426484871&amp;lon=-0.494985355654745</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M25 J15 anti-clockwise to M4 J4B | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise exit slip at junction J15 will be closed   due to roadworks, between 10:30 pm and 5:30 am, from 2 October 2011 to 3 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 15:53:46 GMT</pubDate>
+      <reference>P-11-0928-0277</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339406</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.523855759225&amp;lon=-0.498281072149572</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M25 anti-clockwise between J16 and J15 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J16 and J15, expect delays of up to 15 mins at peak times due to roadworks closing three lanes, between 10:30 pm and 5:30 am, from 2 October 2011 to 3 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 15:52:32 GMT</pubDate>
+      <reference>P-11-0928-0275</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">338445</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3437110804777&amp;lon=-0.485481695144508</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J10 and J11 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J10 and J11, expect delays of up to 10 mins at peak times due to roadworks closing three lanes, between 10 pm and 5 am, from 4 October 2011 to 6 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 21:05:10 GMT</pubDate>
+      <reference>P-11-0927-0081</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">338441</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4948399055606&amp;lon=-0.494913035340282</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M4 J4B westbound to M25 J15 clockwise | Clockwise | Roadworks</title>
+      <description>The M25 clockwise entry slip at junction J15 will be closed   due to roadworks,  from 10 pm on 4 October 2011 to 5 am on 5 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 21:04:52 GMT</pubDate>
+      <reference>P-11-0927-0076</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">338438</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.4930717804873&amp;lon=-0.49167249861487</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M4 J4B westbound to M25 J15 anti-clockwise | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise entry slip at junction J15 will be closed   due to roadworks,  from 10 pm on 4 October 2011 to 5 am on 5 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 21:04:35 GMT</pubDate>
+      <reference>P-11-0927-0074</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">338167</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.264044153503&amp;lon=-0.127825899684252</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>link road from M23 J8 southbound to M25 J7 clockwise | Clockwise | Roadworks</title>
+      <description>The M25 clockwise entry slip at junction J7 from the M23 south will be closed   due to roadworks, between 10 pm and 5 am, from 3 October 2011 to 4 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 17:58:22 GMT</pubDate>
+      <reference>P-11-0927-0286</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">209520</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6424704121802&amp;lon=0.210450017050152</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M25 clockwise between J27 and J28 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J27 and J30, there are currently delays of 15 mins due to roadworks . Expect disruption until 12:00 am on 30 September 2012.</description>
+      <pubDate>Tue, 27 Sep 2011 07:16:26 GMT</pubDate>
+      <reference>P-11-0603-0034</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336981</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.386921336956&amp;lon=-0.522974237453135</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M25 anti-clockwise between J12 and J11 | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise will be closed between junctions J12 and J11 due to roadworks, between 10 pm and 5:30 am, from 3 October 2011 to 4 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:29:49 GMT</pubDate>
+      <reference>P-11-0926-0221</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336977</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3437110804777&amp;lon=-0.485481695144508</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J10 and J11 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J10 and J11, expect delays of up to 10 mins at peak times due to roadworks closing three lanes,  from 10 pm on 3 October 2011 to 5 am on 4 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:28:37 GMT</pubDate>
+      <reference>P-11-0926-0358</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336968</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6805972072333&amp;lon=-0.00910439273807236</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J25 and J26 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J25 and J26, expect delays of up to 10 mins at peak times due to roadworks closing two lanes, between 10 pm and 5:30 am, from 3 October 2011 to 6 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:21:55 GMT</pubDate>
+      <reference>P-11-0926-0088</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336967</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6788491373922&amp;lon=0.0289338989046459</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J26 clockwise access | Clockwise | Roadworks</title>
+      <description>The M25 clockwise entry slip at junction J26 will be closed   due to roadworks, between 10 pm and 5:30 am, from 3 October 2011 to 6 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:21:28 GMT</pubDate>
+      <reference>P-11-0926-0092</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336966</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3899670056775&amp;lon=0.194160716217079</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J3 anti-clockwise access | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise entry slip at junction J3 will be closed   due to roadworks, between 10 pm and 5:30 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:21:20 GMT</pubDate>
+      <reference>P-11-0926-0074</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336961</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3854994004684&amp;lon=0.191173094060782</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 J3 anti-clockwise exit | AntiClockwise | Roadworks</title>
+      <description>The M25 anti-clockwise exit slip at junction J3 will be closed   due to roadworks, between 10 pm and 5:30 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:17:15 GMT</pubDate>
+      <reference>P-11-0926-0070</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">200028</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.7038858843841&amp;lon=-0.249557484817507</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise between J23 and J22 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J23 and J21A, there are currently delays of 10 mins due to roadworks . Expect disruption until 12:00 am on 8 July 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:01 GMT</pubDate>
+      <reference>P-11-0525-0125</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">304371</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3096748971922&amp;lon=-0.382596375616767</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 clockwise between J9 and J10 | Clockwise | Roadworks</title>
+      <description>On the M25 clockwise between junctions J9 and J10, minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 11 July 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:03 GMT</pubDate>
+      <reference>P-11-0829-0005</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">303809</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.306835712231&amp;lon=-0.393226761726727</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M25 anti-clockwise between J10 and J9 | AntiClockwise | Roadworks</title>
+      <description>On the M25 anti-clockwise between junctions J10 and J9, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am on 18 December 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:04 GMT</pubDate>
+      <reference>P-11-0828-0020</reference>
+    </item>
+  </channel>
+</rss>

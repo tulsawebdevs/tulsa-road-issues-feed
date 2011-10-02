@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Houston TranStar Traffic Information for IH-10 EAST</title>
+        <link>http://traffic.houstontranstar.org</link>
+        <description>Houston TranStar Traffic Information for IH-10 EAST</description>
+        <language>en-us</language>
+        <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        <item>
+            <title>No incidents are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 East Eastbound from Downtown to IH-610 East Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 9 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">30250967</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 East Eastbound from Downtown to Crosby-Lynchburg</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 21 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">31352498</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 East Eastbound from IH-610 East Loop to Crosby-Lynchburg</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 13 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">32248801</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 East Westbound from Crosby-Lynchburg to IH-610 East Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 12 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">27693135</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 East Westbound from Crosby-Lynchburg to Downtown</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 16 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">28121515</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-10 East Westbound from IH-610 East Loop to Downtown</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 4 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">29345243</guid>
+        </item>
+        <item>
+            <title>No Lane Closures are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

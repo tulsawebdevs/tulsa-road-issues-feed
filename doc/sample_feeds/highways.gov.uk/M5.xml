@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, on the M5</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:13 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, on the M5</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:13 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">344310</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2506787441148&amp;lon=-2.13375040650072</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J6 and J5 | Northbound | Roadworks</title>
+      <description>On the M5 northbound between junctions J6 and J5, there are currently delays of 10 mins due to roadworks closing two lanes. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:14:08 GMT</pubDate>
+      <reference>P-11-1001-0165</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343047</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4043722167168&amp;lon=-2.04036306100872</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J3 and J4 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J3 and J4, minor delays are possible due to roadworks closing one lane. Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:13:17 GMT</pubDate>
+      <reference>P-11-0930-0124</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344251</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.6895181178329&amp;lon=-3.480240301526</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J30 and J31 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J30 and J31, minor delays are possible due to roadworks closing one lane. Expect disruption until 8:00 pm.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:57 GMT</pubDate>
+      <reference>P-11-0925-0019</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341318</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.8225492860351&amp;lon=-2.21997902551229</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J11A and J12 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J11A and J12, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:11:57 GMT</pubDate>
+      <reference>P-11-0919-0030</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">319069</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.6895181178329&amp;lon=-3.480240301526</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J30 and J31 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J30 and J31, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:09:56 GMT</pubDate>
+      <reference>P-11-0911-0013</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">328249</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5128858680925&amp;lon=-1.97531923061085</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J1 northbound access | Northbound | Roadworks</title>
+      <description>The M5 northbound entry slip at junction J1 is closed  , due to roadworks. Road expected to re-open from 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:06:56 GMT</pubDate>
+      <reference>P-11-0919-0163</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">323937</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0197963005115&amp;lon=-3.06124073999864</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 southbound exit | Southbound | Roadworks</title>
+      <description>On the M5 southbound exit slip at junction J25  , minor delays are possible due to roadworks closing one lane. Expect disruption until 7:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:05:30 GMT</pubDate>
+      <reference>P-11-0914-0165</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">323938</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0173468150367&amp;lon=-3.06459213302588</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 northbound exit | Northbound | Roadworks</title>
+      <description>On the M5 northbound exit slip at junction J25  , minor delays are possible due to roadworks closing one lane. Expect disruption until 7:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:05:29 GMT</pubDate>
+      <reference>P-11-0914-0164</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344299</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0186151151245&amp;lon=-3.06356616938739</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 northbound access | Northbound | Roadworks</title>
+      <description>The M5 northbound entry slip at junction J25 will be closed   due to roadworks,  from 7 pm on 8 October 2011 to 7 am on 10 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:40:42 GMT</pubDate>
+      <reference>P-11-0910-0053</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344298</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0197963005115&amp;lon=-3.06124073999864</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 southbound exit | Southbound | Roadworks</title>
+      <description>The M5 southbound exit slip at junction J25 will be closed   due to roadworks,  from 7 pm on 8 October 2011 to 7 am on 10 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:40:30 GMT</pubDate>
+      <reference>P-11-0910-0054</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327267</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.6895181178329&amp;lon=-3.480240301526</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J30 and J31 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J30 and J31, minor delays can be expected at peak times due to roadworks , between 8:30 am and 8 pm, from 19 September 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 19:01:04 GMT</pubDate>
+      <reference>P-11-0911-0010</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">334591</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0197963005115&amp;lon=-3.06124073999864</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 southbound exit | Southbound | Roadworks</title>
+      <description>The M5 southbound exit slip at junction J25 is closed  , due to roadworks. Road expected to re-open from 7:00 am on 3 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 18:03:14 GMT</pubDate>
+      <reference>P-11-0910-0047</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">342653</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.0173468150367&amp;lon=-3.06459213302588</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J25 northbound exit | Northbound | Roadworks</title>
+      <description>The M5 northbound exit slip at junction J25 is closed  , due to roadworks. Road expected to re-open from 7:00 am on 3 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 18:01:39 GMT</pubDate>
+      <reference>P-11-0930-0203</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343563</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5054447364335&amp;lon=-1.99907230621343</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J1 and J2 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J1 and J2, minor delays can be expected at peak times due to roadworks , between 6 am and 5 pm, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 16:00:18 GMT</pubDate>
+      <reference>P-11-0930-0280</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343564</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5054806975651&amp;lon=-1.99942588837382</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J2 and J1 | Northbound | Roadworks</title>
+      <description>On the M5 northbound between junctions J2 and J1, minor delays can be expected at peak times due to roadworks , between 6 am and 5 pm, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 16:00:14 GMT</pubDate>
+      <reference>P-11-0930-0274</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343565</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5109712112818&amp;lon=-1.97627803091724</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J1 northbound exit | Northbound | Roadworks</title>
+      <description>On the M5 northbound exit slip at junction J1  , minor delays can be expected at peak times due to roadworks closing one lane, between 6 am and 5 pm, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 16:00:12 GMT</pubDate>
+      <reference>P-11-0930-0279</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343562</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4938823709039&amp;lon=-2.01740975697143</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J2 southbound exit | Southbound | Roadworks</title>
+      <description>On the M5 southbound exit slip at junction J2  , minor delays can be expected at peak times due to roadworks closing one lane, between 6 am and 5 pm, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 16:00:10 GMT</pubDate>
+      <reference>P-11-0930-0282</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343566</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4932977671258&amp;lon=-2.01905911920798</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J2 northbound access | Northbound | Roadworks</title>
+      <description>On the M5 northbound entry slip at junction J2  , minor delays can be expected at peak times due to roadworks closing one lane, between 6 am and 5 pm, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 16:00:08 GMT</pubDate>
+      <reference>P-11-0930-0276</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336153</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.7302073778786&amp;lon=-3.46356968551952</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M5 J29 northbound to A30 | Northbound | Roadworks</title>
+      <description>On the M5 northbound exit slip at junction J29  , minor delays can be expected at peak times due to roadworks closing one lane, between 9:30 am and 4:30 pm, from 20 September 2011 to 19 November 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 15:30:09 GMT</pubDate>
+      <reference>P-11-0926-0236</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">311423</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9188477276018&amp;lon=-3.35549592883725</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J27 northbound access | Northbound | Roadworks</title>
+      <description>On the M5 northbound entry slip at junction J27  , minor delays can be expected at peak times due to roadworks , between 6 am and 4 pm, from 6 September 2011 to 11 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 15:00:25 GMT</pubDate>
+      <reference>P-11-0829-0047</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">311421</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9182528381906&amp;lon=-3.35483844246544</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J27 southbound exit | Southbound | Roadworks</title>
+      <description>On the M5 southbound exit slip at junction J27  , minor delays can be expected at peak times due to roadworks , between 6 am and 4 pm, from 6 September 2011 to 11 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 15:00:21 GMT</pubDate>
+      <reference>P-11-0829-0048</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343540</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.5212610554346&amp;lon=-2.63148275526</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J18 and J17 | Northbound | Roadworks</title>
+      <description>On the M5 northbound between junctions J18A and J17, expect delays of up to 10 mins at peak times due to roadworks closing two lanes,  from 11:30 pm on 2 October 2011 to 6 am on 3 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 04:23:15 GMT</pubDate>
+      <reference>P-11-1001-0057</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">302127</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2506787441148&amp;lon=-2.13375040650072</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J6 and J5 | Northbound | Roadworks</title>
+      <description>On the M5 northbound between junctions J6 and J5, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 7 November 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 17:02:19 GMT</pubDate>
+      <reference>P-11-0826-0164</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">342879</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5260369984021&amp;lon=-1.97050686515524</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M5 northbound between J1 and M6 | Northbound | Roadworks</title>
+      <description>The M5 northbound will be closed between J1 and the M6 due to roadworks, between 8 pm and 6 am, from 3 October 2011 to 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 16:28:47 GMT</pubDate>
+      <reference>P-11-0930-0270</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">342877</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5128858680925&amp;lon=-1.97531923061085</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J1 northbound access | Northbound | Roadworks</title>
+      <description>The M5 northbound entry slip at junction J1 will be closed   due to roadworks, between 8 pm and 6 am, from 3 October 2011 to 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 16:28:47 GMT</pubDate>
+      <reference>P-11-0930-0272</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341694</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4389355866667&amp;lon=-2.01762313051663</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J3 and J4 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J3 and J4, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 25 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 01:26:05 GMT</pubDate>
+      <reference>P-11-0930-0012</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341693</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4389715064061&amp;lon=-2.01788793262522</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J4 and J3 | Northbound | Roadworks</title>
+      <description>On the M5 northbound between junctions J4 and J3, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 25 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 01:25:20 GMT</pubDate>
+      <reference>P-11-0930-0011</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341302</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2867376626167&amp;lon=-2.11796778394503</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J5 southbound access | Southbound | Roadworks</title>
+      <description>The M5 southbound entry slip at junction J5 will be closed   due to roadworks, between 8 pm and 6 am, from 6 October 2011 to 9 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:03:06 GMT</pubDate>
+      <reference>P-11-0929-0017</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341301</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2139141623294&amp;lon=-2.15800864283306</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J6 northbound access | Northbound | Roadworks</title>
+      <description>The M5 northbound entry slip at junction J6 will be closed   due to roadworks, between 8 pm and 6 am, from 6 October 2011 to 9 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:02:49 GMT</pubDate>
+      <reference>P-11-0929-0016</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341298</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2512093702872&amp;lon=-2.13357622652975</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J5 and J6 | Southbound | Roadworks</title>
+      <description>The M5 southbound will be closed between junctions J5 and J6 due to roadworks, between 8 pm and 6 am, from 6 October 2011 to 9 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:02:35 GMT</pubDate>
+      <reference>P-11-0929-0014</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341297</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2506787441148&amp;lon=-2.13375040650072</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J6 and J5 | Northbound | Roadworks</title>
+      <description>The M5 northbound will be closed between junctions J6 and J5 due to roadworks, between 8 pm and 6 am, from 6 October 2011 to 9 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:02:16 GMT</pubDate>
+      <reference>P-11-0929-0013</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339826</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9182528381906&amp;lon=-3.35483844246544</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J27 southbound exit | Southbound | Roadworks</title>
+      <description>The M5 southbound exit slip at junction J27 will be closed   due to roadworks,  from 8 pm on 5 October 2011 to 6 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 19:09:04 GMT</pubDate>
+      <reference>P-11-0928-0080</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">302128</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2512093702872&amp;lon=-2.13357622652975</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J5 and J6 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J5 and J6, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 7 November 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 20:30:08 GMT</pubDate>
+      <reference>P-11-0826-0163</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336688</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9188477276018&amp;lon=-3.35549592883725</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J27 northbound access | Northbound | Roadworks</title>
+      <description>The M5 northbound entry slip at junction J27 will be closed   due to roadworks, between 8 pm and 6 am, from 4 October 2011 to 5 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 14:46:28 GMT</pubDate>
+      <reference>P-11-0926-0054</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">311424</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9179684444477&amp;lon=-3.35609634093818</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound within J27 | Northbound | Roadworks</title>
+      <description>On the M5 northbound at junction J27, there are currently delays of 10 mins due to roadworks . Expect disruption until 4:00 pm on 11 October 2011.</description>
+      <pubDate>Sun, 25 Sep 2011 13:49:38 GMT</pubDate>
+      <reference>P-11-0829-0044</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">311422</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=50.9181089088222&amp;lon=-3.35561672209521</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound within J27 | Southbound | Roadworks</title>
+      <description>On the M5 southbound at junction J27, there are currently delays of 10 mins due to roadworks . Expect disruption until 4:00 pm on 11 October 2011.</description>
+      <pubDate>Sun, 25 Sep 2011 13:06:58 GMT</pubDate>
+      <reference>P-11-0829-0045</reference>
+    </item>
+  </channel>
+</rss>

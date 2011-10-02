@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Houston TranStar Traffic Information for IH-45 NORTH</title>
+        <link>http://traffic.houstontranstar.org</link>
+        <description>Houston TranStar Traffic Information for IH-45 NORTH</description>
+        <language>en-us</language>
+        <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        <item>
+            <title>No incidents are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 North Northbound from Downtown to IH-610 North Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 4 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">46426633</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 North Northbound from Downtown to Beltway 8-North</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 14 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">47438878</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 North Northbound from IH-610 North Loop to Beltway 8-North</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 10 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">48850565</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 North Northbound from IH-610 North Loop to Woodlands Parkway</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 24 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">49348193</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 North Northbound from Beltway 8-North to Woodlands Parkway</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 14 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">50117967</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 North Southbound from Woodlands Parkway to Beltway 8-North</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 14 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">41426991</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 North Southbound from Woodlands Parkway to IH-610 North Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 24 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">42812371</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 North Southbound from Beltway 8-North to IH-610 North Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 10 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">43785929</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 North Southbound from Beltway 8-North to Downtown</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 14 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">44446173</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 North Southbound from IH-610 North Loop to Downtown</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 4 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">45862168</guid>
+        </item>
+        <item>
+            <title>No Lane Closures are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

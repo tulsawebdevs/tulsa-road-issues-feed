@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, for west midlands</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:07 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, for west midlands</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:07 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">344316</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.6382578599859&amp;lon=-2.10571721085006</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M54 westbound between J1 and J2 | Westbound | Roadworks</title>
+      <description>On the M54 westbound between junctions J1 and J3, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:15:53 GMT</pubDate>
+      <reference>P-11-0930-0250</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344225</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4485655561941&amp;lon=-1.69049882389371</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A452 northbound between A45 and A446 | Northbound | Roadworks</title>
+      <description>On the A452 northbound between the junctions with the A45 and the A446, minor delays are possible due to barrier repairs closing one lane. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:14:15 GMT</pubDate>
+      <reference>P-11-0930-0336</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344310</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2506787441148&amp;lon=-2.13375040650072</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J6 and J5 | Northbound | Roadworks</title>
+      <description>On the M5 northbound between junctions J6 and J5, there are currently delays of 10 mins due to roadworks closing two lanes. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:14:08 GMT</pubDate>
+      <reference>P-11-1001-0165</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344224</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.47238500615&amp;lon=-1.7065403875507</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A446 northbound between A452 and M6 | Northbound | Roadworks</title>
+      <description>On the A446 northbound between the junctions with the A452 and the M6, minor delays are possible due to barrier repairs closing one lane. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:14:08 GMT</pubDate>
+      <reference>P-11-0930-0337</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344223</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5746265091883&amp;lon=-1.68857979629681</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M42 southbound between J10 and J9 | Southbound | Roadworks</title>
+      <description>On the M42 southbound between junctions J10 and J9, minor delays are possible due to barrier repairs closing one lane. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:13:46 GMT</pubDate>
+      <reference>P-11-0930-0390</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344222</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5747167936103&amp;lon=-1.68872671581844</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M42 northbound between J9 and J10 | Northbound | Roadworks</title>
+      <description>On the M42 northbound between junctions J9 and J10, minor delays are possible due to barrier repairs closing one lane. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:13:35 GMT</pubDate>
+      <reference>P-11-0930-0391</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336571</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.1007787105778&amp;lon=-1.92325160891038</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 southbound between A4184 and B4035 | Southbound | Roadworks</title>
+      <description>On the A46 from Coventry towards The M5 between the junctions with the A4184 and the M5, minor delays are possible due to roadworks . Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:13:29 GMT</pubDate>
+      <reference>P-11-0926-0321</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343047</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4043722167168&amp;lon=-2.04036306100872</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J3 and J4 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J3 and J4, minor delays are possible due to roadworks closing one lane. Expect disruption until 5:30 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:13:17 GMT</pubDate>
+      <reference>P-11-0930-0124</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344249</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5651487207259&amp;lon=-1.50546268213016</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A5 southbound between B4111 near Atherstone (east) and A47 near Hinckley (west) | Southbound | Roadworks</title>
+      <description>On the A5 from Cannock towards Harpenden between the junctions with the M42 and the A47 Nuneaton, minor delays are possible due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:50 GMT</pubDate>
+      <reference>P-11-0924-0006</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344248</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5513468302905&amp;lon=-1.4596478678329</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A5 northbound between A47 near Hinckley (west) and B4111 near Atherstone (east) | Northbound | Roadworks</title>
+      <description>On the A5 from Harpenden towards Cannock between the junctions with the A47 and the M42, minor delays are possible due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:46 GMT</pubDate>
+      <reference>P-11-0924-0005</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">188632</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3376189571069&amp;lon=-1.21217367098014</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M45 westbound between M1 and A45 near Rugby (east) | Westbound | Roadworks</title>
+      <description>On the M45 westbound between the junctions with the M1 and the A45, minor delays are possible due to roadworks closing one lane. Expect disruption until 4:00 pm.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:18 GMT</pubDate>
+      <reference>P-11-0514-0012</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">188633</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3375115246876&amp;lon=-1.20954838166406</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M45 eastbound between A45 near Rugby (east) and M1 | Eastbound | Roadworks</title>
+      <description>On the M45 eastbound between the junctions with the A45 and the M1, minor delays are possible due to roadworks closing one lane. Expect disruption until 4:00 pm.</description>
+      <pubDate>Sat, 01 Oct 2011 23:12:07 GMT</pubDate>
+      <reference>P-11-0514-0014</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336636</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.476783425502&amp;lon=-1.40165370913511</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M69 southbound between J1 and M6/A46/A4600 | Southbound | Roadworks</title>
+      <description>On the M69 southbound between junction J1 and the M6, minor delays are possible due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:11:27 GMT</pubDate>
+      <reference>P-11-0912-0102</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">308310</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.646038773745&amp;lon=-1.59538859474187</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M42 northbound between J10 and J11 | Northbound | Roadworks</title>
+      <description>On the M42 northbound between junctions J10 and J11, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:11:15 GMT</pubDate>
+      <reference>P-11-0825-0047</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336635</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4802862259276&amp;lon=-1.39922085712064</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M69 northbound between M6/A46/A4600 and J1 | Northbound | Roadworks</title>
+      <description>On the M69 northbound between the M6 and junction J1, minor delays are possible due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:10:58 GMT</pubDate>
+      <reference>P-11-0912-0103</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341411</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5851456413447&amp;lon=-1.57341158508949</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A5 northbound between B4116 and M42 | Northbound | Roadworks</title>
+      <description>On the A5 from Harpenden towards Cannock between the junctions with the A47 and the M42, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:09:31 GMT</pubDate>
+      <reference>P-11-0929-0157</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341413</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.6497759896146&amp;lon=-1.83321177608364</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>roundabout at M6 Toll JT5/A5/A5148 | OnRoundabout | Roadworks</title>
+      <description>At the junction of the A5 and the A5127 , minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:09:05 GMT</pubDate>
+      <reference>P-11-0929-0129</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341412</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.6529252025789&amp;lon=-1.82274883836842</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A5148 southbound between A38 and M6 Toll/A5 | Southbound | Roadworks</title>
+      <description>On the A5148 southbound between the junctions with the A38 and the A5, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:09:03 GMT</pubDate>
+      <reference>P-11-0929-0128</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">328249</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5128858680925&amp;lon=-1.97531923061085</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J1 northbound access | Northbound | Roadworks</title>
+      <description>The M5 northbound entry slip at junction J1 is closed  , due to roadworks. Road expected to re-open from 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:06:56 GMT</pubDate>
+      <reference>P-11-0919-0163</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341397</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.8760114421724&amp;lon=-3.03862701928416</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A5 southbound between B5069 and A495 | Southbound | Roadworks</title>
+      <description>The A5 from The Welsh Border towards Telford West is closed between the junctions with the A483 and the A483, due to roadworks. Road expected to re-open from 4:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:05:30 GMT</pubDate>
+      <reference>P-11-0929-0369</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343563</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5054447364335&amp;lon=-1.99907230621343</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J1 and J2 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J1 and J2, minor delays can be expected at peak times due to roadworks , between 6 am and 5 pm, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 16:00:18 GMT</pubDate>
+      <reference>P-11-0930-0280</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343564</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5054806975651&amp;lon=-1.99942588837382</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J2 and J1 | Northbound | Roadworks</title>
+      <description>On the M5 northbound between junctions J2 and J1, minor delays can be expected at peak times due to roadworks , between 6 am and 5 pm, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 16:00:14 GMT</pubDate>
+      <reference>P-11-0930-0274</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343565</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5109712112818&amp;lon=-1.97627803091724</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J1 northbound exit | Northbound | Roadworks</title>
+      <description>On the M5 northbound exit slip at junction J1  , minor delays can be expected at peak times due to roadworks closing one lane, between 6 am and 5 pm, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 16:00:12 GMT</pubDate>
+      <reference>P-11-0930-0279</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343562</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4938823709039&amp;lon=-2.01740975697143</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J2 southbound exit | Southbound | Roadworks</title>
+      <description>On the M5 southbound exit slip at junction J2  , minor delays can be expected at peak times due to roadworks closing one lane, between 6 am and 5 pm, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 16:00:10 GMT</pubDate>
+      <reference>P-11-0930-0282</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343566</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4932977671258&amp;lon=-2.01905911920798</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J2 northbound access | Northbound | Roadworks</title>
+      <description>On the M5 northbound entry slip at junction J2  , minor delays can be expected at peak times due to roadworks closing one lane, between 6 am and 5 pm, from 1 October 2011 to 2 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 16:00:08 GMT</pubDate>
+      <reference>P-11-0930-0276</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">251696</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.1007787105778&amp;lon=-1.92325160891038</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 southbound between A4184 and B4035 | Southbound | Roadworks</title>
+      <description>On the A46 from Coventry towards The M5 between the junctions with the A4184 and the M5, minor delays can be expected at peak times due to roadworks , between 8:30 am and 3:30 pm, from 11 July 2011 to 5 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 14:30:51 GMT</pubDate>
+      <reference>P-11-0705-0290</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">342083</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5197429274943&amp;lon=-1.37308378672576</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A5 southbound between A47 near Hinckley (east) and M69 | Southbound | Roadworks</title>
+      <description>On the A5 from Cannock towards Harpenden between the junctions with the A47 Hinckley and the M69, minor delays can be expected at peak times due to roadworks , between 9:30 am and 3:30 pm, from 5 September 2011 to 6 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 14:30:21 GMT</pubDate>
+      <reference>P-11-0929-0326</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341271</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5195699442865&amp;lon=-1.37267359656025</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A5 northbound between M69 and A47 near Hinckley (east) | Northbound | Roadworks</title>
+      <description>On the A5 from Harpenden towards Cannock between the junctions with the M69 and the A47 Hinckley, minor delays can be expected at peak times due to roadworks , between 9:30 am and 3:30 pm, from 5 September 2011 to 6 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 14:30:18 GMT</pubDate>
+      <reference>P-11-0929-0322</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343640</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2381245117733&amp;lon=-1.66156259404172</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 southbound between A439 and A3400 | Southbound | Roadworks</title>
+      <description>On the A46 from Coventry towards The M5 between the junctions with the A439 and the A435 Alcester, minor delays can be expected at peak times due to roadworks , between 8:30 am and 3:30 pm, from 12 July 2011 to 5 November 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 14:30:12 GMT</pubDate>
+      <reference>P-11-1001-0009</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343641</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.1824373516198&amp;lon=-1.87816702841953</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 southbound between A435 near Alcester and B439 | Southbound | Roadworks</title>
+      <description>On the A46 from Coventry towards The M5 between the junctions with the A435 Alcester and the A4184, minor delays can be expected at peak times due to roadworks , between 8:30 am and 3:30 pm, from 12 July 2011 to 5 November 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 14:30:10 GMT</pubDate>
+      <reference>P-11-0930-0218</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343642</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.1441864295633&amp;lon=-1.90111148878329</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 northbound between A4184 and B439 | Northbound | Roadworks</title>
+      <description>On the A46 from The M5 towards Coventry between the junctions with the A4184 and the A435 Alcester, minor delays can be expected at peak times due to roadworks , between 8:30 am and 3:30 pm, from 12 July 2011 to 5 November 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 14:30:08 GMT</pubDate>
+      <reference>P-11-0930-0219</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343350</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.6008762333496&amp;lon=-2.7629674435135</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A49 northbound between B4371 and A5/A5112 near Shrewsbury (south) | Northbound | Roadworks</title>
+      <description>The A49 northbound will be closed between the junctions with the A4117 and the A5 due to roadworks, between 9 pm and 6 am, from 6 October 2011 to 12 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 21:45:52 GMT</pubDate>
+      <reference>P-11-0930-0413</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343111</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5558711427593&amp;lon=-2.78647921367925</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A49 northbound between B4371 and A5/A5112 near Shrewsbury (south) | Northbound | Roadworks</title>
+      <description>The A49 northbound will be closed between the junctions with the A4117 and the A5 due to roadworks, between 8 pm and 6 am, from 3 October 2011 to 5 November 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 19:00:32 GMT</pubDate>
+      <reference>P-11-0930-0328</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343099</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4871021335549&amp;lon=-2.81620741671375</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>A49 northbound between B4368 near Ludlow (north) and B4371 | Northbound | Roadworks</title>
+      <description>The A49 northbound will be closed between the junctions with the A4117 and the A5 due to roadworks, between 8 pm and 6 am, from 3 October 2011 to 6 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 18:57:18 GMT</pubDate>
+      <reference>P-11-0930-0330</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">302127</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2506787441148&amp;lon=-2.13375040650072</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J6 and J5 | Northbound | Roadworks</title>
+      <description>On the M5 northbound between junctions J6 and J5, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 7 November 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 17:02:19 GMT</pubDate>
+      <reference>P-11-0826-0164</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">342879</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5260369984021&amp;lon=-1.97050686515524</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M5 northbound between J1 and M6 | Northbound | Roadworks</title>
+      <description>The M5 northbound will be closed between J1 and the M6 due to roadworks, between 8 pm and 6 am, from 3 October 2011 to 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 16:28:47 GMT</pubDate>
+      <reference>P-11-0930-0270</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">342877</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5128858680925&amp;lon=-1.97531923061085</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J1 northbound access | Northbound | Roadworks</title>
+      <description>The M5 northbound entry slip at junction J1 will be closed   due to roadworks, between 8 pm and 6 am, from 3 October 2011 to 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 16:28:47 GMT</pubDate>
+      <reference>P-11-0930-0272</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341694</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4389355866667&amp;lon=-2.01762313051663</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J3 and J4 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J3 and J4, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 25 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 01:26:05 GMT</pubDate>
+      <reference>P-11-0930-0012</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341693</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4389715064061&amp;lon=-2.01788793262522</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J4 and J3 | Northbound | Roadworks</title>
+      <description>On the M5 northbound between junctions J4 and J3, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 25 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 01:25:20 GMT</pubDate>
+      <reference>P-11-0930-0011</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341552</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4438047121518&amp;lon=-1.70977556268298</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>entertainment event</category>
+      <title>M42 J6 southbound access | Southbound | Entertainment Event</title>
+      <description>On the M42 southbound entry slip at junction J6  , expect delays of up to 10 mins at peak times due to an entertainment event ,  from 10:30 pm on 6 October 2011 to 11:59 pm on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 21:40:57 GMT</pubDate>
+      <reference>P-11-0929-0052</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341551</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4467714499772&amp;lon=-1.70978550894798</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>entertainment event</category>
+      <title>M42 J6 northbound access | Northbound | Entertainment Event</title>
+      <description>On the M42 northbound entry slip at junction J6  , expect delays of up to 10 mins at peak times due to an entertainment event ,  from 10:30 pm on 6 October 2011 to 11:59 pm on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 21:40:49 GMT</pubDate>
+      <reference>P-11-0929-0054</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341399</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4472449506055&amp;lon=-1.70857591550679</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>entertainment event</category>
+      <title>M42 J6 southbound exit | Southbound | Entertainment Event</title>
+      <description>On the M42 southbound exit slip at junction J6  , expect delays of up to 10 mins at peak times due to an entertainment event ,  from 6 pm on 6 October 2011 to 7:30 pm on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:53:22 GMT</pubDate>
+      <reference>P-11-0929-0049</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341398</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4438619978761&amp;lon=-1.71114341157675</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>entertainment event</category>
+      <title>M42 J6 northbound exit for N.E.C. and A45 eastbound | Northbound | Entertainment Event</title>
+      <description>On the M42 northbound exit slip at junction J6  , expect delays of up to 10 mins at peak times due to an entertainment event ,  from 6 pm on 6 October 2011 to 7:30 pm on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:53:12 GMT</pubDate>
+      <reference>P-11-0929-0046</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341302</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2867376626167&amp;lon=-2.11796778394503</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J5 southbound access | Southbound | Roadworks</title>
+      <description>The M5 southbound entry slip at junction J5 will be closed   due to roadworks, between 8 pm and 6 am, from 6 October 2011 to 9 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:03:06 GMT</pubDate>
+      <reference>P-11-0929-0017</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341301</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2139141623294&amp;lon=-2.15800864283306</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 J6 northbound access | Northbound | Roadworks</title>
+      <description>The M5 northbound entry slip at junction J6 will be closed   due to roadworks, between 8 pm and 6 am, from 6 October 2011 to 9 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:02:49 GMT</pubDate>
+      <reference>P-11-0929-0016</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341298</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2512093702872&amp;lon=-2.13357622652975</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J5 and J6 | Southbound | Roadworks</title>
+      <description>The M5 southbound will be closed between junctions J5 and J6 due to roadworks, between 8 pm and 6 am, from 6 October 2011 to 9 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:02:35 GMT</pubDate>
+      <reference>P-11-0929-0014</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341297</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2506787441148&amp;lon=-2.13375040650072</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 northbound between J6 and J5 | Northbound | Roadworks</title>
+      <description>The M5 northbound will be closed between junctions J6 and J5 due to roadworks, between 8 pm and 6 am, from 6 October 2011 to 9 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:02:16 GMT</pubDate>
+      <reference>P-11-0929-0013</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339913</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3570069440247&amp;lon=-2.0279269996115</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>heavy disruption</category>
+      <title>M42 northbound between J1 and J2 | Northbound | Roadworks</title>
+      <description>On the M42 northbound between the M5 and J2, expect delays of up to 30 mins at peak times due to roadworks ,  from 9:30 pm on 5 October 2011 to 5 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 20:31:59 GMT</pubDate>
+      <reference>P-11-0928-0058</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339912</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3548777049902&amp;lon=-2.06834652688923</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M5 J4A southbound to M42 northbound | Northbound | Roadworks</title>
+      <description>The M42 northbound entry slip at junction J4A from M5 South will be closed   due to roadworks,  from 9:30 pm on 5 October 2011 to 5 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 20:31:57 GMT</pubDate>
+      <reference>P-11-0928-0061</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339911</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3521339250418&amp;lon=-2.07135200179909</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M5 J4A northbound to M42 northbound | Northbound | Roadworks</title>
+      <description>The M42 northbound entry slip at junction J4A from M5 North will be closed   due to roadworks,  from 9:30 pm on 5 October 2011 to 5 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 20:31:42 GMT</pubDate>
+      <reference>P-11-0928-0064</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339910</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3556357478177&amp;lon=-2.04337236525058</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M42 J1 northbound access | Northbound | Roadworks</title>
+      <description>The M42 northbound entry slip at junction J1 will be closed   due to roadworks,  from 9:30 pm on 5 October 2011 to 5 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 20:31:28 GMT</pubDate>
+      <reference>P-11-0928-0068</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">338415</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5087448212158&amp;lon=-1.7938905806649</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M6 J5 northbound exit | Northbound | Roadworks</title>
+      <description>The M6 northbound exit slip at junction J5 will be closed   due to carriageway resurfacing, between 10 pm and 5 am, from 4 October 2011 to 12 October 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 21:02:42 GMT</pubDate>
+      <reference>P-11-0927-0208</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">302128</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2512093702872&amp;lon=-2.13357622652975</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M5 southbound between J5 and J6 | Southbound | Roadworks</title>
+      <description>On the M5 southbound between junctions J5 and J6, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am on 7 November 2011.</description>
+      <pubDate>Tue, 27 Sep 2011 20:30:08 GMT</pubDate>
+      <reference>P-11-0826-0163</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336799</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4835660082405&amp;lon=-1.7165676402009</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>link road between M42 J7A northbound and the M6 J4 southbound | Northbound | Roadworks</title>
+      <description>The M42 northbound exit slip at junction J7A will be closed   due to roadworks, between 9:30 pm and 5:30 am, from 3 October 2011 to 13 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 20:34:06 GMT</pubDate>
+      <reference>P-11-0926-0134</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336798</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2488835153066&amp;lon=-1.56962600294168</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M40 southbound between J14 and J13 | Southbound | Roadworks</title>
+      <description>The M40 southbound will be closed between junctions J14 and J13 due to roadworks, between 9:30 pm and 5 am, from 3 October 2011 to 5 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 20:33:50 GMT</pubDate>
+      <reference>P-11-0926-0095</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327285</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2087517571694&amp;lon=-1.84003146210582</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 northbound between A435 near Alcester and A422 | Northbound | Roadworks</title>
+      <description>On the A46 from The M5 towards Coventry between the junctions with the A435 Alcester and the A422, minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 10 February 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:49 GMT</pubDate>
+      <reference>P-11-0912-0137</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327284</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2086688347639&amp;lon=-1.83855369969901</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 southbound between A422 and A435 near Alcester | Southbound | Roadworks</title>
+      <description>On the A46 from Coventry towards The M5 between the junctions with the A422 and the A435 Alcester, minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 10 February 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:49 GMT</pubDate>
+      <reference>P-11-0912-0136</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327279</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.1767309543034&amp;lon=-1.88063937810178</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 northbound between B439 and A435 near Alcester | Northbound | Roadworks</title>
+      <description>On the A46 from The M5 towards Coventry between the junctions with the A4184 and the A435 Alcester, minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 7 October 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:49 GMT</pubDate>
+      <reference>P-11-0912-0148</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">327278</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.1824373516198&amp;lon=-1.87816702841953</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>A46 southbound between A435 near Alcester and B439 | Southbound | Roadworks</title>
+      <description>On the A46 from Coventry towards The M5 between the junctions with the A435 Alcester and the A4184, minor delays are possible due to roadworks . Expect disruption until 11:59 pm on 7 October 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:49 GMT</pubDate>
+      <reference>P-11-0912-0146</reference>
+    </item>
+  </channel>
+</rss>

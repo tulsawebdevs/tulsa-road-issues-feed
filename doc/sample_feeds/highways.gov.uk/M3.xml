@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, on the M3</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:11 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, on the M3</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:11 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">340121</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3741246960805&amp;lon=-0.607379077807138</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M3 eastbound between J3 and J2 | Eastbound | Roadworks</title>
+      <description>On the M3 eastbound between junctions J3 and J2, there are currently delays of 10 mins due to roadworks . Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:09:51 GMT</pubDate>
+      <reference>P-11-0929-0025</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343307</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.2578386469097&amp;lon=-1.06550279857184</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M3 eastbound within J6 | Eastbound | Roadworks</title>
+      <description>On the M3 eastbound at junction J6, expect delays of up to 10 mins at peak times due to roadworks closing three lanes,  from 10 pm on 7 October 2011 to 6 am on 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 21:04:16 GMT</pubDate>
+      <reference>P-11-0930-0017</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343306</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.2576760148726&amp;lon=-1.0654057801985</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M3 westbound within J6 | Westbound | Roadworks</title>
+      <description>On the M3 westbound at junction J6, expect delays of up to 10 mins at peak times due to roadworks closing three lanes,  from 10 pm on 7 October 2011 to 6 am on 10 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 21:04:08 GMT</pubDate>
+      <reference>P-11-0930-0014</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341503</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.356568760957&amp;lon=-0.680137963264221</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M3 J3 eastbound access | Eastbound | Roadworks</title>
+      <description>The M3 eastbound entry slip at junction J3 will be closed   due to roadworks, between 10 pm and 6 am, from 6 October 2011 to 8 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 21:01:18 GMT</pubDate>
+      <reference>P-11-0929-0008</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341387</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3012686195803&amp;lon=-0.799866728070804</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M3 J4A westbound access | Westbound | Roadworks</title>
+      <description>The M3 westbound entry slip at junction J4A will be closed   due to roadworks, between 10 pm and 6 am, from 5 October 2011 to 7 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:48:06 GMT</pubDate>
+      <reference>P-11-0929-0368</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341381</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.303282526246&amp;lon=-0.795453278639816</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M3 J4A eastbound exit | Eastbound | Roadworks</title>
+      <description>The M3 eastbound exit slip at junction J4A will be closed   due to roadworks, between 10 pm and 6 am, from 3 October 2011 to 5 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:46:56 GMT</pubDate>
+      <reference>P-11-0929-0366</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341382</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3032748542753&amp;lon=-0.794707530411216</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M3 J4A eastbound access | Eastbound | Roadworks</title>
+      <description>The M3 eastbound entry slip at junction J4A will be closed   due to roadworks, between 10 pm and 6 am, from 3 October 2011 to 5 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:46:56 GMT</pubDate>
+      <reference>P-11-0929-0367</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341354</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3567831417635&amp;lon=-0.677618448381712</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M3 J3 westbound exit | Westbound | Roadworks</title>
+      <description>The M3 westbound exit slip at junction J3 will be closed   due to roadworks,  from 9:40 pm on 4 October 2011 to 6 am on 5 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:20:58 GMT</pubDate>
+      <reference>P-11-0929-0335</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336959</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.1689443447908&amp;lon=-1.22729468773376</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M3 westbound between J8 and J9 | Westbound | Roadworks</title>
+      <description>The M3 westbound will be closed between junctions J8 and J9 due to roadworks, between 10 pm and 6 am, from 3 October 2011 to 5 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:16:58 GMT</pubDate>
+      <reference>P-11-0926-0044</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336958</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.3084130101229&amp;lon=-0.775979507708823</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M3 eastbound between J4A and J4 | Eastbound | Roadworks</title>
+      <description>On the M3 eastbound between junctions J4A and J4, expect delays of up to 10 mins at peak times due to roadworks , between 10 pm and 6 am, from 3 October 2011 to 7 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:16:37 GMT</pubDate>
+      <reference>P-11-0926-0041</reference>
+    </item>
+  </channel>
+</rss>

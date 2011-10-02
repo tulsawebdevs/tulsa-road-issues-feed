@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, on the M1</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:08 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, on the M1</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:08 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">320362</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.1319059934055&amp;lon=-0.824327171393212</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J15 and J14 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J15 and J14, minor delays are possible due to roadworks closing one lane. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:26:06 GMT</pubDate>
+      <reference>P-11-0905-0024</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336339</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.8934934389741&amp;lon=-0.469699503441406</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound within J11 | Southbound | Roadworks</title>
+      <description>On the M1 southbound at junction J11, there are currently delays of 10 mins due to roadworks closing three lanes. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:25:38 GMT</pubDate>
+      <reference>P-11-0926-0287</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344324</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.8749762156403&amp;lon=-0.44542905953123</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J11 and J10 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J11 and J10, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:25:21 GMT</pubDate>
+      <reference>P-11-0926-0288</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">328453</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.0420487279443&amp;lon=-0.654445105060593</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J14 and J13 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J14 and J13, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:24:18 GMT</pubDate>
+      <reference>P-11-0912-0036</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">305927</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.9202580287824&amp;lon=-0.490325564438138</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J12 and J11 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J12 and J11, there are currently delays of 10 mins due to bridge repairs closing two lanes. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:23:24 GMT</pubDate>
+      <reference>P-11-0830-0324</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">52128</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.2611679299861&amp;lon=-1.08661386992193</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J17 and J16 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J18 and J16, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:22:41 GMT</pubDate>
+      <reference>P-11-0105-0445</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">318436</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6179173275539&amp;lon=-0.253560596816783</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J2 and J4 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J1 and J4, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:21:17 GMT</pubDate>
+      <reference>P-11-0910-0032</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">273091</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.0263404690401&amp;lon=-1.24660759555662</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J26 and J27 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J26 and J27, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:20:35 GMT</pubDate>
+      <reference>P-11-0729-0299</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">273089</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.0819660510364&amp;lon=-1.29653006278071</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J28 and J27 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J28 and J27, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:20:31 GMT</pubDate>
+      <reference>P-11-0729-0302</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">278286</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.8748980131132&amp;lon=-0.445635133139066</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J10 and J11 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J10 and J11, minor delays are possible due to roadworks closing one lane. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:20:16 GMT</pubDate>
+      <reference>P-11-0729-0201</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">273092</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.0822942160807&amp;lon=-1.29730102786513</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J27 and J28 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J27 and J28, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:19:55 GMT</pubDate>
+      <reference>P-11-0729-0301</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">318435</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6363129213223&amp;lon=-0.287579331933758</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J4 and J2 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J4 and J1, there are currently delays of 10 mins due to roadworks closing two lanes. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:19:48 GMT</pubDate>
+      <reference>P-11-0910-0033</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">273087</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.0261496366176&amp;lon=-1.24628290502771</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J27 and J26 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J27 and J26, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:19:43 GMT</pubDate>
+      <reference>P-11-0729-0300</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336334</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.0264012202992&amp;lon=-0.601698911810442</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 J13 southbound access | Southbound | Roadworks</title>
+      <description>The M1 southbound entry slip at junction J13 is closed  , due to roadworks. Road expected to re-open from 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:18:23 GMT</pubDate>
+      <reference>P-11-0926-0281</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">328452</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.0418792844593&amp;lon=-0.654566838377304</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J13 and J14 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J13 and J14, minor delays are possible due to roadworks . Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:08:35 GMT</pubDate>
+      <reference>P-11-0912-0035</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">320360</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.1317910341263&amp;lon=-0.824520124352929</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J14 and J15 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J14 and J15, minor delays are possible due to roadworks closing one lane. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:05:10 GMT</pubDate>
+      <reference>P-11-0905-0023</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344297</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4044459135596&amp;lon=-1.17679356464284</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M1 northbound within J19 | Northbound | Roadworks</title>
+      <description>The M1 northbound will be closed at junction J19 due to roadworks,  from 8 pm on 8 October 2011 to 8 am on 9 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:40:15 GMT</pubDate>
+      <reference>P-11-0926-0263</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344296</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4023789017729&amp;lon=-1.17561203930994</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M1 southbound within J19 | Southbound | Roadworks</title>
+      <description>The M1 southbound will be closed at junction J19 due to roadworks,  from 8 pm on 8 October 2011 to 8 am on 9 October 2011.</description>
+      <pubDate>Sat, 01 Oct 2011 20:39:49 GMT</pubDate>
+      <reference>P-11-0926-0264</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343301</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4023789017729&amp;lon=-1.17561203930994</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M1 southbound within J19 | Southbound | Roadworks</title>
+      <description>The M1 southbound will be closed at junction J19 due to roadworks,  from 10 pm on 7 October 2011 to 8 am on 8 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 21:04:00 GMT</pubDate>
+      <reference>P-11-0926-0258</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">343294</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4044459135596&amp;lon=-1.17679356464284</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M1 northbound within J19 | Northbound | Roadworks</title>
+      <description>The M1 northbound will be closed at junction J19 due to roadworks,  from 10 pm on 7 October 2011 to 8 am on 8 October 2011.</description>
+      <pubDate>Fri, 30 Sep 2011 21:03:47 GMT</pubDate>
+      <reference>P-11-0926-0257</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340774</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.0263404690401&amp;lon=-1.24660759555662</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>M1 northbound between J26 and J27 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J26 and J27, expect delays of up to 20 mins at peak times due to roadworks ,  from 11 pm on 5 October 2011 to 5 am on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 13:23:10 GMT</pubDate>
+      <reference>P-11-0928-0036</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340761</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.7066036850487&amp;lon=-0.384023713778752</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>link road from A405 northbound to M1 J6 northbound | Northbound | Roadworks</title>
+      <description>The M1 northbound entry slip at junction J6 will be closed   due to carriageway resurfacing, between 10 pm and 5:30 am, from 5 October 2011 to 13 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 13:19:38 GMT</pubDate>
+      <reference>P-11-0928-0028</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">340759</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.7066737948043&amp;lon=-0.383890958289346</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>link road from M1 J6 northbound to A405 northbound | Northbound | Roadworks</title>
+      <description>The M1 northbound exit slip at junction J6 will be closed   due to carriageway resurfacing, between 10 pm and 5:30 am, from 5 October 2011 to 13 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 13:18:23 GMT</pubDate>
+      <reference>P-11-0928-0026</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">26594</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3773369427955&amp;lon=-1.16481084143794</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J18 and J19 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J18 and J20, there are currently delays of 10 mins due to roadworks closing one lane. Expect disruption until 7:00 am on 23 March 2013.</description>
+      <pubDate>Thu, 29 Sep 2011 00:40:20 GMT</pubDate>
+      <reference>P-10-1209-0018</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">316156</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.427159066005&amp;lon=-1.19166577182702</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J20 and J19 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J20 and J18, there are currently delays of 10 mins due to roadworks closing one lane. Expect disruption until 7:00 am on 23 March 2013.</description>
+      <pubDate>Thu, 29 Sep 2011 00:39:33 GMT</pubDate>
+      <reference>P-11-0908-0216</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336956</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.7053773288403&amp;lon=-0.379855876256392</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from A405 southbound to M1 J6 southbound | Southbound | Roadworks</title>
+      <description>The M1 southbound entry slip at junction J6 will be closed   due to roadworks, between 10 pm and 5:30 am, from 3 October 2011 to 5 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:15:50 GMT</pubDate>
+      <reference>P-11-0926-0026</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336955</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.7053965007706&amp;lon=-0.379942027189511</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M1 J6 southbound to A405 southbound | Southbound | Roadworks</title>
+      <description>The M1 southbound exit slip at junction J6 will be closed   due to carriageway resurfacing, between 10 pm and 5:30 am, from 3 October 2011 to 5 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 23:13:18 GMT</pubDate>
+      <reference>P-11-0926-0023</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">334806</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6172742669726&amp;lon=-0.252646371375202</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J4 and J2 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J4 and J1, there are currently delays of 10 mins due to bridge repairs . Expect disruption until 5:00 am on 16 November 2011.</description>
+      <pubDate>Sun, 25 Sep 2011 03:04:33 GMT</pubDate>
+      <reference>P-11-0925-0014</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">334805</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6179173275539&amp;lon=-0.253560596816783</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J2 and J4 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J1 and J4, there are currently delays of 10 mins due to bridge repairs . Expect disruption until 5:00 am on 16 November 2011.</description>
+      <pubDate>Sun, 25 Sep 2011 03:04:09 GMT</pubDate>
+      <reference>P-11-0925-0013</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">318503</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6363129213223&amp;lon=-0.287579331933758</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J4 and J2 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J4 and J1, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am on 16 November 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:50 GMT</pubDate>
+      <reference>P-11-0910-0030</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">318434</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.6179173275539&amp;lon=-0.253560596816783</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J2 and J4 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J1 and J4, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am on 16 November 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:50 GMT</pubDate>
+      <reference>P-11-0910-0029</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">323960</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=53.3990601000299&amp;lon=-1.34855434465163</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 J33 southbound access | Southbound | Roadworks</title>
+      <description>The M1 southbound entry slip at junction J33 will be closed   due to roadworks, between 4 am and 8 am, from 9 October 2011 to 9 October 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:53 GMT</pubDate>
+      <reference>P-11-0915-0143</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">320766</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.8748980131132&amp;lon=-0.445635133139066</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J10 and J11 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J10 and J13, there are currently delays of 10 mins due to roadworks . Expect disruption until 4:00 am on 31 December 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:55 GMT</pubDate>
+      <reference>P-11-0913-0076</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">14273</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.0004671798156&amp;lon=-0.542839282020202</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J13 and J12 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J13 and J10, there are currently delays of 10 mins due to roadworks . Expect disruption until 4:00 am on 31 December 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:30:57 GMT</pubDate>
+      <reference>P-10-0427-0102</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">138710</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.0004671798156&amp;lon=-0.542839282020202</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 southbound between J13 and J12 | Southbound | Roadworks</title>
+      <description>On the M1 southbound between junctions J13 and J12, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am on 31 December 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:00 GMT</pubDate>
+      <reference>P-11-0301-0167</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">138711</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.0001802912166&amp;lon=-0.542906866476695</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M1 northbound between J12 and J13 | Northbound | Roadworks</title>
+      <description>On the M1 northbound between junctions J12 and J13, there are currently delays of 10 mins due to roadworks . Expect disruption until 5:00 am on 31 December 2011.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:00 GMT</pubDate>
+      <reference>P-11-0301-0166</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">864</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=51.7066737948043&amp;lon=-0.383890958289346</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M1 J6 northbound to A405 northbound | Northbound | Roadworks</title>
+      <description>On the M1 northbound exit slip at junction J6  , minor delays are possible due to roadworks . Expect disruption until 12:00 am on 5 July 2012.</description>
+      <pubDate>Tue, 20 Sep 2011 16:31:00 GMT</pubDate>
+      <reference>P-10-0809-0209</reference>
+    </item>
+  </channel>
+</rss>

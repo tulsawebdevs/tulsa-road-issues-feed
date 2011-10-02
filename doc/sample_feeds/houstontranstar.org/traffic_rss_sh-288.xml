@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Houston TranStar Traffic Information for SH-288</title>
+        <link>http://traffic.houstontranstar.org</link>
+        <description>Houston TranStar Traffic Information for SH-288</description>
+        <language>en-us</language>
+        <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        <item>
+            <title>No incidents are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Travel Time: SH-288 Northbound from Beltway 8-South to IH-610 South Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 6 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">17799634</guid>
+        </item>
+        <item>
+            <title>Travel Time: SH-288 Northbound from Beltway 8-South to US-59 Southwest</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 9 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">18179740</guid>
+        </item>
+        <item>
+            <title>Travel Time: SH-288 Southbound from US-59 Southwest to IH-610 South Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 4 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">15845270</guid>
+        </item>
+        <item>
+            <title>Travel Time: SH-288 Southbound from US-59 Southwest to Beltway 8-South</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 10 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">16483019</guid>
+        </item>
+        <item>
+            <title>No Lane Closures are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

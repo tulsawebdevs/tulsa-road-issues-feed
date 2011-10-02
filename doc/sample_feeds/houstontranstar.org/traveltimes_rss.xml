@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Houston TranStar Travel Times</title>
+        <link>http://traffic.houstontranstar.org</link>
+        <description>Houston TranStar Travel Times</description>
+        <language>en-us</language>
+        <pubDate>Sun, 02 Oct 2011 00:00:01 GMT</pubDate>
+        <item>
+            <title>No Travel Times are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:00:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

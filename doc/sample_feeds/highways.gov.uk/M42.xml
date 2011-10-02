@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Traffic Information for England - All confirmed events, on the M42</title>
+    <link>http://atlaspro.tistrafficinfo.com/</link>
+    <description>The latest traffic information for England's motorway and trunk routes provided by the Highways Agency.</description>
+    <language>en-gb</language>
+    <copyright>Copyright 2011</copyright>
+    <lastBuildDate>Sun, 02 Oct 2011 00:45:16 Z</lastBuildDate>
+    <generator>Atlas Professional</generator>
+    <image>
+      <url>http://atlas2dev.tccdev.com/Images/HALogo.png</url>
+      <title>Latest Traffic Information for England - All confirmed events, on the M42</title>
+      <link>http://atlaspro.tistrafficinfo.com/</link>
+    </image>
+    <pubDate>Sun, 02 Oct 2011 00:45:16 GMT</pubDate>
+    <ttl>2</ttl>
+    <item>
+      <guid isPermaLink="false">344223</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5746265091883&amp;lon=-1.68857979629681</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M42 southbound between J10 and J9 | Southbound | Roadworks</title>
+      <description>On the M42 southbound between junctions J10 and J9, minor delays are possible due to barrier repairs closing one lane. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:13:46 GMT</pubDate>
+      <reference>P-11-0930-0390</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">344222</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.5747167936103&amp;lon=-1.68872671581844</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M42 northbound between J9 and J10 | Northbound | Roadworks</title>
+      <description>On the M42 northbound between junctions J9 and J10, minor delays are possible due to barrier repairs closing one lane. Expect disruption until 5:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:13:35 GMT</pubDate>
+      <reference>P-11-0930-0391</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">308310</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.646038773745&amp;lon=-1.59538859474187</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M42 northbound between J10 and J11 | Northbound | Roadworks</title>
+      <description>On the M42 northbound between junctions J10 and J11, minor delays are possible due to roadworks closing one lane. Expect disruption until 6:00 am.</description>
+      <pubDate>Sat, 01 Oct 2011 23:11:15 GMT</pubDate>
+      <reference>P-11-0825-0047</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341552</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4438047121518&amp;lon=-1.70977556268298</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>entertainment event</category>
+      <title>M42 J6 southbound access | Southbound | Entertainment Event</title>
+      <description>On the M42 southbound entry slip at junction J6  , expect delays of up to 10 mins at peak times due to an entertainment event ,  from 10:30 pm on 6 October 2011 to 11:59 pm on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 21:40:57 GMT</pubDate>
+      <reference>P-11-0929-0052</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341551</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4467714499772&amp;lon=-1.70978550894798</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>entertainment event</category>
+      <title>M42 J6 northbound access | Northbound | Entertainment Event</title>
+      <description>On the M42 northbound entry slip at junction J6  , expect delays of up to 10 mins at peak times due to an entertainment event ,  from 10:30 pm on 6 October 2011 to 11:59 pm on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 21:40:49 GMT</pubDate>
+      <reference>P-11-0929-0054</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341399</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4472449506055&amp;lon=-1.70857591550679</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>entertainment event</category>
+      <title>M42 J6 southbound exit | Southbound | Entertainment Event</title>
+      <description>On the M42 southbound exit slip at junction J6  , expect delays of up to 10 mins at peak times due to an entertainment event ,  from 6 pm on 6 October 2011 to 7:30 pm on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:53:22 GMT</pubDate>
+      <reference>P-11-0929-0049</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">341398</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4438619978761&amp;lon=-1.71114341157675</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>entertainment event</category>
+      <title>M42 J6 northbound exit for N.E.C. and A45 eastbound | Northbound | Entertainment Event</title>
+      <description>On the M42 northbound exit slip at junction J6  , expect delays of up to 10 mins at peak times due to an entertainment event ,  from 6 pm on 6 October 2011 to 7:30 pm on 6 October 2011.</description>
+      <pubDate>Thu, 29 Sep 2011 19:53:12 GMT</pubDate>
+      <reference>P-11-0929-0046</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339913</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3570069440247&amp;lon=-2.0279269996115</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>heavy disruption</category>
+      <title>M42 northbound between J1 and J2 | Northbound | Roadworks</title>
+      <description>On the M42 northbound between the M5 and J2, expect delays of up to 30 mins at peak times due to roadworks ,  from 9:30 pm on 5 October 2011 to 5 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 20:31:59 GMT</pubDate>
+      <reference>P-11-0928-0058</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339912</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3548777049902&amp;lon=-2.06834652688923</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M5 J4A southbound to M42 northbound | Northbound | Roadworks</title>
+      <description>The M42 northbound entry slip at junction J4A from M5 South will be closed   due to roadworks,  from 9:30 pm on 5 October 2011 to 5 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 20:31:57 GMT</pubDate>
+      <reference>P-11-0928-0061</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339911</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3521339250418&amp;lon=-2.07135200179909</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>link road from M5 J4A northbound to M42 northbound | Northbound | Roadworks</title>
+      <description>The M42 northbound entry slip at junction J4A from M5 North will be closed   due to roadworks,  from 9:30 pm on 5 October 2011 to 5 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 20:31:42 GMT</pubDate>
+      <reference>P-11-0928-0064</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">339910</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.3556357478177&amp;lon=-2.04337236525058</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <title>M42 J1 northbound access | Northbound | Roadworks</title>
+      <description>The M42 northbound entry slip at junction J1 will be closed   due to roadworks,  from 9:30 pm on 5 October 2011 to 5 am on 6 October 2011.</description>
+      <pubDate>Wed, 28 Sep 2011 20:31:28 GMT</pubDate>
+      <reference>P-11-0928-0068</reference>
+    </item>
+    <item>
+      <guid isPermaLink="false">336799</guid>
+      <link>http://www.trafficengland.co.uk/map.aspx?isTrafficAlert=true&amp;lat=52.4835660082405&amp;lon=-1.7165676402009</link>
+      <author>ha_info@highways.gsi.gov.uk</author>
+      <category>roadworks</category>
+      <category>moderate disruption</category>
+      <title>link road between M42 J7A northbound and the M6 J4 southbound | Northbound | Roadworks</title>
+      <description>The M42 northbound exit slip at junction J7A will be closed   due to roadworks, between 9:30 pm and 5:30 am, from 3 October 2011 to 13 October 2011.</description>
+      <pubDate>Mon, 26 Sep 2011 20:34:06 GMT</pubDate>
+      <reference>P-11-0926-0134</reference>
+    </item>
+  </channel>
+</rss>

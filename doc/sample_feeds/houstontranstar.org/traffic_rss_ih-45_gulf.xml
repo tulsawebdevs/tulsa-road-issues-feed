@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Houston TranStar Traffic Information for IH-45 GULF</title>
+        <link>http://traffic.houstontranstar.org</link>
+        <description>Houston TranStar Traffic Information for IH-45 GULF</description>
+        <language>en-us</language>
+        <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        <item>
+            <title>No incidents are reported.</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 Gulf Northbound from NASA Road One to Beltway 8-South</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 10 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">19573891</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 Gulf Northbound from NASA Road One to IH-610 South Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 15 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">20977726</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 Gulf Northbound from Beltway 8-South to IH-610 South Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 6 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">21414228</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 Gulf Northbound from Beltway 8-South to Downtown</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 14 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">22166713</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 Gulf Northbound from IH-610 South Loop to Downtown</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 8 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">65322910</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 Gulf Southbound from Downtown to IH-610 South Loop</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 8 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">23329371</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 Gulf Southbound from Downtown to Beltway 8-South</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 13 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">24163607</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 Gulf Southbound from IH-610 South Loop to Beltway 8-South</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 6 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">25313190</guid>
+        </item>
+        <item>
+            <title>Travel Time: IH-45 Gulf Southbound from IH-610 South Loop to NASA Road One</title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Travel Time: 12 Minutes</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">26575997</guid>
+        </item>
+        <item>
+            <title>Lane Closure: IH-45 GULF Southbound Frontage Road at FM-1959/DIXIE FARM RD </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed continuously until 5:00 PM, Thursday, January 19, 2012 - Lanes Affected: TOTAL CLOSURE - Status: Active</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6627257388</guid>
+        </item>
+        <item>
+            <title>Lane Closure: IH-45 GULF Southbound at FM-1959/DIXIE FARM RD </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed continuously from 9:00 PM, Saturday, October 1 to 5:00 AM, Monday, October 3 - Lanes Affected: alternate lanes. - Status: Inactive</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6776297771</guid>
+        </item>
+        <item>
+            <title>Lane Closure: IH-45 GULF Southbound from SCARSDALE BLVD to FM-2351/CLEAR LAKE CITY BLVD </title>
+            <link>http://traffic.houstontranstar.org</link>
+            <description>Closed nightly 11:00 PM to 8:00 AM from Saturday, October 1 to Sunday, October 2 - Lanes Affected: Alternate lanes - Status: Inactive</description>
+            <pubDate>Sun, 02 Oct 2011 00:03:01 GMT</pubDate>
+            <guid isPermaLink="false">6775741422</guid>
+        </item>
+    </channel>
+</rss>

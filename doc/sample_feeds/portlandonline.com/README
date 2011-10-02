@@ -1,0 +1,11 @@
+Portland has a feed of the last 100 public 9-1-1 incidents.  The description is here:
+
+http://www.portlandonline.com/cgis/metadata/viewer/display.cfm?Meta_layer_id=53216&Db_type=sde&City_Only=True
+
+The feed is at:
+
+http://www.portlandonline.com/scripts/911incidents.cfm
+
+There is a civicapps entry, including apps using the dataset:
+
+http://www.civicapps.org/datasets/911-dispatch-incidents-georss
