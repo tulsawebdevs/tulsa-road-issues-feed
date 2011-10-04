@@ -1,0 +1,2333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alert:Alerts xmlns:alert="http://www.cotrip.org/schema/alert" xmlns:global="http://www.cotrip.org/schema/global">
+    <alert:Header>
+        <global:EntityId>1</global:EntityId>
+        <global:Domain>cotrip.org,www.cotrip.org,beta.cotrip.org,www.beta.cotrip.org,m.cotrip.org,cell.cotrip.org,go.cotrip.org</global:Domain>
+        <global:GeneratedDate>2011-10-03T13:31:45.246-06:00</global:GeneratedDate>
+    </alert:Header>
+    <alert:Alert>
+        <alert:AlertId>120218</alert:AlertId>
+        <alert:Type>Response</alert:Type>
+        <alert:Title>Open to Traffic</alert:Title>
+        <alert:Headline>&lt;b&gt;US 34 Eastbound / Westbound Trail Ridge Road (Milemarker 32-53)&lt;/b&gt;</alert:Headline>
+        <alert:Description>Historically closes 3rd week of October.  Closure date determined by severity of weather. Last updated on September 27th, 2011 at 1:27pm.</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.416859</global:Latitude>
+            <global:Longitude>-105.816284</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-27T13:27:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-27T13:27:31.937-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_response_severe_20x20.gif</alert:AlertIcon>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>38</alert:RoadId>
+        <alert:RoadName>US 34</alert:RoadName>
+        <alert:StartMileMarker>32</alert:StartMileMarker>
+        <alert:EndMileMarker>53</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120694</alert:AlertId>
+        <alert:Type>Response</alert:Type>
+        <alert:Title>Open to Traffic</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 82 Eastbound / Westbound Independence Pass (Milemarker 61-79)&lt;/b&gt;</alert:Headline>
+        <alert:Description>Open. Historically closes last week of October. Closure date determined by severity of weather. No vehicles longer than 35'. Last updated on September 27th, 2011 at 1:28pm.</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.108181</global:Latitude>
+            <global:Longitude>-106.567268</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-27T13:28:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-27T13:28:28.130-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_response_severe_20x20.gif</alert:AlertIcon>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>84</alert:RoadId>
+        <alert:RoadName>CO 82</alert:RoadName>
+        <alert:StartMileMarker>61</alert:StartMileMarker>
+        <alert:EndMileMarker>79</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120220</alert:AlertId>
+        <alert:Type>Response</alert:Type>
+        <alert:Title>Open to Traffic</alert:Title>
+        <alert:Headline>&lt;b&gt;FR209, 306 Northbound / Southbound FR 209, 306 Cottonwood Pass (Milemarker 0-27)&lt;/b&gt;</alert:Headline>
+        <alert:Description>Historically closes last week of October.  Closure date determined by severity of weather. Last updated on September 27th, 2011 at 1:29pm.</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.839649</global:Latitude>
+            <global:Longitude>-106.553452</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-27T13:29:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-27T13:29:20.181-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_response_severe_20x20.gif</alert:AlertIcon>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>174</alert:RoadId>
+        <alert:RoadName>FR209, 306</alert:RoadName>
+        <alert:StartMileMarker>0</alert:StartMileMarker>
+        <alert:EndMileMarker>27</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120692</alert:AlertId>
+        <alert:Type>Response</alert:Type>
+        <alert:Title>Open to Traffic</alert:Title>
+        <alert:Headline>&lt;b&gt;GCR 12 Northbound / Southbound GCR 12 Kebler Pass (Milemarker 0-31)&lt;/b&gt;</alert:Headline>
+        <alert:Description>Historically closes late November.  Closure date determined by severity of weather. Last updated on September 27th, 2011 at 1:04pm.</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.94117</global:Latitude>
+            <global:Longitude>-107.360405</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-27T13:04:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-27T13:04:58.433-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_response_severe_20x20.gif</alert:AlertIcon>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>173</alert:RoadId>
+        <alert:RoadName>GCR 12</alert:RoadName>
+        <alert:StartMileMarker>0</alert:StartMileMarker>
+        <alert:EndMileMarker>31</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>115620</alert:AlertId>
+        <alert:Type>Road Closure</alert:Type>
+        <alert:Title>Closed to Traffic</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Eastbound / Westbound Glenwood Canyon Bike Path (Milemarker 123-125)&lt;/b&gt;</alert:Headline>
+        <alert:Description>Bike Path closed from Shoshone Power Plant to Hanging Lake rest area. Repairs scheduled to be completed late October-early November. Road closure began July 23rd, 2011 at 4:04pm.</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.571518</global:Latitude>
+            <global:Longitude>-107.224197</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-23T16:04:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-25T18:04:58.749-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_closure_severe_20x20.gif</alert:AlertIcon>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:EndLocation>
+            <global:Latitude>39.586559</global:Latitude>
+            <global:Longitude>-107.196495</global:Longitude>
+        </alert:EndLocation>
+        <alert:StartMileMarker>123</alert:StartMileMarker>
+        <alert:EndMileMarker>125</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119403</alert:AlertId>
+        <alert:Type>Seasonal Closure</alert:Type>
+        <alert:Title>Closed for the Season</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 5 Northbound / Southbound Mt. Evans Road (Milemarker 1-15)&lt;/b&gt;</alert:Headline>
+        <alert:Description>Closed for the season Echo Lake to the summit. Seasonal closure began September 8th, 2011 at 5:52pm.</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.652424</global:Latitude>
+            <global:Longitude>-105.605743</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-08T17:52:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-10-03T07:40:23.044-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_seasonal_closure_severe_20x20.gif</alert:AlertIcon>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>171</alert:RoadId>
+        <alert:RoadName>CO 5</alert:RoadName>
+        <alert:EndLocation>
+            <global:Latitude>39.587662</global:Latitude>
+            <global:Longitude>-105.642479</global:Longitude>
+        </alert:EndLocation>
+        <alert:StartMileMarker>1</alert:StartMileMarker>
+        <alert:EndMileMarker>15</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>90841</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Eastbound / Westbound Between Quebec and Havana for Central Park Blvd. (Milemarker 279)&lt;/b&gt; (through July 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00pm-7:00am FR, 8:00pm-5:00am MO-TH, 7:00pm-5:00am SU&lt;/b&gt;  Eastbound - Single lane closures at 7 pm SU and 8 pm MO-FR with a second lane closing in both directions at 10 pm MO-TH and FR at 11 pm. Westbound - Single lane closures at 7 pm SU and 8 pm MO-FR with a second lane closing at 11 pm and a third lane closing westbound only at midnight. Closures are for striping and median bridge work. &lt;b&gt;&lt;i&gt;Delays possible.  Alternate routes strongly advised.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.778271</global:Latitude>
+            <global:Longitude>-104.895523</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-09-20T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:09:23.207-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_severe_20x20.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-07-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:StartMileMarker>279</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120471</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;I-270 Eastbound Between York Street and Vasquez Boulevard (Milemarker 2-3)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;11:00pm-5:00am FR-MO&lt;/b&gt;  24 hours 11pm (9/30/11) - 5am (10/03/11): All lanes closed eastbound for bridge deck rehabiliation. First of several weekend closures. &lt;b&gt;&lt;i&gt;Motorists are urged to use I-25 and I-70 as an alternate route.&lt;/i&gt;&lt;/b&gt;&lt;BR&gt;&lt;b&gt;8:00pm-5:00am&lt;/b&gt;  Single lane closures over Dahlia St. for bridge deck repairs. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.813499</global:Latitude>
+            <global:Longitude>-104.950775</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-23T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T13:29:21.364-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_severe_20x20.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>48</alert:RoadId>
+        <alert:RoadName>I-270</alert:RoadName>
+        <alert:StartMileMarker>2</alert:StartMileMarker>
+        <alert:EndMileMarker>3</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>113912</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;US 40 Eastbound / Westbound Over Muddy Pass (Milemarker 165-179)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;6:00am-8:00pm MO-FR&lt;/b&gt; There will be one lane alternating traffic for resurfacing, guardrail adjustments and striping. &lt;b&gt;&lt;i&gt;30-40 minute delays.  9 ft. width restriction in effect M-F 7am-7pm.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.295258</global:Latitude>
+            <global:Longitude>-106.496979</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-06-22T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T15:07:45.965-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_severe_20x20.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>41</alert:RoadId>
+        <alert:RoadName>US 40</alert:RoadName>
+        <alert:StartMileMarker>165</alert:StartMileMarker>
+        <alert:EndMileMarker>179</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>116114</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 285 Northbound to SH 8 Ramp (Milemarker 248.3)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt;  Ramp bridge from northbound US 285 to northbound CO 8 closed for bridge rehabilitation. &lt;b&gt;&lt;i&gt;Traffic will be detoured on northbound US 285 to westbound C-470 and then from westbound C-470 right off again to the southbound US 285 exit where they will head back southbound to the CO 8 exit.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.621132</global:Latitude>
+            <global:Longitude>-105.198845</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-01T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:39:32.186-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_severe_20x20.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>36</alert:RoadId>
+        <alert:RoadName>US 285</alert:RoadName>
+        <alert:StartMileMarker>248.3</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>115193</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 10 Eastbound / Westbound Between La Junta and Walsenburg (Milemarker 46)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-5:00pm MO-FR&lt;/b&gt;  Possible one-lane alternating traffic for finishing work on landscaping. &lt;b&gt;&lt;i&gt;Minor delays.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>37.909729</global:Latitude>
+            <global:Longitude>-104.00782</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-22T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-10-03T11:54:55.469-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_severe_20x20.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-14T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>3</alert:RoadId>
+        <alert:RoadName>CO 10</alert:RoadName>
+        <alert:StartMileMarker>46</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>116112</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Emergency Maintenance</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 14 Eastbound / Westbound West of Cameron Pass near Gould (Milemarker 63)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours SU-SA&lt;/b&gt; There will be one lane alternating traffic with flaggers during work hours and with a traffic signal when construction activities are not taking place. &lt;b&gt;&lt;i&gt;15-20 minute delays.  12 ft. width restriction in effect.  Speed limit reduced to 35 mph.  Suggested alt. route is through Laramie WY then south to Walden on highways WY 230 to CO 127 and CO 125.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.504391</global:Latitude>
+            <global:Longitude>-105.898483</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-03T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-08-19T13:45:11.196-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_severe_20x20.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>8</alert:RoadId>
+        <alert:RoadName>CO 14</alert:RoadName>
+        <alert:StartMileMarker>63</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>118687</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 93 Southbound / Northbound Between CO 128 and CO 72 (Milemarker 7.5-11.7)&lt;/b&gt; (through September 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00pm-6:00am SU-TH, 8:30am-3:30pm MO-FR&lt;/b&gt;  Daytime: shoulder work for erosion control northbound only.  Nighttime: full closure of CO 93 from CO 128 to CO 72 for shoulder widening. &lt;b&gt;&lt;i&gt;Nighttime detours: NB- east on CO 72 to Indiana, north to CO 128 then west to CO 93; SB- east on CO 128 to Indiana, south to CO 72 then west to CO 93.  Major delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.874836</global:Latitude>
+            <global:Longitude>-105.241142</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-29T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:50:04.278-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_severe_20x20.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-09-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>South</alert:Direction>
+        <alert:DirectionType>2</alert:DirectionType>
+        <alert:RoadId>28</alert:RoadId>
+        <alert:RoadName>CO 93</alert:RoadName>
+        <alert:StartMileMarker>7.5</alert:StartMileMarker>
+        <alert:EndMileMarker>11.7</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>115179</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 121 Southbound Wadsworth Boulevard Between 104th and 88th Avenues (Milemarker 23)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-3:30pm MO-FR&lt;/b&gt;  Single lane closures for curb &amp; gutter work and median inlet work.  Two lanes open in each direction all other times. &lt;b&gt;&lt;i&gt;Delays possible.  Alternate routes strongly advised.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.873665</global:Latitude>
+            <global:Longitude>-105.092522</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-18T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T12:47:40.527-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_severe_20x20.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-31T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>South</alert:Direction>
+        <alert:DirectionType>2</alert:DirectionType>
+        <alert:RoadId>103</alert:RoadId>
+        <alert:RoadName>CO 121</alert:RoadName>
+        <alert:StartMileMarker>23</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>82866</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;C-470 Southbound / Northbound and US 85/Santa Fe Drive Interchange (Milemarker 17)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00pm-5:30am MO-TH, 6:00pm-5:30am SU&lt;/b&gt;  SU, various lane closures in both directions on Santa Fe from Mineral to C-470 6p-5:30a and the ramp from westbound C-470 to Santa Fe will be closed 8p-5:30a.  MO, various lanes closed eastbound C-470 from Santa Fe to Lucent 8p-5:30a.  In addition, the ramps from westbound C-470 to Santa Fe and from Santa Fe to eastbound C-470 will be closed 8p-5:30a.  TU, ramp from westbound C-470 to Santa Fe will be closed 8p-5:30a; WE, single lane closure on southbound Santa Fe from County Line Rd. to C-470 at 8p with a full closure of southbound only at 9p.  TH, ramp closed from Santa Fe to eastbound C-470 8p-5:30a.  Lane closures are for striping operations and bridge work. &lt;b&gt;&lt;i&gt;Detours posted.  Alternate routes strongly advised.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Severe</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.564545</global:Latitude>
+            <global:Longitude>-105.033875</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-06-21T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T11:42:13.070-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_severe_20x20.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>South</alert:Direction>
+        <alert:DirectionType>2</alert:DirectionType>
+        <alert:RoadId>1</alert:RoadId>
+        <alert:RoadName>C-470</alert:RoadName>
+        <alert:StartMileMarker>17</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120535</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Striping Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;I-25 Northbound / Southbound Between I-225 and Belleview Avenue (Milemarker 199-200)&lt;/b&gt; (through September 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00pm-5:30am SU-TH&lt;/b&gt;  SU, Right lane will be closed at 8pm and the ramp from Belleview to northbound I-25 and northbound I-225 will be closed at 8:30p.  MO-TH, single lane closed at 8pm with a second closing at 10p and a third lane closing at midnight. Closures are for bridge demoliton at Union Ave. &lt;b&gt;&lt;i&gt;Delays likely.  Alternate routes strongly advised.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.618542</global:Latitude>
+            <global:Longitude>-104.898582</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-26T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T16:14:11.234-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-09-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>31</alert:RoadId>
+        <alert:RoadName>I-25</alert:RoadName>
+        <alert:StartMileMarker>199</alert:StartMileMarker>
+        <alert:EndMileMarker>200</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>114498</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-25 Northbound at Santa Fe Drive (Milemarker 207)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00am-3:00pm MO-FR, 9:00pm-5:30am SU-TH&lt;/b&gt;  SU, two lanes closed northbound between Downing and Santa Fe for bridge pier cap work.  MO-TH, single lane closed northbound between Downing and Santa Fe for bridge work.  Daytime work in both directions on Santa Fe between Ohio and Home Depot frontage road with flaggers slowing traffic as needed. &lt;b&gt;&lt;i&gt;Delays possible.  Alternate routes strongly advised.&lt;/i&gt;&lt;/b&gt;&lt;BR&gt;&lt;b&gt;24 Hours&lt;/b&gt;  The ramps from southbound Santa Fe to southbound I-25 and from northbound Santa Fe to southbound I-25 are closed until further notice. &lt;b&gt;&lt;i&gt;SB Santa Fe traffic detoured south to Mississipi, east to Broadway, then north to I-25.  NB Santa  Fe traffic detoured at Mississippi east to Broadway then north to I-25.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.701572</global:Latitude>
+            <global:Longitude>-104.987762</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-05T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:07:41.017-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-29T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>31</alert:RoadId>
+        <alert:RoadName>I-25</alert:RoadName>
+        <alert:StartMileMarker>207</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>80010</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-25 Northbound at Alameda Avenue (Milemarker 208)&lt;/b&gt; (through September 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00pm-5:30am SU-TH&lt;/b&gt;  SU-TU, all lanes on eastbound and westbound Alameda and Kalamath will be closed for striping operations and traffic signal work.  In addtion, TU &amp; WE, the ramp from southbound I-25 to Santa Fe will be closed for light pole installation. WE, all lanes on northbound I-25 will be closed for traffic realignment from 8pm-5:30a.  TH, Various lanes on Alameda will be closed for asphalt removal and striping. &lt;b&gt;&lt;i&gt;Detours posted.  Alternate routes strongly advised.&lt;/i&gt;&lt;/b&gt;&lt;BR&gt;&lt;b&gt;7:00am-3:30pm MO-SA&lt;/b&gt;  Flaggers will control traffic on Kalamath and on Alameda for bridge work.Left turns are prohibited on westbound Alameda at Kalamath St./Santa Fe Dr. and at South Platte River Dr. &lt;b&gt;&lt;i&gt;Detours are posted. Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.711678</global:Latitude>
+            <global:Longitude>-104.999329</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-05-12T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T11:24:27.328-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-09-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>31</alert:RoadId>
+        <alert:RoadName>I-25</alert:RoadName>
+        <alert:StartMileMarker>208</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>111741</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-25 Northbound / Southbound Between Colfax Avenue and 23rd Avenue (Milemarker 210-211)&lt;/b&gt; (through August 2013)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00pm-5:00am SU-WE&lt;/b&gt;  Single lane closed in both directions SU and northbound only MO-WE with a double lane closing northbound only at 9pm SU-WE. In addition, the ramps at 17th and 23rd will be closed SU-TU.&lt;BR&gt;&lt;b&gt;24 Hours&lt;/b&gt;  The bike path on the west side of the Platte River from Invesco Field to 15th Avenue is closed for the duration of the project. The east side is open.</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.736008</global:Latitude>
+            <global:Longitude>-105.014534</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-05-31T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:29:52.162-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2013-08-31T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>31</alert:RoadId>
+        <alert:RoadName>I-25</alert:RoadName>
+        <alert:StartMileMarker>210</alert:StartMileMarker>
+        <alert:EndMileMarker>211</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>107948</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-25 Northbound / Southbound Between Berthoud and Loveland Exits (Milemarker 257-249)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00pm-6:00am MO-TH, 8:00pm-5:00am SU&lt;/b&gt;  Single lane closures southbound SU-TH 8pm-5am and northbound MO-TH 9pm-6am for guardrail and median work, paving, and concrete barrier work. &lt;b&gt;&lt;i&gt;Delays possible.  Ramp from southbound I-25 to CO 56 will be closed SU-WE 8pm-5am.  Detours posted.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.401855</global:Latitude>
+            <global:Longitude>-104.993355</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-04-25T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:56:16.985-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>31</alert:RoadId>
+        <alert:RoadName>I-25</alert:RoadName>
+        <alert:StartMileMarker>257</alert:StartMileMarker>
+        <alert:EndMileMarker>249</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120813</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;I-25 Northbound From Harmony Road to Prospect St. (Milemarker 266-268)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00pm-6:00am SU-TH&lt;/b&gt;  Single lane and shoulder closures for concrete pavement work.</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.532921</global:Latitude>
+            <global:Longitude>-104.993927</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-10-02T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:21:26.053-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-31T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>31</alert:RoadId>
+        <alert:RoadName>I-25</alert:RoadName>
+        <alert:StartMileMarker>266</alert:StartMileMarker>
+        <alert:EndMileMarker>268</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>116850</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Eastbound / Westbound West of Fruita (Milemarker 16-19)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt;  Single lane closure in each direction for bridge rehabilitation on 8 bridges.  Project hotline is 404-434-8188. &lt;b&gt;&lt;i&gt;Speed limit reduced to 40 mph.  12 ft. width restriction in effect.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.172237</global:Latitude>
+            <global:Longitude>-108.796684</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-05T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-08-05T12:19:01.579-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:StartMileMarker>16</alert:StartMileMarker>
+        <alert:EndMileMarker>19</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120533</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Eastbound Between Dillon and the Eisenhower Tunnel (Milemarker 207-213)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-4:30pm MO-FR&lt;/b&gt;  Single lane closed for slope repair and asphalt patching. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.6409</global:Latitude>
+            <global:Longitude>-106.042931</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-26T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T15:16:56.289-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:StartMileMarker>207</alert:StartMileMarker>
+        <alert:EndMileMarker>213</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>62410</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Eastbound / Westbound through the Eisenhower Tunnel (Milemarker 212-218)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-3:00pm MO-TH and FR until 12:00noon&lt;/b&gt;  Single lane closed eastbound I-70 at eastbound Loveland off ramp (exit 216) for asphalt repairs. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;&lt;BR&gt;&lt;b&gt;6:00pm-6:00am SU-SA&lt;/b&gt;  Single lane closures for routine maintenance including sweeping. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.673958</global:Latitude>
+            <global:Longitude>-105.963318</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2009-10-01T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:30:35.918-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:StartMileMarker>212</alert:StartMileMarker>
+        <alert:EndMileMarker>218</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120063</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Northbound / Southbound on 15th Street South of I-70 to Argentine Street in Georgetown (Milemarker 228)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm MO-FR&lt;/b&gt; There will be one lane alternating traffic for roundabout construction in Georgetown. &lt;b&gt;&lt;i&gt;10 minute delays.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.716709</global:Latitude>
+            <global:Longitude>-105.696434</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-19T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-16T13:06:56.471-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:StartMileMarker>228</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120876</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Westbound Near Dumont (Milemarker 235-237)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-5:00pm MO and WE&lt;/b&gt;  Right lane closed for ditch cleaning activities. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.764038</global:Latitude>
+            <global:Longitude>-105.599205</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-10-03T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:33:50.105-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-15T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>West</alert:Direction>
+        <alert:DirectionType>4</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:StartMileMarker>235</alert:StartMileMarker>
+        <alert:EndMileMarker>237</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>108450</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Westbound / Eastbound Between US 40 and Beaver Brook Exit over Floyd Hill (Milemarker 244-248)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm MO-FR, 7:00pm-7:00am MO-TH&lt;/b&gt;  Various lane closures in both directions. Ramps will be closed as needed at exit 244 in either direction for bridge joint replacement and striping operations. Culvert cleaning and asphalt smoothness operations will also take place. &lt;b&gt;&lt;i&gt;Possible ramp closures at exit 244 as needed. Delays of 20 minutes possible during night work. Speed limit reduced westbound only to 55 mph.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.743465</global:Latitude>
+            <global:Longitude>-105.443443</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-05-01T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:22:34.637-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>West</alert:Direction>
+        <alert:DirectionType>4</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:StartMileMarker>244</alert:StartMileMarker>
+        <alert:EndMileMarker>248</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119103</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Westbound Between I-270 and Quebec Street Over Sand Creek (Milemarker 278)&lt;/b&gt; (through July 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00pm-5:30am MO-WE&lt;/b&gt;  Ramp closed from westbound I-70 to Quebec St. for ramp work. &lt;b&gt;&lt;i&gt;Traffic detoured to the West Frontage Rd. then to Monaco St. then south to the East Frontage Rd. and back to Quebec St.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.778336</global:Latitude>
+            <global:Longitude>-104.913834</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-06T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:52:10.915-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-07-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>West</alert:Direction>
+        <alert:DirectionType>4</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:StartMileMarker>278</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>114496</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Eastbound Between Holly and Quebec (Milemarker 278-277)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00pm-5:00am SU-TH&lt;/b&gt;  Single lane closure eastbound I-70 from Holly to Quebec with a second lane closing at 10pm for bridge deck repairs. Single lane closures on northbound or southbound Quebec under I-70. &lt;b&gt;&lt;i&gt;Delays possible. Alternate routes advised. SU only, ramps from eastbound I-70 to Quebec and from Stapleton to eastboud I-70 will be closed.  Speed limit reduced to 45 mph through work zone. Oversize/overweight restrictions in effect during work hours.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.778336</global:Latitude>
+            <global:Longitude>-104.913834</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-05T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T11:00:45.269-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:StartMileMarker>278</alert:StartMileMarker>
+        <alert:EndMileMarker>277</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>111705</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-70 Eastbound / Westbound Kansas DOT projects from Colorado Stateline to Exit 12 and Exit 12 - Exit 19 in Kansas (Milemarker 449)&lt;/b&gt; (through October 2013)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt;  Only one lane open in each direction on 5 of 7 bridges along the project area for bridge rail and guard fence work.  Replacement of lights, new concrete pavement, and ramp upgrades will take place within the next 3 years.   Through August 15, 2011, 24 Hours, daytime and nighttime work: only one lane open from mileposts 12-19 in Kansas in Sherman County. &lt;b&gt;&lt;i&gt;Kansas Dept. of Transportation project. For more information: kristenb@ksdot.org.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.32946</global:Latitude>
+            <global:Longitude>-102.058617</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-05-31T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-06-17T14:40:17.857-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2013-10-11T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>32</alert:RoadId>
+        <alert:RoadName>I-70</alert:RoadName>
+        <alert:StartMileMarker>449</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119631</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-76 Eastbound / Westbound Between I-270 and 74th over the Platte River (Milemarker 8)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00am-2:00pm MO-FR, 7:00pm-5:30am SU-TH&lt;/b&gt;  Single lane closures in both directions for barrier work and dirt hauling. &lt;b&gt;&lt;i&gt;Delays possible. Alternate routes advised.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.830105</global:Latitude>
+            <global:Longitude>-104.942734</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-14T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:47:59.157-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>33</alert:RoadId>
+        <alert:RoadName>I-76</alert:RoadName>
+        <alert:StartMileMarker>8</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>118967</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;I-76 Westbound North of Brush (Milemarker 95-110)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;6:00am-6:00pm MO-FR&lt;/b&gt;  Single lane closure for concrete work and resurfacing. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.29797</global:Latitude>
+            <global:Longitude>-103.533043</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-31T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T15:23:46.933-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>West</alert:Direction>
+        <alert:DirectionType>4</alert:DirectionType>
+        <alert:RoadId>33</alert:RoadId>
+        <alert:RoadName>I-76</alert:RoadName>
+        <alert:StartMileMarker>95</alert:StartMileMarker>
+        <alert:EndMileMarker>110</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120540</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;I-76 Eastbound / Westbound Between Proctor and Sedgwick (Milemarker 145-165)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-4:30pm MO-FR&lt;/b&gt;  Single lane closures at various locations for paving. &lt;b&gt;&lt;i&gt;Delays possible.  Speed limit reduced to 55 mph through work zone.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.79884</global:Latitude>
+            <global:Longitude>-102.871536</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-14T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-23T12:04:22.101-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-14T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>33</alert:RoadId>
+        <alert:RoadName>I-76</alert:RoadName>
+        <alert:StartMileMarker>145</alert:StartMileMarker>
+        <alert:EndMileMarker>165</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120539</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-76 Eastbound / Westbound Between Sedgwick and Julesburg (Milemarker 165-180)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-4:30pm MO-FR&lt;/b&gt;  Single lane closures at various locations for paving and bridge work. &lt;b&gt;&lt;i&gt;Delays possible.  Speed limit reduced to 55 mph through work zone.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.903118</global:Latitude>
+            <global:Longitude>-102.516205</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-12T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-23T12:01:49.484-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-12T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>33</alert:RoadId>
+        <alert:RoadName>I-76</alert:RoadName>
+        <alert:StartMileMarker>165</alert:StartMileMarker>
+        <alert:EndMileMarker>180</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>118969</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;I-270 Eastbound Between Quebec and I-70 for Central Park Boulevard (Milemarker 5)&lt;/b&gt; (through July 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00pm-5:00am MO-TH&lt;/b&gt;  Single lane closure in both directions MO-TH for ramp work for Central Park Blvd. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;&lt;BR&gt;&lt;b&gt;24 Hours FR-MO&lt;/b&gt;  24HR beginning 6pm FR (9/30) - 5am MO (10/3) single lane closed in each direction for ramp work for Central Park Blvd. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.789162</global:Latitude>
+            <global:Longitude>-104.906258</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-31T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T13:59:18.225-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-07-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>48</alert:RoadId>
+        <alert:RoadName>I-270</alert:RoadName>
+        <alert:StartMileMarker>5</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120061</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 6 Eastbound / Westbound East of Rifle (Milemarker 93)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm MO-FR&lt;/b&gt;  Single lane closures for concrete work, asphalt patching, erosion control, and striping. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.529865</global:Latitude>
+            <global:Longitude>-107.765213</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-19T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-26T10:22:11.650-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-21T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>44</alert:RoadId>
+        <alert:RoadName>US 6</alert:RoadName>
+        <alert:StartMileMarker>93</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120069</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 6 Eastbound / Westbound Over the Eagle River in Gypsum (Milemarker 142)&lt;/b&gt; (through May 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00am MO-FR&lt;/b&gt;  Intermittent lane closures for bridge replacement. &lt;b&gt;&lt;i&gt;Delays minimal.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.650608</global:Latitude>
+            <global:Longitude>-106.954742</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-16T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-16T14:17:39.900-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-05-18T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>44</alert:RoadId>
+        <alert:RoadName>US 6</alert:RoadName>
+        <alert:StartMileMarker>142</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>109797</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 6 Eastbound / Westbound Between Edwards and Minturn (Milemarker 168-174)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm MO-FR&lt;/b&gt; There will be one lane alternating traffic at various locations for Xcel Energy gas pipeline replacement. Work will take place in three work zones at a time, 1/2 mile long each. Work zones are Eagle Rd. east to Kayak Rd., Minturn to Kayak Rd., and from Miller Ranch Rd. to Eagle Rd. &lt;b&gt;&lt;i&gt;Xcel Energy project. Speed limit reduced 40 mph approaching work areas and then to 25 mph through the work zone. Hotline 877-481-6380 or www.xceledwards-minturnhpgaspipeline.com.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.638588</global:Latitude>
+            <global:Longitude>-106.559097</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-05-16T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T13:02:51.825-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>44</alert:RoadId>
+        <alert:RoadName>US 6</alert:RoadName>
+        <alert:StartMileMarker>168</alert:StartMileMarker>
+        <alert:EndMileMarker>174</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119102</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;US 6 Eastbound / Westbound Over Loveland Pass (Milemarker 228-221)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:30am-3:30pm MO-WE&lt;/b&gt; There will be one lane alternating traffic for access improvements to upper parking lot across from CDOT maintenance facility and guardrail repairs, milepost 221-224. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.677586</global:Latitude>
+            <global:Longitude>-105.882118</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-06T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T15:51:17.588-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>44</alert:RoadId>
+        <alert:RoadName>US 6</alert:RoadName>
+        <alert:StartMileMarker>228</alert:StartMileMarker>
+        <alert:EndMileMarker>221</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>100842</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 6 Westbound 6th Avenue Ramp to Westbound I-70 (Milemarker 275)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00pm-5:30am WE, 7:30am-3:30pm MO-SA&lt;/b&gt;  Single lane closed daytime MO-SA and full closure overnight WE for work by FasTracks. &lt;b&gt;&lt;i&gt;Delays possible.  Detour posted WE.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.725174</global:Latitude>
+            <global:Longitude>-105.191734</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-01-31T00:00:00.000-07:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T11:31:06.131-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>West</alert:Direction>
+        <alert:DirectionType>4</alert:DirectionType>
+        <alert:RoadId>44</alert:RoadId>
+        <alert:RoadName>US 6</alert:RoadName>
+        <alert:StartMileMarker>275</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119099</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 6 Westbound 6th Avenue Between Indiana and I-70 (Milemarker 276.3)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-5:00pm MO-SA&lt;/b&gt;  Single lane closures for light rail work by FasTracks. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.725315</global:Latitude>
+            <global:Longitude>-105.172638</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-06T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T11:27:39.503-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>West</alert:Direction>
+        <alert:DirectionType>4</alert:DirectionType>
+        <alert:RoadId>44</alert:RoadId>
+        <alert:RoadName>US 6</alert:RoadName>
+        <alert:StartMileMarker>276.3</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>105501</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 6 Eastbound / Westbound 6th Avenue at Simms/Union (Milemarker 278)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-5:00pm MO-SA&lt;/b&gt;  Single lane on the ramp from westbound US 6 to Union/Simms closed for light rail construction by FasTracks. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.725365</global:Latitude>
+            <global:Longitude>-105.134865</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-03-28T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T11:28:54.534-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>44</alert:RoadId>
+        <alert:RoadName>US 6</alert:RoadName>
+        <alert:StartMileMarker>278</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120536</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;US 6 Eastbound / Westbound From Haxtun West (Milemarker 436-429)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;6:30am-5:00pm MO-TH&lt;/b&gt; There will be one lane alternating traffic for crack sealing operations. &lt;b&gt;&lt;i&gt;Delays possible.  Speed limit reduced to 40 mph through work zone.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.639168</global:Latitude>
+            <global:Longitude>-102.635765</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-26T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-23T11:48:51.876-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-07T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>44</alert:RoadId>
+        <alert:RoadName>US 6</alert:RoadName>
+        <alert:StartMileMarker>436</alert:StartMileMarker>
+        <alert:EndMileMarker>429</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>106042</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 24 Eastbound / Westbound 5 Miles North of Leadville (Milemarker 170)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;6:00am-6:00pm MO-SA&lt;/b&gt;  Possible single lane closures to allow equipment to enter and exit the roadway for bridge reconstruction. &lt;b&gt;&lt;i&gt;Less than 10 minute delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.313236</global:Latitude>
+            <global:Longitude>-106.333344</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-04-04T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T15:25:09.024-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-04T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>35</alert:RoadId>
+        <alert:RoadName>US 24</alert:RoadName>
+        <alert:StartMileMarker>170</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>111872</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 34 Eastbound / Westbound at US 85 in Greeley (Milemarker 112-113)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt;  Single lane closed in both directions for bridge rail replacement. &lt;b&gt;&lt;i&gt;A 12 ft. width restriction on westbound US 34 and 10 ft. width restriction on ramp from southbound US 85 to eastbound US 34 are in effect through the work zones. The ramp from eastbound US 34 to northbound US 85 Business will be closed for the duration of the project. Detour posted.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.391945</global:Latitude>
+            <global:Longitude>-104.701263</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-06-05T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T15:06:54.489-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>38</alert:RoadId>
+        <alert:RoadName>US 34</alert:RoadName>
+        <alert:StartMileMarker>112</alert:StartMileMarker>
+        <alert:EndMileMarker>113</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>81084</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 36 Eastbound / Westbound at 80th Avenue (Milemarker 53.9)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00am-2:00pm MO-FR&lt;/b&gt;  Single lane closures in both directions on US 36 between Sheridan and Federal for bridge painting. &lt;b&gt;&lt;i&gt;Delays possible. Alternate routes strongly advised.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.841679</global:Latitude>
+            <global:Longitude>-105.039055</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-06-01T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T15:25:50.859-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>40</alert:RoadId>
+        <alert:RoadName>US 36</alert:RoadName>
+        <alert:StartMileMarker>53.9</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>115185</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;US 40 Eastbound / Westbound Over Berthoud Pass (Milemarker 230-249)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-5:00pm MO-FR&lt;/b&gt;  Southbound lane and shoulder will be closed from mileposts 245-246 for retaining wall repairs. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.912182</global:Latitude>
+            <global:Longitude>-105.782104</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-25T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:19:57.548-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>41</alert:RoadId>
+        <alert:RoadName>US 40</alert:RoadName>
+        <alert:StartMileMarker>230</alert:StartMileMarker>
+        <alert:EndMileMarker>249</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>117806</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;US 40 Eastbound / Westbound Colfax Avenue Between Sheridan and Federal Boulevards (Milemarker 296-294)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-6:30pm MO-FR&lt;/b&gt;  Lane closures for paving operations, construction of concrete medians at Irving St. and Sheridan Blvd., and new traffic signal at Irving St. by the City of Denver as part of the West Colfax Avenue Rehabilitation Project. Prior to 8:30am, 2 lanes open eastbound Colfax; after 3:30pm 2 lanes open in both directions on Colfax. &lt;b&gt;&lt;i&gt;Delays possible.  Project website is www.denvergov.org/westcolfax.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.740356</global:Latitude>
+            <global:Longitude>-105.028198</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-22T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T15:26:59.881-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-01T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>41</alert:RoadId>
+        <alert:RoadName>US 40</alert:RoadName>
+        <alert:StartMileMarker>296</alert:StartMileMarker>
+        <alert:EndMileMarker>294</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>94865</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 40 Westbound East Colfax Avenue at Fitzsimmons Pkwy/N. Potomac St (Milemarker 305)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:30am-Dark MO-FR&lt;/b&gt;  Various lane closures for road work. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.74015</global:Latitude>
+            <global:Longitude>-104.858444</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-11-15T00:00:00.000-07:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-23T09:36:09.036-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>West</alert:Direction>
+        <alert:DirectionType>4</alert:DirectionType>
+        <alert:RoadId>41</alert:RoadId>
+        <alert:RoadName>US 40</alert:RoadName>
+        <alert:StartMileMarker>305</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>83920</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 40 Eastbound / Westbound US 40/287 East of Hugo (Milemarker 400-404)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt; There will be one lane alternating traffic with pilot car operations and flaggers for resurfacing. &lt;b&gt;&lt;i&gt;20 minute delays expected. A 12 ft. width restriction will be in effect through November 15, 2011.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.129696</global:Latitude>
+            <global:Longitude>-103.455811</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-07-26T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-16T11:15:33.119-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>41</alert:RoadId>
+        <alert:RoadName>US 40</alert:RoadName>
+        <alert:StartMileMarker>400</alert:StartMileMarker>
+        <alert:EndMileMarker>404</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120816</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 40 Eastbound / Westbound /US 287 Through Kit Carson (Milemarker 444.6-445.5)&lt;/b&gt; (through November 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt;  Only one lane open in each direction for water and sewer line installation. &lt;b&gt;&lt;i&gt;Speed limit reduced to 35 mph. A 12 ft. width restriction is in effect.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.764244</global:Latitude>
+            <global:Longitude>-102.797859</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-10-03T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T16:01:42.473-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>41</alert:RoadId>
+        <alert:RoadName>US 40</alert:RoadName>
+        <alert:StartMileMarker>444.6</alert:StartMileMarker>
+        <alert:EndMileMarker>445.5</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119101</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 50 Eastbound / Westbound Frontage Road West of Gunnison (Milemarker 155)&lt;/b&gt; (through August 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt;  Frontage road bridges over the Gunnison River closed for foundation work, deck replacement, and painting. &lt;b&gt;&lt;i&gt;Traffic detoured onto mainline US 50 for the duration of the project including the winter shutdown period. Access to adjoining properties on either side of closure. Motorcyclists and bicyclists will use US 50 mainline as 1/4 mile detour.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.528301</global:Latitude>
+            <global:Longitude>-106.96244</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-06T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-07T08:38:38.326-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-08-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>42</alert:RoadId>
+        <alert:RoadName>US 50</alert:RoadName>
+        <alert:StartMileMarker>155</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>100046</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Fiber Optic Installation</alert:Title>
+        <alert:Headline>&lt;b&gt;US 85 Southbound North of Sedalia (Milemarker 186-201)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-4:30pm MO-FR&lt;/b&gt;  Single lane closures for washout repairs at milepost 191. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.4188</global:Latitude>
+            <global:Longitude>-104.885056</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-01-20T00:00:00.000-07:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T13:32:14.012-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-07T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>South</alert:Direction>
+        <alert:DirectionType>2</alert:DirectionType>
+        <alert:RoadId>45</alert:RoadId>
+        <alert:RoadName>US 85</alert:RoadName>
+        <alert:StartMileMarker>186</alert:StartMileMarker>
+        <alert:EndMileMarker>201</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>114829</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 85 Northbound / Southbound and 104th Intersection (Milemarker 227)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-3:30pm MO-SA&lt;/b&gt;  Single lane closures on 104th and on US 85 for road rehabilitation. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.881165</global:Latitude>
+            <global:Longitude>-104.886475</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-08T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-26T15:40:23.918-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-21T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>45</alert:RoadId>
+        <alert:RoadName>US 85</alert:RoadName>
+        <alert:StartMileMarker>227</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120546</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;US 160 Eastbound / Westbound East of Cortez (Milemarker 40-69)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-4:30pm MO and TU&lt;/b&gt; There will be one lane alternating traffic for asphalt patching. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>37.350319</global:Latitude>
+            <global:Longitude>-108.556198</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-26T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T13:43:45.749-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>34</alert:RoadId>
+        <alert:RoadName>US 160</alert:RoadName>
+        <alert:StartMileMarker>40</alert:StartMileMarker>
+        <alert:EndMileMarker>69</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>104477</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 160 Eastbound / Westbound at Grandview Interchange, east of Durango (Milemarker 89.6)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm MO-FR&lt;/b&gt;  Possible single lane closures for striping and signing operations. &lt;b&gt;&lt;i&gt;No delays expected.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>37.227184</global:Latitude>
+            <global:Longitude>-107.820602</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-03-14T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-26T16:00:34.444-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-01T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>34</alert:RoadId>
+        <alert:RoadName>US 160</alert:RoadName>
+        <alert:StartMileMarker>89.6</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120544</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;US 160 Eastbound / Westbound West of Bayfield (Milemarker 95-100)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-4:30pm MO-FR&lt;/b&gt;  for ditch cleaning. &lt;b&gt;&lt;i&gt;10 minute delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>37.228374</global:Latitude>
+            <global:Longitude>-107.73085</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-26T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T13:46:27.833-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>34</alert:RoadId>
+        <alert:RoadName>US 160</alert:RoadName>
+        <alert:StartMileMarker>95</alert:StartMileMarker>
+        <alert:EndMileMarker>100</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>90208</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 160 Eastbound / Westbound East of Pagosa Springs (Milemarker 150-151)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm MO-FR&lt;/b&gt; There will be one lane alternating traffic for slope stabilization and road repairs due to landslide damage. &lt;b&gt;&lt;i&gt;Minimal delays.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>37.337437</global:Latitude>
+            <global:Longitude>-106.94442</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-09-07T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T13:04:18.306-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>34</alert:RoadId>
+        <alert:RoadName>US 160</alert:RoadName>
+        <alert:StartMileMarker>150</alert:StartMileMarker>
+        <alert:EndMileMarker>151</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>108816</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 160 Eastbound Wolf Creek Pass West Side (Milemarker 160-161)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-8:00pm MO-SA&lt;/b&gt; There will be one lane alternating traffic for asphalt patching, pipe work, and concrete barrier construction.  Oversize width restriction for westbound vehicles as well as short single lane closures eastbound in the climbing lane for permanent sign installation. &lt;b&gt;&lt;i&gt;Up to 15 minute delays possible. 10 ft. width restriction in effect westbound.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>37.456875</global:Latitude>
+            <global:Longitude>-106.885086</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-05-02T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T15:34:16.233-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>34</alert:RoadId>
+        <alert:RoadName>US 160</alert:RoadName>
+        <alert:StartMileMarker>160</alert:StartMileMarker>
+        <alert:EndMileMarker>161</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>118771</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Emergency Maintenance</alert:Title>
+        <alert:Headline>&lt;b&gt;US 285 Northbound / Southbound North of Fairplay (Milemarker 188-191)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;10:00am-2:00pm TH&lt;/b&gt;  Single lane closures for power line wire upgrade. &lt;b&gt;&lt;i&gt;5 minute delays possible. Speed limit reduced to 45 mph through work zone.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.276474</global:Latitude>
+            <global:Longitude>-105.944679</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-01T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T15:31:25.948-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>36</alert:RoadId>
+        <alert:RoadName>US 285</alert:RoadName>
+        <alert:StartMileMarker>188</alert:StartMileMarker>
+        <alert:EndMileMarker>191</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>116401</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 285 Northbound / Southbound Six Miles North of Kenosha Pass (Milemarker 203-209)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-5:00pm MO-TH and FR until 12:00noon&lt;/b&gt; There will be one lane alternating traffic with flaggers for rock scaling operations for slope stabilization. &lt;b&gt;&lt;i&gt;15 minute delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.40873</global:Latitude>
+            <global:Longitude>-105.75602</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-01T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:35:52.007-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-15T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>36</alert:RoadId>
+        <alert:RoadName>US 285</alert:RoadName>
+        <alert:StartMileMarker>203</alert:StartMileMarker>
+        <alert:EndMileMarker>209</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120877</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;US 285 Northbound / Southbound Between Homestead and Aspen Park (Milemarker 240-245)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:30am-3:30pm MO-FR&lt;/b&gt;  Various lane closures in both directions for bridge repairs and median ditch cleaning. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.550003</global:Latitude>
+            <global:Longitude>-105.254623</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-10-02T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:44:31.989-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-07T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>36</alert:RoadId>
+        <alert:RoadName>US 285</alert:RoadName>
+        <alert:StartMileMarker>240</alert:StartMileMarker>
+        <alert:EndMileMarker>245</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>72251</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 285 Westbound Between Federal and Kipling (Milemarker 258)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00pm-5:30am MO-TH&lt;/b&gt;  Right lane closed in both directions between Federal and Wadsworth for guardrail work MO-TH.  MO &amp; TU, eastbound ramps closed to and from Wadsworth for paving operations at 9p. TU-TH, the turn lanes from Hampden to Knox/Lowell will be closed for guardrail work. &lt;b&gt;&lt;i&gt;Delays possible.  Detours posted.  Alternate routes strongly advised.&lt;/i&gt;&lt;/b&gt;&lt;BR&gt;&lt;b&gt;8:00am-6:00pm MO-FR&lt;/b&gt;  Single lane closures for fence, grading, landscaping, curb and lighting work. One-lane alternating traffic w/flaggers on the north and south frontage roads for fence work. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.652397</global:Latitude>
+            <global:Longitude>-105.027565</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-01-20T00:00:00.000-07:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T15:00:18.754-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>West</alert:Direction>
+        <alert:DirectionType>4</alert:DirectionType>
+        <alert:RoadId>36</alert:RoadId>
+        <alert:RoadName>US 285</alert:RoadName>
+        <alert:StartMileMarker>258</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120062</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Concrete Slab Replacement</alert:Title>
+        <alert:Headline>&lt;b&gt;US 287 Northbound / Southbound Between Kit Carson and Eads (Milemarker 122-133)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-6:00pm MO-FR&lt;/b&gt;  Possible one-lane alternating traffic for concrete panel replacement and crack sealing. &lt;b&gt;&lt;i&gt;Speed limit reduced to 40 mph through the work zone.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.604382</global:Latitude>
+            <global:Longitude>-102.78598</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-19T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-23T09:14:59.689-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>37</alert:RoadId>
+        <alert:RoadName>US 287</alert:RoadName>
+        <alert:StartMileMarker>122</alert:StartMileMarker>
+        <alert:EndMileMarker>133</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120874</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 287 Northbound / Southbound Federal Boulevard over US 40/Colfax Avenue (Milemarker 282.6)&lt;/b&gt; (through February 2013)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:30am-4:30pm MO-FR&lt;/b&gt;  Possible lane closures for installation of project signs and survey work. &lt;b&gt;&lt;i&gt;Minor delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.744747</global:Latitude>
+            <global:Longitude>-105.025238</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-25T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T11:54:49.847-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2013-02-28T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>37</alert:RoadId>
+        <alert:RoadName>US 287</alert:RoadName>
+        <alert:StartMileMarker>282.6</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120064</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Traffic Signal Installation</alert:Title>
+        <alert:Headline>&lt;b&gt;US 287 Northbound / Southbound Federal Boulevard at 92nd Avenue (Milemarker 291)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00am-3:30pm MO-FR&lt;/b&gt;  Single lane closures on northbound and/or southbound Federal MO-WE and on 92nd TU &amp; TH-FR for asphalt work and boring operations. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.859676</global:Latitude>
+            <global:Longitude>-105.025055</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-19T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-23T09:46:05.806-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-10T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>37</alert:RoadId>
+        <alert:RoadName>US 287</alert:RoadName>
+        <alert:StartMileMarker>291</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>116982</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 550 Northbound / Southbound At La Plata County Rd. 302 South of Durango (Milemarker 11-13)&lt;/b&gt; (through August 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm MO-FR&lt;/b&gt; There will be one lane alternating traffic for turn lane construction, drainage and irrigation improvements, wildlife detection system installation, deer fence, and deer guards. &lt;b&gt;&lt;i&gt;5 minute delays.  Project information line is 970-247-2172.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>37.152164</global:Latitude>
+            <global:Longitude>-107.85791</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-08T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T13:05:23.056-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-08-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>46</alert:RoadId>
+        <alert:RoadName>US 550</alert:RoadName>
+        <alert:StartMileMarker>11</alert:StartMileMarker>
+        <alert:EndMileMarker>13</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>86569</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 550 Northbound / Southbound At Bear Creek Bridge South of Ouray (Milemarker 90.6)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt; There will be one lane alternating traffic controlled by traffic signals 24/7 for bridge reconstruction.  Traffic alternated approximately every 2 minutes.  Flaggers will supplement the signal operations from 7am-7pm MO-FR during critical activities. &lt;b&gt;&lt;i&gt;30 minute delays. Project hotline: 970-325-9892.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.004135</global:Latitude>
+            <global:Longitude>-107.661835</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-07-26T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T10:59:16.731-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-23T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>46</alert:RoadId>
+        <alert:RoadName>US 550</alert:RoadName>
+        <alert:StartMileMarker>90.6</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>117379</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;US 550 Northbound / Southbound Between Ridgway and Colona (Milemarker 115.5-117)&lt;/b&gt; (through August 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm MO-FR&lt;/b&gt; There will be one lane alternating traffic for construction of passing lanes, wildlife escape ramps and detection warning system, and improved drainage. &lt;b&gt;&lt;i&gt;Delays possible.  Speed limit reduced to 45 mph through work zone.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.31152</global:Latitude>
+            <global:Longitude>-107.774452</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-15T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T13:06:10.569-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-08-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>46</alert:RoadId>
+        <alert:RoadName>US 550</alert:RoadName>
+        <alert:StartMileMarker>115.5</alert:StartMileMarker>
+        <alert:EndMileMarker>117</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119630</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Traffic Signal Installation</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 2 Northbound / Southbound Colorado Boulevard at 13th and 14th Avenues (Milemarker 5.9)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:30am-3:00pm MO-TH and FR until 2:00pm&lt;/b&gt;  Single lane closures for traffic signal improvements. &lt;b&gt;&lt;i&gt;Delays possible.  Alternate routes strongly advised.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.740269</global:Latitude>
+            <global:Longitude>-104.940643</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-13T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-23T10:16:10.836-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>50</alert:RoadId>
+        <alert:RoadName>CO 2</alert:RoadName>
+        <alert:StartMileMarker>5.9</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>118985</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 7 Northbound / Southbound Between Cherryvale  Rd. and 75th (Milemarker 55)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:30am-3:30pm TU-FR&lt;/b&gt; There will be one lane alternating traffic for utility work by Xcel Energy. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.014736</global:Latitude>
+            <global:Longitude>-105.211754</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-31T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T15:12:59.132-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>18</alert:RoadId>
+        <alert:RoadName>CO 7</alert:RoadName>
+        <alert:StartMileMarker>55</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>109163</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 9 Northbound / Southbound Currant Creek Bridge, 11 miles north of US 50 near the Royal Gorge (Milemarker 11)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt; There will be one lane alternating traffic with a traffic signal over the bridge for bridge replacement. &lt;b&gt;&lt;i&gt;A 12 ft. width restriction is in effect 24/7.  Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.614067</global:Latitude>
+            <global:Longitude>-105.443604</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-05-05T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:14:38.534-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>26</alert:RoadId>
+        <alert:RoadName>CO 9</alert:RoadName>
+        <alert:StartMileMarker>11</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119105</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 9 Northbound / Southbound at Alma (Milemarker 71)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-3:30pm MO-TH and FR until 1:00pm&lt;/b&gt;  Occassional traffic stops for box culvert work. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.287632</global:Latitude>
+            <global:Longitude>-106.065315</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-06T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-16T10:31:34.358-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-31T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>26</alert:RoadId>
+        <alert:RoadName>CO 9</alert:RoadName>
+        <alert:StartMileMarker>71</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119629</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 9 Northbound / Southbound South of Breckenridge (Milemarker 81.7)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm SU-TU&lt;/b&gt; There will be one lane alternating traffic with flaggers for culvert repairs over the Blue River. &lt;b&gt;&lt;i&gt;15 minute delays.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.419575</global:Latitude>
+            <global:Longitude>-106.044296</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-12T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:15:17.215-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>26</alert:RoadId>
+        <alert:RoadName>CO 9</alert:RoadName>
+        <alert:StartMileMarker>81.7</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120875</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 9 Northbound / Southbound South of Kremmling at Green Mountain Reservoir (Milemarker 123)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-4:00pm MO-FR&lt;/b&gt; There will be one lane alternating traffic for access construction to Cow Creek Campground. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.870213</global:Latitude>
+            <global:Longitude>-106.267891</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-30T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:18:26.841-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>26</alert:RoadId>
+        <alert:RoadName>CO 9</alert:RoadName>
+        <alert:StartMileMarker>123</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119639</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 11 Northbound / Southbound North of Julesburg to the Nebraska State Line (Milemarker 1-0)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-4:30pm WE-FR&lt;/b&gt; There will be one lane alternating traffic for paving operations. &lt;b&gt;&lt;i&gt;10-15 minute delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.997395</global:Latitude>
+            <global:Longitude>-102.277718</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-14T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T14:44:35.205-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-14T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>53</alert:RoadId>
+        <alert:RoadName>CO 11</alert:RoadName>
+        <alert:StartMileMarker>1</alert:StartMileMarker>
+        <alert:EndMileMarker>0</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120878</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 13 Northbound Northwest of Rifle (Milemarker 16-18)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-5:30am MO and WE&lt;/b&gt; There will be one lane alternating traffic for paving operations. &lt;b&gt;&lt;i&gt;Speed limit reduced to 40 mph.  14 ft. width restriction in effect.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.69931</global:Latitude>
+            <global:Longitude>-107.932549</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-10-03T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T14:26:35.247-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-07T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>55</alert:RoadId>
+        <alert:RoadName>CO 13</alert:RoadName>
+        <alert:StartMileMarker>16</alert:StartMileMarker>
+        <alert:EndMileMarker>18</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>101170</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 30 Southbound Havana St. Between Girard and Dartmouth (Milemarker 3)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00am-3:00pm MO-FR&lt;/b&gt;  Single lane closures for paving and bridge work. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.658928</global:Latitude>
+            <global:Longitude>-104.866333</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-02-07T00:00:00.000-07:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T10:50:41.620-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>South</alert:Direction>
+        <alert:DirectionType>2</alert:DirectionType>
+        <alert:RoadId>63</alert:RoadId>
+        <alert:RoadName>CO 30</alert:RoadName>
+        <alert:StartMileMarker>3</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119166</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 45 Northbound Between Thatcher and LeHigh in Pueblo (Milemarker 4)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00pm-7:00am SU-WE&lt;/b&gt;  Right lane closures for conduit boring. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.247925</global:Latitude>
+            <global:Longitude>-104.662079</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-05T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:35:16.947-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>71</alert:RoadId>
+        <alert:RoadName>CO 45</alert:RoadName>
+        <alert:StartMileMarker>4</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>118766</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 52 Eastbound / Westbound between CO 119 and US 287 Southeast of Niwot (Milemarker 1-4.6)&lt;/b&gt; (through January 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;6:00pm-6:00am SU-TH&lt;/b&gt;  Single lane closures for paving. &lt;b&gt;&lt;i&gt;10 minute delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.087032</global:Latitude>
+            <global:Longitude>-105.171471</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-29T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T16:07:57.142-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-01-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>11</alert:RoadId>
+        <alert:RoadName>CO 52</alert:RoadName>
+        <alert:StartMileMarker>1</alert:StartMileMarker>
+        <alert:EndMileMarker>4.6</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119111</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Maintenance Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 67 Northbound / Southbound South of Sedalia (Milemarker 117-127)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-3:30pm MO-FR&lt;/b&gt; There will be one lane alternating traffic for shoulder work and culvert repair. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.378685</global:Latitude>
+            <global:Longitude>-105.099617</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-06T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T13:11:42.563-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>15</alert:RoadId>
+        <alert:RoadName>CO 67</alert:RoadName>
+        <alert:StartMileMarker>117</alert:StartMileMarker>
+        <alert:EndMileMarker>127</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120812</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Fiber Optic Installation</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 74 Southbound North of Evergreen (Milemarker 4.8-5.1)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00pm-8:00pm MO-TH&lt;/b&gt;  Right lane closed for underground work by Telco. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.65699</global:Latitude>
+            <global:Longitude>-105.350021</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-10-03T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:14:03.863-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-07T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>South</alert:Direction>
+        <alert:DirectionType>2</alert:DirectionType>
+        <alert:RoadId>21</alert:RoadId>
+        <alert:RoadName>CO 74</alert:RoadName>
+        <alert:StartMileMarker>4.8</alert:StartMileMarker>
+        <alert:EndMileMarker>5.1</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>120541</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Traffic Signal Maintenance</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 82 Eastbound / Westbound Between Aspen Airport and Galena Street in Aspen (Milemarker 40)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00am-3:30pm MO-TH&lt;/b&gt;  Single lane closures possible for traffic signal improvements from the ABC intersection up-valley signal by signal.  Each intersection will be under construction for about two days. Some work may take place on Fridays and weekends as needed. &lt;b&gt;&lt;i&gt;Speed limit reduced to 40 mph down valley. Short traffic stops possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.195305</global:Latitude>
+            <global:Longitude>-106.837479</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-26T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T13:01:32.340-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>84</alert:RoadId>
+        <alert:RoadName>CO 82</alert:RoadName>
+        <alert:StartMileMarker>40</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>83916</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 83 Northbound / Southbound Parker Road and Arapahoe Road Intersection (Milemarker 65)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;6:00am-3:00pm MO-FR&lt;/b&gt;  No lane closures expected unless required for motorist safety or construction. &lt;b&gt;&lt;i&gt;Delays remain possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.590714</global:Latitude>
+            <global:Longitude>-104.799911</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-07-02T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T15:43:12.030-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>24</alert:RoadId>
+        <alert:RoadName>CO 83</alert:RoadName>
+        <alert:StartMileMarker>65</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>114759</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 86 Eastbound at DeerPath East of Franktown (Milemarker 10.3)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:30am-4:30pm MO-FR&lt;/b&gt;  Shoulder closures for guardrail installation, seeding, mulching, and erosion control. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.377651</global:Latitude>
+            <global:Longitude>-104.698524</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-11T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T15:14:13.222-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>25</alert:RoadId>
+        <alert:RoadName>CO 86</alert:RoadName>
+        <alert:StartMileMarker>10.3</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>117811</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 86 Eastbound / Westbound West of Elizabeth (Milemarker 15-59)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;6:30am-5:00pm MO-FR&lt;/b&gt;  Single lane closures for paving operations mileposts 15-22 6:30a-5pm and shoulder work and asphalt repairs mileposts 17.59 in various locations 8a-4:30p. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.361526</global:Latitude>
+            <global:Longitude>-104.613007</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-22T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:36:49.687-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>25</alert:RoadId>
+        <alert:RoadName>CO 86</alert:RoadName>
+        <alert:StartMileMarker>15</alert:StartMileMarker>
+        <alert:EndMileMarker>59</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>104478</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 86 Eastbound / Westbound Founders Parkway in Northeast Castle Rock (Milemarker 102-104)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00pm-5:00am SU, 6:00am-6:00pm MO-FR, 7:00am-6:00pm SA&lt;/b&gt;  Only one lane is open in each direction between North Crowfoot Valley Rd Pkwy and north of CO 86/Ridge Road for concrete paving operations 24/7. Turn lane closures on Founders and Allen Way for concrete curb and gutter replacement 4a-11a MO-WE. &lt;b&gt;&lt;i&gt;Flagging operations take place during the day. Sidewalk access limited during this work. Delays possible.  Crimson Sky will be closed on TU for paving operations.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.40591</global:Latitude>
+            <global:Longitude>-104.836975</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-03-14T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T15:02:48.832-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>25</alert:RoadId>
+        <alert:RoadName>CO 86</alert:RoadName>
+        <alert:StartMileMarker>102</alert:StartMileMarker>
+        <alert:EndMileMarker>104</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>105145</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 88 Northbound / Southbound Federal Boulevard Between 6th Avenue (US 6) and 1st Avenue (Milemarker 1.1)&lt;/b&gt; (through March 2013)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:30am-3:30pm MO-FR&lt;/b&gt;  Only one lane open in each direction from 1st to Cedar MO-FR and from 8th to Alameda SA &amp; SU for grading and concrete work. In addition, the intersections of Ellsworth and Bayaud will be closed 24/7 for concrete placement. Outside of work hours, only two lanes are open southbound Federal. &lt;b&gt;&lt;i&gt;Delays possible. Alternate routes advised.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.726498</global:Latitude>
+            <global:Longitude>-105.025124</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-03-21T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T11:05:20.769-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2013-03-18T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>86</alert:RoadId>
+        <alert:RoadName>CO 88</alert:RoadName>
+        <alert:StartMileMarker>1.1</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>104304</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 89 Northbound / Southbound One Mile South of Holly (Milemarker 34)&lt;/b&gt; (through December 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt; There will be one lane alternating traffic with traffic signals for bridge reconstruction. &lt;b&gt;&lt;i&gt;5-10 minute delays.  12 ft. width restriction is in effect through the work zone.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.048164</global:Latitude>
+            <global:Longitude>-102.118507</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-03-14T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-08-12T14:22:35.184-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-12-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>87</alert:RoadId>
+        <alert:RoadName>CO 89</alert:RoadName>
+        <alert:StartMileMarker>34</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>115569</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 91 Northbound / Southbound Between US 24 Junction north of Leadville to top of Fremont Pass (Milemarker 1-12)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm MO-TH and FR until 12:00noon&lt;/b&gt; There will be one lane alternating traffic for paving, guardrail, drainage improvements. &lt;b&gt;&lt;i&gt;Delays 10 to 20 minutes.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.277439</global:Latitude>
+            <global:Longitude>-106.282661</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-25T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T12:13:59.813-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>27</alert:RoadId>
+        <alert:RoadName>CO 91</alert:RoadName>
+        <alert:StartMileMarker>1</alert:StartMileMarker>
+        <alert:EndMileMarker>12</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>117383</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 91 Northbound / Southbound Fremont Pass North (Milemarker 12-24.58)&lt;/b&gt; (through July 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:00pm MO-FR&lt;/b&gt;  Northbound lanes closed from SH 91 to westbound I-70 for bridge work at the Copper Mountain bridge.  Southbound traffic will be unaffected. &lt;b&gt;&lt;i&gt;Northbound traffic to westbound I-70 will exit to eastbound I-70, go to Officer's Gulch and turn around to head westbound on I-70.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.377701</global:Latitude>
+            <global:Longitude>-106.193321</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-15T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T14:44:23.082-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-07-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>27</alert:RoadId>
+        <alert:RoadName>CO 91</alert:RoadName>
+        <alert:StartMileMarker>12</alert:StartMileMarker>
+        <alert:EndMileMarker>24.58</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>115648</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Bridge Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 96 Eastbound / Westbound Between Ordway and Eads (Milemarker 114-141)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;24 Hours&lt;/b&gt; There will be one lane alternating traffic with traffic signals alternating traffic 4 miles east of Sugar City, 9 miles west of Arlington at Black Draw, 24 hours a day, seven days a week.  Traffic is back to normal 7 miles west of Arlington and 2 miles west of Haswell. &lt;b&gt;&lt;i&gt;10 minute delays. A 12 ft. width restriction is in effect.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.244701</global:Latitude>
+            <global:Longitude>-103.60881</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-25T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T15:15:56.514-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>47</alert:RoadId>
+        <alert:RoadName>CO 96</alert:RoadName>
+        <alert:StartMileMarker>114</alert:StartMileMarker>
+        <alert:EndMileMarker>141</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>117810</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 115 Northbound / Southbound From Florence North (Milemarker 19-25)&lt;/b&gt; (through November 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-Dark MO-TH and FR until 3:00pm&lt;/b&gt;  Single lane closures and shoulder closures over US 50 for bridge rail, mileposts 25-35 for delineation work, milepost 24 for drainage work, mileposts 26-35 for rumble strip installation, and mileposts 8.9-12 for asphalt patching. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.470039</global:Latitude>
+            <global:Longitude>-104.987656</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-22T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T15:19:50.905-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-11-01T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>100</alert:RoadId>
+        <alert:RoadName>CO 115</alert:RoadName>
+        <alert:StartMileMarker>19</alert:StartMileMarker>
+        <alert:EndMileMarker>25</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>102505</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 115 Northbound / Southbound North and South of Titus Blvd. Near Fort Carson (Milemarker 42.6)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-7:00pm MO-FR&lt;/b&gt;  Possible intermittent stops for equipment entering and exiting the construction zone for widening and intersection improvements at Fort Carson Gate 5. &lt;b&gt;&lt;i&gt;Minor delays.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>38.753967</global:Latitude>
+            <global:Longitude>-104.811432</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-02-25T00:00:00.000-07:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T15:41:30.085-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-31T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>100</alert:RoadId>
+        <alert:RoadName>CO 115</alert:RoadName>
+        <alert:StartMileMarker>42.6</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>95656</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 119 Northbound in Blackhawk (Milemarker 6-7)&lt;/b&gt; (through November 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;5:00am-2:00pm MO-FR&lt;/b&gt;  20 minute traffic stop around 7am possible just south of Black Hawk for blasting operations. Standard traffic holds up to 10 minutes are expected for truck hauling. Work also includes guardrail installation and safety improvements. &lt;b&gt;&lt;i&gt;20 minute delays possible in a.m. Up to 10 minute delays at all other times during construction. For additional information, please call the project hotline at 303-730-4522.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.79435</global:Latitude>
+            <global:Longitude>-105.474449</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-11-29T00:00:00.000-07:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T13:17:28.051-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-11-30T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>6</alert:RoadId>
+        <alert:RoadName>CO 119</alert:RoadName>
+        <alert:StartMileMarker>6</alert:StartMileMarker>
+        <alert:EndMileMarker>7</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>116676</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 121 Northbound / Southbound Wadsworth Boulevard at Coal Mine Avenue (Milemarker 3.3)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00am-3:00pm MO-SA&lt;/b&gt;  Various lane closures for traffic signal work. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.590412</global:Latitude>
+            <global:Longitude>-105.091309</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-08T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T15:11:01.072-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>103</alert:RoadId>
+        <alert:RoadName>CO 121</alert:RoadName>
+        <alert:StartMileMarker>3.3</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>106632</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 121 Northbound / Southbound Wadsworth Boulevard Under Hampden Avenue/US 285 (Milemarker 7.5)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00pm-5:30am MO and TU&lt;/b&gt;  Right lane closed in both directions for paving operations. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.659004</global:Latitude>
+            <global:Longitude>-105.081421</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-04-08T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T14:59:38.051-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>103</alert:RoadId>
+        <alert:RoadName>CO 121</alert:RoadName>
+        <alert:StartMileMarker>7.5</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>114495</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 128 Eastbound / Westbound 120th Avenue Between Federal and Laurel (Milemarker 12)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:30am-3:30pm MO-FR&lt;/b&gt;  Single lane closures in both directions on 120th for bridge rail work. &lt;b&gt;&lt;i&gt;Delays possible. Alternate routes strongly advised.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.914177</global:Latitude>
+            <global:Longitude>-105.028038</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-06-30T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T11:32:27.382-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>105</alert:RoadId>
+        <alert:RoadName>CO 128</alert:RoadName>
+        <alert:StartMileMarker>12</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>117385</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 131 Northbound / Southbound Choke Cherry South, North of Oak Creek (Milemarker 55.8-58.4)&lt;/b&gt; (through November 2012)</alert:Headline>
+        <alert:Description>&lt;b&gt;7:00am-7:30am MO-FR&lt;/b&gt; There will be one lane alternating traffic at up to 3 locations for earth work, drilling, pipe work, and fiber optic relocation. &lt;b&gt;&lt;i&gt;Up to 20 minute delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>40.326809</global:Latitude>
+            <global:Longitude>-106.958611</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-08-15T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-09T14:40:51.304-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2012-11-15T00:00:00.000-07:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>106</alert:RoadId>
+        <alert:RoadName>CO 131</alert:RoadName>
+        <alert:StartMileMarker>55.8</alert:StartMileMarker>
+        <alert:EndMileMarker>58.4</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>119113</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Paving Operations</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 145 Northbound / Southbound Between Dolores and Rico (Milemarker 32-75)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;8:00am-4:30pm MO-FR&lt;/b&gt; There will be one lane alternating traffic for ditch cleaning mileposts 32-59 and culvert cleaning mileposts 72-75. &lt;b&gt;&lt;i&gt;Minor delays.  No work on TH.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>37.578114</global:Latitude>
+            <global:Longitude>-108.221596</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-09-06T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T13:35:57.454-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>North</alert:Direction>
+        <alert:DirectionType>1</alert:DirectionType>
+        <alert:RoadId>117</alert:RoadId>
+        <alert:RoadName>CO 145</alert:RoadName>
+        <alert:StartMileMarker>32</alert:StartMileMarker>
+        <alert:EndMileMarker>75</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>115512</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;CO 172 Eastbound / Westbound Between US 160 Junction and and County Road 223 (Milemarker 20-24)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00am-7:00pm MO-FR&lt;/b&gt;  Intermittent traffic stops for striping operations and clean up items. &lt;b&gt;&lt;i&gt;Minor delays.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>37.189198</global:Latitude>
+            <global:Longitude>-107.754898</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2011-07-25T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T15:36:46.361-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-07T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>126</alert:RoadId>
+        <alert:RoadName>CO 172</alert:RoadName>
+        <alert:StartMileMarker>20</alert:StartMileMarker>
+        <alert:EndMileMarker>24</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>true</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>90903</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;C-470 Eastbound Between CO 8/Morrison &amp; Wadsworth Blvd. and I-25 &amp; Yosemite (Milemarker 4-14)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00pm-5:30am SU-TH&lt;/b&gt;  Single lane closed westbound SU, Kipling to Morrison; MO, Ken Caryl to Bowles; TU, Yosemite to Quebec and Wadsworth to Ken Caryl; WE, Wadsworth to Ken Caryl; and TH, Bowles to Morrison.  Lane closures are for landscaping and shoulder work. &lt;b&gt;&lt;i&gt;Delays possible.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.656746</global:Latitude>
+            <global:Longitude>-105.181778</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-09-19T00:00:00.000-06:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-29T15:14:58.435-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>East</alert:Direction>
+        <alert:DirectionType>3</alert:DirectionType>
+        <alert:RoadId>1</alert:RoadId>
+        <alert:RoadName>C-470</alert:RoadName>
+        <alert:StartMileMarker>4</alert:StartMileMarker>
+        <alert:EndMileMarker>14</alert:EndMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+    <alert:Alert>
+        <alert:AlertId>94862</alert:AlertId>
+        <alert:Type>Road Work</alert:Type>
+        <alert:Title>Road Construction</alert:Title>
+        <alert:Headline>&lt;b&gt;C-470 Southbound On University (CO 177) at C-470 (Milemarker 21)&lt;/b&gt; (through October 2011)</alert:Headline>
+        <alert:Description>&lt;b&gt;9:00am-3:00pm MO-SA&lt;/b&gt;  Single lane closures for concrete panel replacement. &lt;b&gt;&lt;i&gt;Delays possible. Alternate routes advised.&lt;/i&gt;&lt;/b&gt;</alert:Description>
+        <alert:Impact>Minimal</alert:Impact>
+        <alert:Location>
+            <global:Latitude>39.563377</global:Latitude>
+            <global:Longitude>-104.961792</global:Longitude>
+        </alert:Location>
+        <alert:ReportedTime>2010-11-15T00:00:00.000-07:00</alert:ReportedTime>
+        <alert:LastUpdatedDate>2011-09-30T15:10:30.762-06:00</alert:LastUpdatedDate>
+        <alert:AlertIcon>theme/cotrip.org/images/alert/alert_roadwork_minimal_16x16.gif</alert:AlertIcon>
+        <alert:ExpectedEndTime>2011-10-30T00:00:00.000-06:00</alert:ExpectedEndTime>
+        <alert:Direction>South</alert:Direction>
+        <alert:DirectionType>2</alert:DirectionType>
+        <alert:RoadId>1</alert:RoadId>
+        <alert:RoadName>C-470</alert:RoadName>
+        <alert:StartMileMarker>21</alert:StartMileMarker>
+        <alert:IsBothDirectionFlg>false</alert:IsBothDirectionFlg>
+    </alert:Alert>
+</alert:Alerts>
