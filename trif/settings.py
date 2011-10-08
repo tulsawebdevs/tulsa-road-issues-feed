@@ -1,5 +1,8 @@
 # Django settings for trif project.
 
+import os.path
+base_dir = os.path.dirname(__file__)
+
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
@@ -103,6 +106,7 @@ MIDDLEWARE_CLASSES = (
 ROOT_URLCONF = 'trif.urls'
 
 TEMPLATE_DIRS = (
+    os.path.join(base_dir, 'templates'),
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.

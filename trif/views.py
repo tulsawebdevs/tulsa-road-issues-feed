@@ -1,5 +1,6 @@
-from django.views.decorators.http import require_http_methods
 from django.http import HttpResponse
+from django.shortcuts import render_to_response
+from django.views.decorators.http import require_http_methods
 
 def to_do(request):
     return HttpResponse('This view needs to be written.',
@@ -7,7 +8,7 @@ def to_do(request):
 
 @require_http_methods(['GET'])
 def home(request):
-    return to_do(request)
+    return render_to_response('home.html')
 
 @require_http_methods(['GET'])
 def alerts_dev(request):
