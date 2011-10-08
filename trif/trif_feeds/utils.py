@@ -3,6 +3,7 @@ from django.conf import settings
 from trif_feeds.models import Incident, LocalClosure
 from xml.dom import minidom
 import re
+import urllib2
 
 INCIDENT_URL = getattr(settings, 'INCIDENT_URL',
                        'http://www.cityoftulsa.org/rss/accident.aspx')
@@ -15,7 +16,7 @@ def fetch_incidents():
     try:
         feed = urllib2.urlopen(INCIDENT_URL).read()
     except:
-        'now what?'
+        raise
 
     feed_data = minidom.parseString(feed)
 
