@@ -123,12 +123,12 @@
             if($('#side_bar').css('left') != '0px'){
                 $('#side_bar').animate({'left': 0}, 500, function(){
                     $('#map_canvas').css('position', 'relative');
-                    btn.html('<<');
+                    btn.html('&lt;&lt;');
                 });
             }else{
                 $('#map_canvas').css('position', 'static');
                 $('#side_bar').animate({'left': -400}, 500, function(){
-                    btn.html('>>');
+                    btn.html('&gt;&gt;');
                 });
             }
         });
