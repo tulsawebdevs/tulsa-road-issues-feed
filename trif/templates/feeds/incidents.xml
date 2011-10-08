@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+    <id>tag:{{domain}},{% now "Y-m-d" %},2</id>
+    <title>Tulsa Road Accidents</title>
+    <subtitle>Road Accidents in Tulsa, OK</subtitle>
+    <link href="http://{{domain}}{% url incidents_feed "xml" %}" rel="self"/>
+    <updated>{% now "c" %}</updated>
+    <author>
+        <name>Tulsa Web Devs</name>
+        <uri>http://tulsawebdevs.org</uri>
+    </author>
+    {% for alert in alerts %}
+    <entry>
+        <id>tag:{{domain}},{{alert.start|date:"Y-m-d"}},2:alert/in{{alert.id}}</id>
+        <title>{{alert.location}}</title>
+        <updated>{{alert.modified}}</updated>
+        <summary>{{alert.description}}</summary>
+        <category term="type:alert" label="Incident" />
+        <category term="alert_type" label="{{alert.category}}" />
+        <published>{{alert.start|date:"c"}}</published>
+        <georss:point>{{alert.latitude}} {{alert.longitude}}</georss:point>
+        <link href="http://{{domain}}{{alert.get_absolute_url}}" rel="self"/>
+        <content type="html">
+        </content>
+    </entry>
+    {% endfor %}
+</feed>
