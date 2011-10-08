@@ -6,8 +6,12 @@
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 <style type="text/css">
   html { height: 100% }
-  body { height: 100%; margin: 0; padding: 0 }
+  body { height: 100%; margin: 0; padding: 0; font-size:10pt; font-family:arial, helvetica, georgia, sans-serif}
   #map_canvas { height: 100% }
+  #side_bar {width:400px; height: 100%; z-index:16000; float:left; background:#fff;}
+  .unmapped {width:100%; border-spacing: 0}
+  .unmapped th{background: #ccc; text-align:center;}
+  .unmapped td{}
 </style>
 <script type="text/javascript"
     src="http://maps.googleapis.com/maps/api/js?sensor=true">
@@ -33,41 +37,52 @@
         alerts = json_resp.alerts;
         var open_infowindow;
         for(a in alerts){
-            var position = new google.maps.LatLng(alerts[a].geo.latitude, alerts[a].geo.longitude);
-            var icon;
-            if(alerts[a].type === 'closure'){
-                icon = 'https://maps.google.com/mapfiles/ms/icons/red.png';
-            }else if(alerts[a].type === 'incident'){
-                icon = 'https://maps.google.com/mapfiles/ms/icons/yellow.png';
+            if(alerts[a].geo.latitude && alerts[a].geo.longitude){
+                var position = new google.maps.LatLng(alerts[a].geo.latitude, alerts[a].geo.longitude);
+                var icon;
+                if(alerts[a].type === 'closure'){
+                    icon = 'https://maps.google.com/mapfiles/ms/icons/red.png';
+                }else if(alerts[a].type === 'incident'){
+                    icon = 'https://maps.google.com/mapfiles/ms/icons/yellow.png';
+                }
+                var marker = new google.maps.Marker({
+                    position: position,
+                    map: map,
+                    title: alerts[a].title,
+                    icon: icon
+                });
+
+                info_content = '<dl>' +
+                    '<dt>Title</dt><dd>' + alerts[a].title + '</dd>' +
+                    '<dt>Description</dt><dd>' + alerts[a].description + '</dd>' +
+                    '<dt>Type</dt><dd>' + alerts[a].type + '</dd>' +
+                    '<dt>Category</dt><dd>' + alerts[a].category + '</dd>' +
+                    '<dt>Started</dt><dd>' + alerts[a].start + '</dd>' +
+                    '<dt>TRIF Details</dt><dd><a href="' + alerts[a].detail_link + '" target="trif_link">Trif</a></dd>';
+                if(alerts[a].hasOwnProperty('source_link')){
+                    info_content += '<dt>Source Details</dt><dd><a href="' + alerts[a].source_link + '" target="src_link">Source</a></dd>';
+                }
+                info_content += '</dl>';
+
+                marker.info_window = new google.maps.InfoWindow({
+                    content: info_content 
+                });
+
+                google.maps.event.addListener(marker, 'click', function(){
+                    if(open_infowindow){open_infowindow.close();}
+                    this.info_window.open(map, this);
+                    open_infowindow = this.info_window;
+                });
+            }else{
+                console.log(alerts[a]);
+                table_body = $('#side_bar .unmapped tbody');
+                console.log(table_body);
+                row = $('<tr />');
+                row.append('<td>' + alerts[a].type + '</td>')
+                    .append('<td>' + alerts[a].start + '</td>')
+                    .append('<td>' + alerts[a].title + '</td>')
+                    .appendTo(table_body);
             }
-            var marker = new google.maps.Marker({
-                position: position,
-                map: map,
-                title: alerts[a].title,
-                icon: icon
-            });
-
-            info_content = '<dl>' +
-                '<dt>Title</dt><dd>' + alerts[a].title + '</dd>' +
-                '<dt>Description</dt><dd>' + alerts[a].description + '</dd>' +
-                '<dt>Type</dt><dd>' + alerts[a].type + '</dd>' +
-                '<dt>Category</dt><dd>' + alerts[a].category + '</dd>' +
-                '<dt>Started</dt><dd>' + alerts[a].start + '</dd>' +
-                '<dt>TRIF Details</dt><dd><a href="' + alerts[a].detail_link + '" target="trif_link">Trif</a></dd>';
-            if(alerts[a].hasOwnProperty('source_link')){
-                info_content += '<dt>Source Details</dt><dd><a href="' + alerts[a].source_link + '" target="src_link">Source</a></dd>';
-            }
-            info_content += '</dl>';
-
-            marker.info_window = new google.maps.InfoWindow({
-                content: info_content 
-            });
-
-            google.maps.event.addListener(marker, 'click', function(){
-                if(open_infowindow){open_infowindow.close();}
-                this.info_window.open(map, this);
-                open_infowindow = this.info_window;
-            });
         }
     }
 
@@ -77,6 +92,22 @@
 
 {% block body_attrs %}onload="initialize()"{% endblock %}
 {% block body%}
-<div id="map_canvas" style="width:100%; height:100%"></div>
+<div id="side_bar">
+    <table class="unmapped">
+        <thead>
+            <tr>
+                <th colspan="3">Unmapped items</th>
+            </tr>
+            <tr>
+                <th>Type</th>
+                <th>Start</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+<div id="map_canvas" style="height:100%"></div>
 {% endblock %}
 
