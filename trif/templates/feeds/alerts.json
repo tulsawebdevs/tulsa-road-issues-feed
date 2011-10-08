@@ -4,7 +4,7 @@
         {
             "id": {{incident.id}},
             "type": "incident",
-            "title": "{{incident.title}}",
+            "title": "{{incident.location}}",
             "category": "{{incident.category}}",
             "description": "{{incident.description}}",
             "start": "{{incident.start|date:"c"}}",
@@ -12,8 +12,7 @@
                 "latitude": {{incident.latitude}},
                 "longitude": {{incident.longitude}}
                 },
-            "detail_link": "http://{{domain}}{{request.domain}}{{incident.get_absolute_url}}",
-            "source_link": "http://www.cityoftulsa.org{{incident.link}}"
+            "detail_link": "http://{{domain}}{{request.domain}}{{incident.get_absolute_url}}"
         }{% if not forloop.last %},{% endif %}
         {% endfor %}
         {% if incidents and closures%},{% endif %}
