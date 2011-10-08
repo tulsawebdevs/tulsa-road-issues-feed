@@ -8,7 +8,8 @@
   html { height: 100% }
   body { height: 100%; margin: 0; padding: 0; font-size:10pt; font-family:arial, helvetica, georgia, sans-serif}
   #map_canvas { height: 100% }
-  #side_bar {width:400px; height: 100%; z-index:16000; float:left; background:#fff;}
+  #side_bar {width:400px; height: 100%; z-index:16000; float:left; background:#fff; position:relative;}
+  #side_bar .close_btn{position:absolute; top:19px; right: -36px;padding: 2px 3px 3px; background:#68c; border: 3px solid #46a;font-size:21px; font-weight:bold;color:#fff;}
   .unmapped {width:100%; border-spacing: 0}
   .unmapped tr:nth-child(even){background:#ddd;}
   .unmapped th{background: #68c; text-align:center;}
@@ -115,7 +116,24 @@
         }
     }
 
+    $(function(){
+        $('#side_bar .close_btn').click(function(){
+            btn = $(this);
 
+            if($('#side_bar').css('left') != '0px'){
+                $('#side_bar').animate({'left': 0}, 500, function(){
+                    $('#map_canvas').css('position', 'relative');
+                    btn.html('<<');
+                });
+            }else{
+                $('#map_canvas').css('position', 'static');
+                $('#side_bar').animate({'left': -400}, 500, function(){
+                    btn.html('>>');
+                });
+            }
+        });
+
+    });
 </script>
 {% endblock %}
 
@@ -125,6 +143,7 @@
     <div class="logo_block">
         <a href="{% url about %}">Tulsa Road Information Feed</a>
     </div>
+    <div class="close_btn">&lt;&lt;</div>
     <table class="unmapped">
         <thead>
             <tr>
