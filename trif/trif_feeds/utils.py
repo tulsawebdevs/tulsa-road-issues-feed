@@ -36,31 +36,34 @@ def fetch_incidents():
     Incident.objects.filter(end__isnull=True).update(end=datetime.now())
 
     for incident in incidents:
-        category = incident.getElementsByTagName('Type')[0].firstChild.data
-        description = incident.getElementsByTagName(
-            'Description')[0].firstChild.data
-        date = incident.getElementsByTagName('Date')[0].firstChild.data
-        time = incident.getElementsByTagName('Time')[0].firstChild.data
-        location = incident.getElementsByTagName(
-            'Location')[0].firstChild.data
+        try:
+            category = incident.getElementsByTagName('Type')[0].firstChild.data
+            description = incident.getElementsByTagName(
+                'Description')[0].firstChild.data
+            date = incident.getElementsByTagName('Date')[0].firstChild.data
+            time = incident.getElementsByTagName('Time')[0].firstChild.data
+            location = incident.getElementsByTagName(
+                'Location')[0].firstChild.data
 
-        start_date = datetime.strptime('%s %s' % (date, time),
-                                     '%m/%d/%y %I:%M:%S %p')
+            start_date = datetime.strptime('%s %s' % (date, time),
+                                         '%m/%d/%y %I:%M:%S %p')
 
-        new_incident, created = Incident.objects.get_or_create(
-            category=category, start=start_date, location=location)
+            new_incident, created = Incident.objects.get_or_create(
+                category=category, start=start_date, location=location)
 
-        new_incident.description = description
-        new_incident.end = None
+            new_incident.description = description
+            new_incident.end = None
 
-        if created:
-            address = '%s, Tulsa, OK' % location.split(';')[0]
-            geo = geocode(address)
-            if geo:
-                new_incident.latitude = geo['latitude']
-                new_incident.longitude = geo['longitude']
+            if created:
+                address = '%s, Tulsa, OK' % location.split(';')[0]
+                geo = geocode(address)
+                if geo:
+                    new_incident.latitude = geo['latitude']
+                    new_incident.longitude = geo['longitude']
 
-        new_incident.save()
+            new_incident.save()
+        except:
+            'now what?'
 
 
 #def def_local_closures():
