@@ -7,7 +7,7 @@ admin.autodiscover()
 urlpatterns = patterns('',
     url(r'^$', 'trif_feeds.views.home', name='home'),
     url(r'^index.html|alerts.html$', 'trif_feeds.views.home'),
-    url(r'^alerts.dev.html', 'trif_feeds.views.alerts_dev',
+    url(r'^alerts.dev.html$', 'trif_feeds.views.alerts_dev',
         name='alerts_dev'),
     url(r'^alerts.(?P<file_type>xml|json)$', 'trif_feeds.views.alerts_feed',
         name='alerts_feed'),

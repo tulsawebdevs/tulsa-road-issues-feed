@@ -1,0 +1,25 @@
+server {
+  listen 80;
+  server_name www.trif.tulsawebdevs.org;
+  rewrite ^/(.*) http://www.trif.tulsawebdevs.org/$1 permanent;
+}
+
+server {
+  listen 80;
+  server_name trif.tulsawebdevs.org;
+
+  access_log /var/log/nginx/access.trif.log;
+  error_log  /var/log/nginx/error.trif.log;
+
+  location /media {
+    root /home/trif/trif/trif/media;
+  }
+
+  location /static/admin {
+    root /usr/local/lib/python2.6/dist-packages/django/contrib/admin/media;
+  }
+
+  location / {
+    proxy_pass http://127.0.0.1:29000;
+  }
+}
