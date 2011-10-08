@@ -1,3 +1,6 @@
+require 'json'
+
+
 class OdotFile 
   attr :filename
   attr_reader :lines, :items
@@ -10,6 +13,7 @@ class OdotFile
     @filename = filename
     @lines = []
     @items = []
+    self.parse
   end
 
   def parse
@@ -29,9 +33,7 @@ class OdotFile
     @items.select! {|i| ! i.join("").empty? }
   end
 
-  def items_as_strings
-    @items.map {|i| i.join("")}
+  def items_to_strings
+    @items.map {|i| i.join("\n")}
   end
-
-
 end

@@ -60,8 +60,6 @@ describe OdotFile, "after parsing" do
   end
 
   it "should output the items as an array of strings" do
-    @odot.items_as_strings[0].should be_an_instance_of String
+    @odot.items_to_strings[0].should be_an_instance_of String
   end
-
-
 end
