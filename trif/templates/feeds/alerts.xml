@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
-    <id>tag:{{domain}},{% now "Y-m-d" %},2</id>
-    <title>Tulsa Road Accidents</title>
-    <subtitle>Road Accidents in Tulsa, OK</subtitle>
-    <link href="http://{{domain}}{% url incidents_feed "xml" %}" rel="self"/>
+    <id>tag:{{domain}},{% now "Y-m-d" %},1</id>
+    <title>Tulsa Road Alerts</title>
+    <subtitle>Road Alerts in Tulsa, OK</subtitle>
+    <link href="http://{{domain}}{% url alerts_feed "xml" %}" rel="self"/>
     <updated>{% now "c" %}</updated>
     <author>
         <name>Tulsa Web Devs</name>
@@ -24,4 +24,20 @@
         </content>
     </entry>
     {% endfor %}
+    {% for closure in closures %}
+    <entry>
+        <id>tag:{{domain}},{{closure.start|date:"Y-m-d"}},3:closure/cl{{closure.id}}</id>
+        <title>{{closure.title}}</title>
+        <updated>{{closure.modified}}</updated>
+        <summary>{{closure.description}}</summary>
+        <category term="type:closure" label="Closure" />
+        <category term="closure_type" label="{{closure.category}}" />
+        <published>{{closure.start|date:"c"}}</published>
+        <georss:point>{{closure.latitude}} {{closure.longitude}}</georss:point>
+        <link href="http://{{domain}}{{closure.get_absolute_url}}" rel="self"/>
+        <link href="http://www.cityoftulsa.org/{{closure.link}}" rel="via"/>
+        <content type="html"></content>
+    </entry>
+    {% endfor %}
 </feed>
+

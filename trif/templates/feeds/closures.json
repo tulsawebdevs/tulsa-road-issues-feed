@@ -1,19 +1,19 @@
 {
     "alerts":[
-        {% for alert in alerts %}
+        {% for closure in closures %}
         {
-            "id": {{alert.id}},
+            "id": {{closure.id}},
             "type": "closure",
-            "title": "{{alert.title}}",
-            "category": "{{alert.category}}",
-            "description": "{{alert.description}}",
-            "start": "{{alert.start|date:"c"}}",
+            "title": "{{closure.title}}",
+            "category": "{{closure.category}}",
+            "description": "{{closure.description}}",
+            "start": "{{closure.start|date:"c"}}",
             "geo": {
-                "latitude": {{alert.latitude}},
-                "longitude": {{alert.longitude}}
+                "latitude": {{closure.latitude}},
+                "longitude": {{closure.longitude}}
                 },
-            "detail_link": "http://{{domain}}{{request.domain}}{{alert.get_absolute_url}}",
-            "source_link": "http://www.cityoftulsa.org{{alert.link}}"
+            "detail_link": "http://{{domain}}{{request.domain}}{{closure.get_absolute_url}}",
+            "source_link": "http://www.cityoftulsa.org{{closure.link}}"
         }{% if not forloop.last %},{% endif %}
         {% endfor %}
     ]

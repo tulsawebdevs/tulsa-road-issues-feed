@@ -1,18 +1,18 @@
 {
     "alerts":[
-        {% for alert in alerts %}
+        {% for incident in incidents %}
         {
-            "id": {{alert.id}},
+            "id": {{incident.id}},
             "type": "incident",
-            "title": "{{alert.location}}",
-            "category": "{{alert.category}}",
-            "description": "{{alert.description}}",
-            "start": "{{alert.start|date:"c"}}",
+            "title": "{{incident.location}}",
+            "category": "{{incident.category}}",
+            "description": "{{incident.description}}",
+            "start": "{{incident.start|date:"c"}}",
             "geo": {
-                "latitude": {{alert.latitude}},
-                "longitude": {{alert.longitude}}
+                "latitude": {{incident.latitude}},
+                "longitude": {{incident.longitude}}
                 },
-            "detail_link": "http://{{domain}}{{request.domain}}{{alert.get_absolute_url}}"
+            "detail_link": "http://{{domain}}{{request.domain}}{{incident.get_absolute_url}}"
         }{% if not forloop.last %},{% endif %}
         {% endfor %}
     ]

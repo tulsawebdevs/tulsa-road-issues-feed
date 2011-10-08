@@ -23,7 +23,14 @@ def alerts_dev(request):
 
 @require_http_methods(['GET'])
 def alerts_feed(request, file_type='json'):
-    return HttpResponse(file_type)
+    incidents = Incident.objects.filter(end__isnull=True).order_by('-start')
+    closures = LocalClosure.objects.filter(end__isnull=True).order_by('-start')
+
+    template = 'feeds/alerts.%s' % file_type
+
+    c = RequestContext(request, {'incidents': incidents, 'closures': closures,
+                                 'domain': Site.objects.get_current().domain})
+    return render_to_response(template, context_instance=c)
 
 
 @require_http_methods(['GET'])
@@ -42,7 +49,7 @@ def incidents_feed(request, file_type='json'):
 
     template = 'feeds/incidents.%s' % file_type
 
-    c = RequestContext(request, {'alerts': incidents,
+    c = RequestContext(request, {'incidents': incidents,
                                  'domain': Site.objects.get_current().domain})
     return render_to_response(template, context_instance=c)
 
@@ -68,7 +75,7 @@ def closures_feed(request, file_type='json'):
 
     template = 'feeds/closures.%s' % file_type
 
-    c = RequestContext(request, {'alerts': closures,
+    c = RequestContext(request, {'closures': closures,
                                  'domain': Site.objects.get_current().domain})
     return render_to_response(template, context_instance=c)
 

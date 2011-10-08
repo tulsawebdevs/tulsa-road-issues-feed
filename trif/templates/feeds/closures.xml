@@ -9,18 +9,18 @@
         <name>Tulsa Web Devs</name>
         <uri>http://tulsawebdevs.org</uri>
     </author>
-    {% for alert in alerts %}
+    {% for closure in closures %}
     <entry>
-        <id>tag:{{domain}},{{alert.start|date:"Y-m-d"}},3:alert/cl{{alert.id}}</id>
-        <title>{{alert.title}}</title>
-        <updated>{{alert.modified}}</updated>
-        <summary>{{alert.description}}</summary>
-        <category term="type:alert" label="Closure" />
-        <category term="alert_type" label="{{alert.category}}" />
-        <published>{{alert.start|date:"c"}}</published>
-        <georss:point>{{alert.latitude}} {{alert.longitude}}</georss:point>
-        <link href="http://{{domain}}{{alert.get_absolute_url}}" rel="self"/>
-        <link href="http://www.cityoftulsa.org/{{alert.link}}" rel="via"/>
+        <id>tag:{{domain}},{{closure.start|date:"Y-m-d"}},3:closure/cl{{closure.id}}</id>
+        <title>{{closure.title}}</title>
+        <updated>{{closure.modified}}</updated>
+        <summary>{{closure.description}}</summary>
+        <category term="type:closure" label="Closure" />
+        <category term="closure_type" label="{{closure.category}}" />
+        <published>{{closure.start|date:"c"}}</published>
+        <georss:point>{{closure.latitude}} {{closure.longitude}}</georss:point>
+        <link href="http://{{domain}}{{closure.get_absolute_url}}" rel="self"/>
+        <link href="http://www.cityoftulsa.org/{{closure.link}}" rel="via"/>
         <content type="html"></content>
     </entry>
     {% endfor %}
