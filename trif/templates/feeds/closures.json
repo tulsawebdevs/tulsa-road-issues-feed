@@ -1,0 +1,21 @@
+{
+    "alerts":[
+        {% for alert in alerts %}
+        {
+            "id": {{alert.id}},
+            "type": "closure",
+            "title": "{{alert.title}}",
+            "category": "{{alert.category}}",
+            "description": "{{alert.description}}",
+            "start": "{{alert.start|date:"c"}}",
+            "geo": {
+                "latitude": {{alert.latitude}},
+                "longitude": {{alert.longitude}}
+                },
+            "detail_link": "http://{{domain}}{{request.domain}}{{alert.get_absolute_url}}",
+            "source_link": "http://www.cityoftulsa.org{{alert.link}}"
+        }{% if not forloop.last %},{% endif %}
+        {% endfor %}
+    ]
+}
+
