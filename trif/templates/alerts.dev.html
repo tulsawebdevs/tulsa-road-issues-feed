@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}Tulsa Road Information Feed - Welcome Developers!{% endblock %}
+
+{% block body%}
+<h1>Welcome developers!</h1>
+<p>The Tulsa Road Information Feed contains information from several official sources, geo-tagged for your convenience.  The sources are:
+</p>
+<ul>
+    <li><i>911</i></li>
+    <li>City of Tulsa road closures</li>
+    <li>Oklahoma Department of Transportation</li>
+</ul>
+<p>Our source code is hosted at <a href="https://github.com/tulsawebdevs/tulsa-road-issues-feed/">github</a>
+</p>
+<p>There are other representations available:</p>
+<ul>
+    <li><a href="{% url alerts_atom %}">Atom Feed</a> w/ GeoRSS</li>
+    <li><a href="{% url alerts_json %}">JSON format</a></li>
+</ul>
+{% endblock %}

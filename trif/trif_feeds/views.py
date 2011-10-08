@@ -12,7 +12,7 @@ def home(request):
 
 @require_http_methods(['GET'])
 def alerts_dev(request):
-    return to_do(request)
+    return render_to_response('alerts.dev.html')
 
 @require_http_methods(['GET'])
 def alerts_atom(request):
