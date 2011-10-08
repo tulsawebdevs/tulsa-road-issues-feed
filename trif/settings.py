@@ -118,6 +118,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django_extensions',
     'south',
+    'trif_feeds',
 )
 
 # A sample logging configuration. The only tangible logging
