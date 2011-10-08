@@ -13,6 +13,9 @@ class Incident(TimeStampedModel):
     longitude = models.DecimalField(max_digits=13, decimal_places=8, null=True,
                                     blank=True)
 
+    def __unicode__(self):
+        return u'%s - %s - %s' % (self.category, self.location, self.start)
+
 
 class LocalClosure(TimeStampedModel):
     category = models.CharField(max_length=100, blank=True, db_index=True)
@@ -25,6 +28,9 @@ class LocalClosure(TimeStampedModel):
     longitude = models.DecimalField(max_digits=13, decimal_places=8, null=True,
                                     blank=True)
     link = models.CharField(max_length=500, blank=True)
+
+    def __unicode__(self):
+        return u'%s - %s - %s' % (self.category, self.title, self.start)
 
 
 # Not yet implemented
