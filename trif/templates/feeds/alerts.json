@@ -1,0 +1,39 @@
+{
+    "alerts":[
+        {% for incident in incidents %}
+        {
+            "id": {{incident.id}},
+            "type": "incident",
+            "title": "{{incident.title}}",
+            "category": "{{incident.category}}",
+            "description": "{{incident.description}}",
+            "start": "{{incident.start|date:"c"}}",
+            "geo": {
+                "latitude": {{incident.latitude}},
+                "longitude": {{incident.longitude}}
+                },
+            "detail_link": "http://{{domain}}{{request.domain}}{{incident.get_absolute_url}}",
+            "source_link": "http://www.cityoftulsa.org{{incident.link}}"
+        }{% if not forloop.last %},{% endif %}
+        {% endfor %}
+        {% if incidents and closures%},{% endif %}
+        {% for closure in closures %}
+        {
+            "id": {{closure.id}},
+            "type": "closure",
+            "title": "{{closure.title}}",
+            "category": "{{closure.category}}",
+            "description": "{{closure.description}}",
+            "start": "{{closure.start|date:"c"}}",
+            "geo": {
+                "latitude": {{closure.latitude}},
+                "longitude": {{closure.longitude}}
+                },
+            "detail_link": "http://{{domain}}{{request.domain}}{{closure.get_absolute_url}}",
+            "source_link": "http://www.cityoftulsa.org{{closure.link}}"
+        }{% if not forloop.last %},{% endif %}
+        {% endfor %}
+    ]
+}
+
+
