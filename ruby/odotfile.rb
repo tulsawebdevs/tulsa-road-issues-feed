@@ -1,6 +1,3 @@
-require 'json'
-
-
 class OdotFile 
   attr :filename
   attr_reader :lines, :items
