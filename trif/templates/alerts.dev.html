@@ -15,7 +15,7 @@
 </p>
 <p>There are other representations available:</p>
 <ul>
-    <li><a href="{% url alerts_atom %}">Atom Feed</a> w/ GeoRSS</li>
-    <li><a href="{% url alerts_json %}">JSON format</a></li>
+    <li><a href="{% url alerts_feed file_type='xml' %}">Atom Feed</a> w/ GeoRSS</li>
+    <li><a href="{% url alerts_feed file_type='json' %}">JSON format</a></li>
 </ul>
 {% endblock %}
