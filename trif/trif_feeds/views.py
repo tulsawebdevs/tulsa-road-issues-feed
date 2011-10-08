@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from django.shortcuts import render_to_response
 from django.template import RequestContext
 from django.views.decorators.http import require_http_methods
-from trif_feeds.models import Incident, LocalClosure
+from trif_feeds.models import Incident, LocalClosure, DotClosure
 
 
 def to_do(request):
@@ -30,6 +30,7 @@ def alerts_feed(request, file_type='json'):
             assert(i.latitude is not None)
             i.save()
     closures = LocalClosure.objects.filter(end__isnull=True).order_by('-start')
+    dot_closures = DotClosure.objects.filter(end__isnull=True).order_by('-start')
 
     template = 'feeds/alerts.%s' % file_type
 
@@ -41,6 +42,7 @@ def alerts_feed(request, file_type='json'):
         mimetype = 'text/plain'
 
     c = RequestContext(request, {'incidents': incidents, 'closures': closures,
+                                 'dot_closures': dot_closures,
                                  'domain': Site.objects.get_current().domain})
     return render_to_response(template, context_instance=c, mimetype=mimetype)
 
@@ -95,8 +97,9 @@ def closures_dev(request):
 
 @require_http_methods(['GET'])
 def closures_feed(request, file_type='json'):
-    closures = LocalClosure.objects.filter(end__isnull=True).order_by('-start')
-
+    losures = LocalClosure.objects.filter(end__isnull=True).order_by('-start')
+    dot_closures = DotClosure.objects.filter(end__isnull=True).order_by('-start')
+    
     template = 'feeds/closures.%s' % file_type
 
     if file_type == 'json':
@@ -107,6 +110,7 @@ def closures_feed(request, file_type='json'):
         mimetype = 'text/plain'
 
     c = RequestContext(request, {'closures': closures,
+                                 'dot_closures': dot_closures,
                                  'domain': Site.objects.get_current().domain})
     return render_to_response(template, context_instance=c, mimetype=mimetype)
 

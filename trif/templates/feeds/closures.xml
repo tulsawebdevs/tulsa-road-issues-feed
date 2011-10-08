@@ -24,4 +24,19 @@
         <content type="html"></content>
     </entry>
     {% endfor %}
+    {% for closure in dot_closures %}
+    <entry>
+        <id>tag:{{domain}},{{closure.start|date:"Y-m-d"}},3:closure/cl{{closure.id}}</id>
+        <title>{{closure.title}}</title>
+        <updated>{{closure.modified}}</updated>
+        <summary>{{closure.description}}</summary>
+        <category term="type:closure" label="Closure" />
+        <category term="closure_type" label="{{closure.category}}" />
+        <published>{{closure.start|date:"c"}}</published>
+        <georss:point>{{closure.latitude}} {{closure.longitude}}</georss:point>
+        <link href="http://{{domain}}{{closure.get_absolute_url}}" rel="self"/>
+        <link href="http://www.cityoftulsa.org/{{closure.link}}" rel="via"/>
+        <content type="html"></content>
+    </entry>
+    {% endfor %}
 </feed>

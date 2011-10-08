@@ -2,7 +2,24 @@
     "alerts":[
         {% for closure in closures %}
         {
-            "id": {{closure.id}},
+            "id": cl{{closure.id}},
+            "type": "closure",
+            "title": "{{closure.title}}",
+            "category": "{{closure.category}}",
+            "description": "{{closure.description}}",
+            "start": "{{closure.start|date:"c"}}",
+            "geo": {
+                "latitude": {{closure.latitude}},
+                "longitude": {{closure.longitude}}
+                },
+            "detail_link": "http://{{domain}}{{request.domain}}{{closure.get_absolute_url}}",
+            "source_link": "http://www.cityoftulsa.org{{closure.link}}"
+        }{% if not forloop.last %},{% endif %}
+        {% endfor %}
+        {% if closures and dot_closures %},{% endif %}
+        {% for closure in dot_closures %}
+        {
+            "id": dot_cl{{closure.id}},
             "type": "closure",
             "title": "{{closure.title}}",
             "category": "{{closure.category}}",
