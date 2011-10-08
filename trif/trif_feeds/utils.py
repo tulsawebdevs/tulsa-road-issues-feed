@@ -3,6 +3,7 @@ from django.conf import settings
 from json import loads
 from trif_feeds.models import Incident, LocalClosure
 from xml.dom import minidom
+import re
 import urllib2
 
 INCIDENT_URL = getattr(settings, 'INCIDENT_URL',
@@ -66,5 +67,37 @@ def fetch_incidents():
             'now what?'
 
 
-#def def_local_closures():
-#    pass
+def fetch_local_closures():
+    try:
+        feed = urllib2.urlopen(LOCAL_CLOSURE_URL).read()
+    except:
+        'now what?'
+
+    LocalClosure.objects.filter(end__isnull=True).update(end=datetime.now())
+
+    closures = re.findall(
+        'addPoint\((?P<lat>[^\,]+),(?P<lng>[^\,]+),(?:\")(?P<title>.*?)(?:\"),'
+        '(?:\")(?P<description>.*?)(?:\"),(?:\")(?P<type>.*?)(?:\"),(?:\")'
+        '(?P<color>.*?)(?:\"),(?:\")(?P<link>.*?)(?:\")', feed)
+    for closure in closures:
+        try:
+            latitude = closure[0]
+            longitude = closure[1]
+            title = closure[2]
+            description = closure[3]
+            category = closure[4]
+            link = closure[6]
+
+            new_closure, created = LocalClosure.objects.get_or_create(
+                title=title, link=link, latitude=latitude, longitude=longitude,
+                category=category)
+
+            new_closure.description = description
+            new_closure.end = None
+
+            if created:
+                new_closure.start = datetime.now()
+
+            new_closure.save()
+        except:
+            'now what?'
