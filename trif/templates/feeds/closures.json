@@ -2,7 +2,7 @@
     "alerts":[
         {% for closure in closures %}
         {
-            "id": cl{{closure.id}},
+            "id": "cl{{closure.id}}",
             "type": "closure",
             "title": "{{closure.title}}",
             "category": "{{closure.category}}",
@@ -19,7 +19,7 @@
         {% if closures and dot_closures %},{% endif %}
         {% for closure in dot_closures %}
         {
-            "id": dot_cl{{closure.id}},
+            "id": "dot_cl{{closure.id}}",
             "type": "closure",
             "title": "{{closure.title}}",
             "category": "{{closure.category}}",

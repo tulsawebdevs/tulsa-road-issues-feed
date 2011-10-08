@@ -2,7 +2,7 @@
     "alerts":[
         {% for incident in incidents %}
         {
-            "id": {{incident.id}},
+            "id": "in{{incident.id}}",
             "type": "incident",
             "title": "{{incident.location}}",
             "category": "{{incident.category}}",
@@ -18,7 +18,7 @@
         {% if incidents and closures%},{% endif %}
         {% for closure in closures %}
         {
-            "id": {{closure.id}},
+            "id": "cl{{closure.id}}",
             "type": "closure",
             "title": "{{closure.title}}",
             "category": "{{closure.category}}",
@@ -35,7 +35,7 @@
         {% if closures and dot_closures or incidents and dot_closures %},{% endif %}
         {% for closure in dot_closures %}
         {
-            "id": {{closure.id}},
+            "id": "dot_cl{{closure.id}}",
             "type": "closure",
             "title": "{{closure.title}}",
             "category": "{{closure.category}}",
