@@ -52,12 +52,15 @@
                     icon: icon
                 });
 
+                d = new Date(Date.parse(alerts[a].start));
+                start = d.toLocaleDateString() + " " +d.toLocaleTimeString();
+
                 info_content = '<dl>' +
                     '<dt>Title</dt><dd>' + alerts[a].title + '</dd>' +
                     '<dt>Description</dt><dd>' + alerts[a].description + '</dd>' +
                     '<dt>Type</dt><dd>' + alerts[a].type + '</dd>' +
                     '<dt>Category</dt><dd>' + alerts[a].category + '</dd>' +
-                    '<dt>Started</dt><dd>' + alerts[a].start + '</dd>' +
+                    '<dt>Started</dt><dd>' + start + '</dd>' +
                     '<dt>TRIF Details</dt><dd><a href="' + alerts[a].detail_link + '" target="trif_link">Trif</a></dd>';
                 if(alerts[a].hasOwnProperty('source_link')){
                     info_content += '<dt>Source Details</dt><dd><a href="' + alerts[a].source_link + '" target="src_link">Source</a></dd>';
@@ -74,9 +77,7 @@
                     open_infowindow = this.info_window;
                 });
             }else{
-                console.log(alerts[a]);
                 table_body = $('#side_bar .unmapped tbody');
-                console.log(table_body);
                 d = new Date(Date.parse(alerts[a].start));
                 start = d.toLocaleDateString() + " " +d.toLocaleTimeString();
                 row = $('<tr />');
