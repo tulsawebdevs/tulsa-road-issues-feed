@@ -17,8 +17,8 @@ def home(request):
 
 
 @require_http_methods(['GET'])
-def alerts_dev(request):
-    return render_to_response('alerts.dev.html')
+def about(request):
+    return render_to_response('about.html')
 
 
 @require_http_methods(['GET'])
@@ -123,3 +123,7 @@ def closure_details(request, id):
 @require_http_methods(['GET'])
 def dot_closure_details(request, id):
     return HttpResponse(id)
+
+@require_http_methods(['GET'])
+def about(request):
+    return render_to_response('about.html')

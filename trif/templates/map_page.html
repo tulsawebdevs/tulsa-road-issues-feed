@@ -12,6 +12,7 @@
   .unmapped {width:100%; border-spacing: 0}
   .unmapped th{background: #ccc; text-align:center;}
   .unmapped td{}
+  .logo_block {width:100%; text-align:center; font-size:12pt; font-variant: small-caps}
 </style>
 <script type="text/javascript"
     src="http://maps.googleapis.com/maps/api/js?sensor=true">
@@ -96,6 +97,9 @@
 {% block body_attrs %}onload="initialize()"{% endblock %}
 {% block body%}
 <div id="side_bar">
+    <div class="logo_block">
+        <a href="{% url about %}">Tulsa Road Information Feed</a>
+    </div>
     <table class="unmapped">
         <thead>
             <tr>
