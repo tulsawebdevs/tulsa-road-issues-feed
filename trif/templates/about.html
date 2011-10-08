@@ -1,21 +1,68 @@
 {% extends "base.html" %}
 
-{% block title %}Tulsa Road Information Feed - Welcome Developers!{% endblock %}
+{% block title %}Tulsa Road Information Feed{% endblock %}
 
 {% block body%}
-<h1>Welcome developers!</h1>
-<p>The Tulsa Road Information Feed contains information from several official sources, geo-tagged for your convenience.  The sources are:
+<h1>The Tulsa Road Information Feed</h1>
+<p>
+The 
+<a href="{% url home %}">Tulsa Road Information Feed</a> (TRIF) is a
+<a href="http://tulsahackathon.com/2011">Hackathon 2011</a> project of the
+<a href="http://tulsawebdevs.org">Tulsa Web Developers</a>, in
+partnership with <a href="http://incog.org">INCOG</a>.
 </p>
+<p>Our data comes from several official sources:</p>
 <ul>
-    <li>911 (<a href="http://www.cityoftulsa.org/live-traffic-report.aspx">Map</a>, <a href="http://www.cityoftulsa.org/live-traffic-report/live-traffic-report-text-only.aspx">Text-only</a>, and <a href="http://www.cityoftulsa.org/rss/accident.aspx">Atom feed</a>)</li>
-    <li><a href="http://www.cityoftulsa.org/road-closure-map/map.aspx">City of Tulsa road closures</a></li>
-    <li><a href="http://www.okladot.state.ok.us/newsmedia/traffax/tulsa/">Oklahoma Department of Transportation road closures press releases</a></li>
+<li>The City of Tulsa's
+<a href="http://www.cityoftulsa.org/live-traffic-report.aspx">Live Traffic Report</a>
+(specifically the 
+<a href="http://www.cityoftulsa.org/rss/accident.aspx">XML feed</a>)
+</li>
+<li>The City of Tulsa's
+<a href="http://www.cityoftulsa.org/road-closure-map/map.aspx">Road Closure Map</a>
+</li>
+<li>Oklahoma Department of Transportation's
+<a href="http://www.okladot.state.ok.us/newsmedia/traffax/">Traffic Advisories</a>
+</li>
 </ul>
-<p>Our source code is hosted at <a href="https://github.com/tulsawebdevs/tulsa-road-issues-feed/">github</a>.
+
+<p>
+We then use
+<a href="http://code.google.com/apis/maps/index.html">Google's Maps APIs</a>
+to place the information on a map, and display live traffic information.
 </p>
-<p>There are other representations available:</p>
+
+<h1>Developers Inforomation</h1>
+
+<p>There are other data representations available:</p>
 <ul>
-    <li><a href="{% url alerts_feed file_type='xml' %}">Atom Feed</a> w/ GeoRSS</li>
-    <li><a href="{% url alerts_feed file_type='json' %}">JSON format</a></li>
+<li>
+<a href="{% url alerts_feed file_type='xml' %}">Atom feed of accidents and road closures</a>
+with <a href="http://georss.org/Main_Page">GeoRSS</a>
+</li>
+<li>
+<a href="{% url alerts_feed file_type='json' %}">JSON feed of accidents and road closures</a>
+</li>
+<li>
+<a href="{% url incidents_feed file_type='xml' %}">Atom feed of accidents</a>
+</li>
+<li>
+<a href="{% url incidents_feed file_type='json' %}">JSON feed of accidents</a>
+<li>
+<a href="{% url closures_feed file_type='xml' %}">Atom feed of road closures</a>
+</li>
+<li>
+<a href="{% url closures_feed file_type='json' %}">JSON feed of road closures</a>
+</li>
 </ul>
+
+<p>
+If you have questions or would like to help with the project, join us at
+the <a href="http://tulsawebdevs.org/">Tulsa Web Developers</a> monthly
+meeting, or try <tt>#tulsawebdevs</tt> on freenode.  Our source code is
+at 
+<a href="https://github.com/tulsawebdevs/tulsa-road-issues-feed/">github</a>,
+along with some
+<a href="https://github.com/tulsawebdevs/tulsa-road-issues-feed/wiki">additional documentation</a>.
+</p>
 {% endblock %}
