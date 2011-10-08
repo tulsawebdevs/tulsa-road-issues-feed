@@ -49,7 +49,7 @@ def alerts_feed(request, file_type='json'):
 
 @require_http_methods(['GET'])
 def incidents(request):
-    return to_do(request)
+    return render_to_response('incidents.html')
 
 
 @require_http_methods(['GET'])
@@ -87,7 +87,7 @@ def incident_details(request, id):
 
 @require_http_methods(['GET'])
 def closures(request):
-    return to_do(request)
+    return render_to_response('closures.html')
 
 
 @require_http_methods(['GET'])

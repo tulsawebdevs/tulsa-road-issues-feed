@@ -4,7 +4,7 @@
 {{block.super}}
 <script>
     $.ajax({
-        url: '{% url alerts_feed "json" %}',
+        url: '{% url closures_feed "json" %}',
         type: 'get',
         dataType: 'json',
         success:place_alert_markers

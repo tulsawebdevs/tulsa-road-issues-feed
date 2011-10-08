@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+
+{% block title %}Tulsa Road Information Feed{% endblock %}
+
+{% block head %}
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<style type="text/css">
+  html { height: 100% }
+  body { height: 100%; margin: 0; padding: 0 }
+  #map_canvas { height: 100% }
+</style>
+<script type="text/javascript"
+    src="http://maps.googleapis.com/maps/api/js?sensor=true">
+</script>
+<script type="text/javascript">
+
+    var map;
+
+    function initialize() {
+        var latlng = new google.maps.LatLng(36.1113, -95.931);
+        var myOptions = {
+          zoom: 12,
+          center: latlng,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+        trafficLayer = new google.maps.TrafficLayer();
+        trafficLayer.setMap(map);
+
+    }
+
+    function place_alert_markers(json_resp){
+        alerts = json_resp.alerts;
+        var open_infowindow;
+        for(a in alerts){
+            var position = new google.maps.LatLng(alerts[a].geo.latitude, alerts[a].geo.longitude);
+            var icon;
+            if(alerts[a].type === 'closure'){
+                icon = 'https://maps.google.com/mapfiles/ms/icons/red.png';
+            }else if(alerts[a].type === 'incident'){
+                icon = 'https://maps.google.com/mapfiles/ms/icons/yellow.png';
+            }
+            var marker = new google.maps.Marker({
+                position: position,
+                map: map,
+                title: alerts[a].title,
+                icon: icon
+            });
+
+            info_content = '<dl>' +
+                '<dt>Title</dt><dd>' + alerts[a].title + '</dd>' +
+                '<dt>Description</dt><dd>' + alerts[a].description + '</dd>' +
+                '<dt>Type</dt><dd>' + alerts[a].type + '</dd>' +
+                '<dt>Category</dt><dd>' + alerts[a].category + '</dd>' +
+                '<dt>Started</dt><dd>' + alerts[a].start + '</dd>' +
+                '<dt>TRIF Details</dt><dd><a href="' + alerts[a].detail_link + '" target="trif_link">Trif</a></dd>';
+            if(alerts[a].hasOwnProperty('source_link')){
+                info_content += '<dt>Source Details</dt><dd><a href="' + alerts[a].source_link + '" target="src_link">Source</a></dd>';
+            }
+            info_content += '</dl>';
+
+            marker.info_window = new google.maps.InfoWindow({
+                content: info_content 
+            });
+
+            google.maps.event.addListener(marker, 'click', function(){
+                if(open_infowindow){open_infowindow.close();}
+                this.info_window.open(map, this);
+                open_infowindow = this.info_window;
+            });
+        }
+    }
+
+
+</script>
+{% endblock %}
+
+{% block body_attrs %}onload="initialize()"{% endblock %}
+{% block body%}
+<div id="map_canvas" style="width:100%; height:100%"></div>
+{% endblock %}
+
