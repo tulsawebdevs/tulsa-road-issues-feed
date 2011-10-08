@@ -1,26 +1,14 @@
 from datetime import datetime
 from django.conf import settings
-from json import loads
 from trif_feeds.models import Incident, LocalClosure
 from xml.dom import minidom
 import re
-import urllib2
 
 INCIDENT_URL = getattr(settings, 'INCIDENT_URL',
                        'http://www.cityoftulsa.org/rss/accident.aspx')
 LOCAL_CLOSURE_URL = getattr(
     settings, 'LOCAL_CLOSURE_URL',
     'http://www.cityoftulsa.org/road-closure-map/map.aspx')
-
-
-def geocode(address):
-    url = ('http://maps.google.com/maps/api/geocode/json' +
-           '?sensor=false&address=%s' % urllib2.quote(address))
-    resp = urllib2.urlopen(url)
-    data = loads(resp.read())
-    geo = {'latitude': data['results'][0]['geometry']['location']['lat'],
-           'longitude': data['results'][0]['geometry']['location']['lat']}
-    return geo
 
 
 def fetch_incidents():
@@ -54,14 +42,7 @@ def fetch_incidents():
 
             new_incident.description = description
             new_incident.end = None
-
-            if created:
-                address = '%s, Tulsa, OK' % location.split(';')[0]
-                geo = geocode(address)
-                if geo:
-                    new_incident.latitude = geo['latitude']
-                    new_incident.longitude = geo['longitude']
-
+            new_incident.ensure_geo()
             new_incident.save()
         except:
             'now what?'
