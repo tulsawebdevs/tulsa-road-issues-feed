@@ -27,6 +27,9 @@ urlpatterns = patterns('',
         'trif_feeds.views.closures_feed',  name='closures_feed'),
     url(r'^alerts/closures/cl(?P<id>[0-9]+).html$',
         'trif_feeds.views.closure_details', name='closure_details'),
+    url(r'^alerts/closures/dot_cl(?P<id>[0-9]+).html$',
+        'trif_feeds.views.dot_closure_details', name='dot_closure_details'),
+    
     #url(r'^versions.html', 'trif_feeds.views.versions', name='versions'),
 
     # Uncomment the admin/doc line below to enable admin documentation:

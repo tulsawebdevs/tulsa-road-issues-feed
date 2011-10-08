@@ -1,13 +1,6 @@
 from django.contrib import admin
-from models import Incident, LocalClosure
+from models import Incident, LocalClosure, DotClosure
 
-
-class IncidentAdmin(admin.ModelAdmin):
-    model = Incident
-
-class LocalClosureAdmin(admin.ModelAdmin):
-    model = LocalClosure
-
-
-admin.site.register(Incident, IncidentAdmin)
-admin.site.register(LocalClosure, LocalClosureAdmin)
+admin.site.register(Incident)
+admin.site.register(LocalClosure)
+admin.site.register(DotClosure)

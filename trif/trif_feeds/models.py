@@ -62,13 +62,20 @@ class LocalClosure(TimeStampedModel):
         return reverse('closure_details', args=[self.id])
 
 
-# Not yet implemented
-#class DotClosure(TimeStampedModel):
-#    category = models.CharField(max_length=100, blank=True, db_index=True)
-#    description = models.TextField(blank=True)
-#    start = models.DateTimeField(null=True, blank=True)
-#    end = models.DateTimeField(null=True, blank=True)
-#    latitude = models.DecimalField(max_digits=13, decimal_places=8, null=True,
-#                                   blank=True)
-#    longitude = models.DecimalField(max_digits=13, decimal_places=8,
-#                                    null=True, blank=True)
+class DotClosure(TimeStampedModel):
+    category = models.CharField(max_length=100, blank=True, db_index=True)
+    title = models.TextField(blank=True)
+    description = models.TextField(blank=True)
+    start = models.DateTimeField(null=True, blank=True)
+    end = models.DateTimeField(null=True, blank=True)
+    latitude = models.DecimalField(max_digits=13, decimal_places=8, null=True,
+                                   blank=True)
+    longitude = models.DecimalField(max_digits=13, decimal_places=8,
+                                    null=True, blank=True)
+    link = models.CharField(max_length=500, blank=True)
+
+    def __unicode__(self):
+        return u'%s - %s - %s' % (self.category, self.title, self.start)
+
+    def get_absolute_url(self):
+        return reverse('dot_closure_details', args=[self.id])

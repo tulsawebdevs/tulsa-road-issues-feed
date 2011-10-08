@@ -114,3 +114,7 @@ def closures_feed(request, file_type='json'):
 @require_http_methods(['GET'])
 def closure_details(request, id):
     return HttpResponse(id)
+
+@require_http_methods(['GET'])
+def dot_closure_details(request, id):
+    return HttpResponse(id)
