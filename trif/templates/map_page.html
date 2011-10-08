@@ -77,9 +77,11 @@
                 console.log(alerts[a]);
                 table_body = $('#side_bar .unmapped tbody');
                 console.log(table_body);
+                d = new Date(Date.parse(alerts[a].start));
+                start = d.toLocaleDateString() + " " +d.toLocaleTimeString();
                 row = $('<tr />');
                 row.append('<td>' + alerts[a].type + '</td>')
-                    .append('<td>' + alerts[a].start + '</td>')
+                    .append('<td>' + start + '</td>')
                     .append('<td>' + alerts[a].title + '</td>')
                     .appendTo(table_body);
             }
