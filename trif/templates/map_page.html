@@ -10,7 +10,8 @@
   #map_canvas { height: 100% }
   #side_bar {width:400px; height: 100%; z-index:16000; float:left; background:#fff;}
   .unmapped {width:100%; border-spacing: 0}
-  .unmapped th{background: #ccc; text-align:center;}
+  .unmapped tr:nth-child(even){background:#ddd;}
+  .unmapped th{background: #68c; text-align:center;}
   .unmapped td{}
   .logo_block {width:100%; text-align:center; font-size:12pt; font-variant: small-caps}
 </style>
@@ -53,12 +54,15 @@
                     icon: icon
                 });
 
+                d = new Date(Date.parse(alerts[a].start));
+                start = d.toLocaleDateString() + " " +d.toLocaleTimeString();
+
                 info_content = '<dl>' +
                     '<dt>Title</dt><dd>' + alerts[a].title + '</dd>' +
                     '<dt>Description</dt><dd>' + alerts[a].description + '</dd>' +
                     '<dt>Type</dt><dd>' + alerts[a].type + '</dd>' +
                     '<dt>Category</dt><dd>' + alerts[a].category + '</dd>' +
-                    '<dt>Started</dt><dd>' + alerts[a].start + '</dd>' +
+                    '<dt>Started</dt><dd>' + start + '</dd>' +
                     '<dt>TRIF Details</dt><dd><a href="' + alerts[a].detail_link + '" target="trif_link">Trif</a></dd>';
                 if(alerts[a].hasOwnProperty('source_link')){
                     info_content += '<dt>Source Details</dt><dd><a href="' + alerts[a].source_link + '" target="src_link">Source</a></dd>';
@@ -75,12 +79,12 @@
                     open_infowindow = this.info_window;
                 });
             }else{
-                console.log(alerts[a]);
                 table_body = $('#side_bar .unmapped tbody');
-                console.log(table_body);
+                d = new Date(Date.parse(alerts[a].start));
+                start = d.toLocaleDateString() + " " +d.toLocaleTimeString();
                 row = $('<tr />');
                 row.append('<td>' + alerts[a].type + '</td>')
-                    .append('<td>' + alerts[a].start + '</td>')
+                    .append('<td>' + start + '</td>')
                     .append('<td>' + alerts[a].title + '</td>')
                     .appendTo(table_body);
             }
