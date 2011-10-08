@@ -24,6 +24,11 @@ def alerts_dev(request):
 @require_http_methods(['GET'])
 def alerts_feed(request, file_type='json'):
     incidents = Incident.objects.filter(end__isnull=True).order_by('-start')
+    # Fix some buggy geo-tagging
+    for i in incidents:
+        if i.ensure_geo():
+            assert(i.latitude is not None)
+            i.save()
     closures = LocalClosure.objects.filter(end__isnull=True).order_by('-start')
 
     template = 'feeds/alerts.%s' % file_type
@@ -53,6 +58,11 @@ def incidents_dev(request):
 @require_http_methods(['GET'])
 def incidents_feed(request, file_type='json'):
     incidents = Incident.objects.filter(end__isnull=True).order_by('-start')
+    # Fix some buggy geo-tagging
+    for i in incidents:
+        if i.ensure_geo():
+            assert(i.latitude is not None)
+            i.save()
 
     template = 'feeds/incidents.%s' % file_type
 
