@@ -6,7 +6,7 @@
             "type": "incident",
             "title": "{{incident.location}}",
             "category": "{{incident.category}}",
-            "description": "{{incident.description}}",
+            "description": "{{incident.description|safe|escapejs}}",
             "start": "{{incident.start|date:"c"}}",
             "geo": {
                 "latitude": {{incident.latitude|default:"null"}},
@@ -22,7 +22,7 @@
             "type": "closure",
             "title": "{{closure.title}}",
             "category": "{{closure.category}}",
-            "description": "{{closure.description}}",
+            "description": "{{closure.description|safe|escapejs}}",
             "start": "{{closure.start|date:"c"}}",
             "geo": {
                 "latitude": {{closure.latitude|default:"null"}},
@@ -39,7 +39,7 @@
             "type": "closure",
             "title": "{{closure.title}}",
             "category": "{{closure.category}}",
-            "description": "{{closure.description}}",
+            "description": "{{closure.description|safe|escapejs}}",
             "start": "{{closure.start|date:"c"}}",
             "geo": {
                 "latitude": {{closure.latitude|default:"null"}},

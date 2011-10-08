@@ -6,7 +6,7 @@
             "type": "incident",
             "title": "{{incident.location}}",
             "category": "{{incident.category}}",
-            "description": "{{incident.description}}",
+            "description": "{{incident.description|safe|escapejs}}",
             "start": "{{incident.start|date:"c"}}",
             "geo": {
                 "latitude": {{incident.latitude|default:"null"}},

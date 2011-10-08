@@ -6,7 +6,7 @@
             "type": "closure",
             "title": "{{closure.title}}",
             "category": "{{closure.category}}",
-            "description": "{{closure.description}}",
+            "description": "{{closure.description|safe|escapejs}}",
             "start": "{{closure.start|date:"c"}}",
             "geo": {
                 "latitude": {{closure.latitude|default:"null"}},
@@ -23,7 +23,7 @@
             "type": "closure",
             "title": "{{closure.title}}",
             "category": "{{closure.category}}",
-            "description": "{{closure.description}}",
+            "description": "{{closure.description|safe|escapejs}}",
             "start": "{{closure.start|date:"c"}}",
             "geo": {
                 "latitude": {{closure.latitude|default:"null"}},
