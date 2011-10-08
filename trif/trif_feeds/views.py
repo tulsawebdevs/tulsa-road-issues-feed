@@ -28,9 +28,16 @@ def alerts_feed(request, file_type='json'):
 
     template = 'feeds/alerts.%s' % file_type
 
+    if file_type == 'json':
+        mimetype = 'application/json'
+    elif file_type == 'xml':
+        mimetype = 'application/atom+xml'
+    else:
+        mimetype = 'text/plain'
+
     c = RequestContext(request, {'incidents': incidents, 'closures': closures,
                                  'domain': Site.objects.get_current().domain})
-    return render_to_response(template, context_instance=c)
+    return render_to_response(template, context_instance=c, mimetype=mimetype)
 
 
 @require_http_methods(['GET'])
@@ -49,9 +56,16 @@ def incidents_feed(request, file_type='json'):
 
     template = 'feeds/incidents.%s' % file_type
 
+    if file_type == 'json':
+        mimetype = 'application/json'
+    elif file_type == 'xml':
+        mimetype = 'application/atom+xml'
+    else:
+        mimetype = 'text/plain'
+
     c = RequestContext(request, {'incidents': incidents,
                                  'domain': Site.objects.get_current().domain})
-    return render_to_response(template, context_instance=c)
+    return render_to_response(template, context_instance=c, mimetype=mimetype)
 
 
 @require_http_methods(['GET'])
@@ -75,9 +89,16 @@ def closures_feed(request, file_type='json'):
 
     template = 'feeds/closures.%s' % file_type
 
+    if file_type == 'json':
+        mimetype = 'application/json'
+    elif file_type == 'xml':
+        mimetype = 'application/atom+xml'
+    else:
+        mimetype = 'text/plain'
+
     c = RequestContext(request, {'closures': closures,
                                  'domain': Site.objects.get_current().domain})
-    return render_to_response(template, context_instance=c)
+    return render_to_response(template, context_instance=c, mimetype=mimetype)
 
 
 @require_http_methods(['GET'])
