@@ -9,8 +9,8 @@
             "description": "{{incident.description}}",
             "start": "{{incident.start|date:"c"}}",
             "geo": {
-                "latitude": {{incident.latitude}},
-                "longitude": {{incident.longitude}}
+                "latitude": {{incident.latitude|default:"null"}},
+                "longitude": {{incident.longitude|default:"null"}}
                 },
             "detail_link": "http://{{domain}}{{request.domain}}{{incident.get_absolute_url}}"
         }{% if not forloop.last %},{% endif %}
@@ -25,8 +25,8 @@
             "description": "{{closure.description}}",
             "start": "{{closure.start|date:"c"}}",
             "geo": {
-                "latitude": {{closure.latitude}},
-                "longitude": {{closure.longitude}}
+                "latitude": {{closure.latitude|default:"null"}},
+                "longitude": {{closure.longitude|default:"null"}}
                 },
             "detail_link": "http://{{domain}}{{request.domain}}{{closure.get_absolute_url}}",
             "source_link": "http://www.cityoftulsa.org{{closure.link}}"
@@ -42,11 +42,10 @@
             "description": "{{closure.description}}",
             "start": "{{closure.start|date:"c"}}",
             "geo": {
-                "latitude": {{closure.latitude}},
-                "longitude": {{closure.longitude}}
+                "latitude": {{closure.latitude|default:"null"}},
+                "longitude": {{closure.longitude|default:"null"}}
                 },
-            "detail_link": "http://{{domain}}{{request.domain}}{{closure.get_absolute_url}}",
-            "source_link": "http://www.cityoftulsa.org{{closure.link}}"
+            "detail_link": "http://{{domain}}{{request.domain}}{{closure.get_absolute_url}}"
         }{% if not forloop.last %},{% endif %}
         {% endfor %}
     ]
