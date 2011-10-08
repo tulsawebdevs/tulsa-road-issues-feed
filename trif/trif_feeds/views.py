@@ -97,9 +97,10 @@ def closures_dev(request):
 
 @require_http_methods(['GET'])
 def closures_feed(request, file_type='json'):
-    losures = LocalClosure.objects.filter(end__isnull=True).order_by('-start')
-    dot_closures = DotClosure.objects.filter(end__isnull=True).order_by('-start')
-    
+    closures = LocalClosure.objects.filter(end__isnull=True).order_by('-start')
+    dot_closures = DotClosure.objects.filter(end__isnull=True).order_by(
+        '-start')
+
     template = 'feeds/closures.%s' % file_type
 
     if file_type == 'json':
