@@ -1,0 +1,19 @@
+{
+    "alerts":[
+        {% for alert in alerts %}
+        {
+            "id": {{alert.id}},
+            "type": "incident",
+            "title": "{{alert.location}}",
+            "category": "{{alert.category}}",
+            "description": "{{alert.description}}",
+            "start": "{{alert.start|date:"c"}}",
+            "geo": {
+                "latitude": {{alert.latitude}},
+                "longitude": {{alert.longitude}}
+                },
+            "detail_link": "http://{{domain}}{{request.domain}}{{alert.get_absolute_url}}"
+        }{% if not forloop.last %},{% endif %}
+        {% endfor %}
+    ]
+}
