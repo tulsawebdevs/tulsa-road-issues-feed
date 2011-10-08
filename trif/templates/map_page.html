@@ -78,7 +78,7 @@
                     icon: icon
                 });
 
-                d = new Date(Date.parse(alerts[a].start));
+                d = parseISO8601(alerts[a].start);
                 start = d.toLocaleDateString() + " " +d.toLocaleTimeString();
 
                 info_content = '<dl>' +
