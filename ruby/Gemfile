@@ -1,0 +1,13 @@
+source 'http://rubygems.org'
+
+# maybe not needed so much
+gem 'pdf-inspector'
+
+
+# for testing
+gem 'rspec'
+
+# because vim-rspec needs it
+
+gem 'hpricot'
+
