@@ -1,6 +1,6 @@
 # Django settings for trif project.
 
-DEBUG = True
+DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
@@ -109,16 +109,15 @@ TEMPLATE_DIRS = (
 )
 
 INSTALLED_APPS = (
+    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # Uncomment the next line to enable the admin:
-    # 'django.contrib.admin',
-    # Uncomment the next line to enable admin documentation:
-    # 'django.contrib.admindocs',
+    'django_extensions',
+    'south',
 )
 
 # A sample logging configuration. The only tangible logging
@@ -143,3 +142,14 @@ LOGGING = {
         },
     }
 }
+
+try:
+    from local_settings import *
+except ImportError, ep:
+    pass
+else:
+    try:
+        INSTALLED_APPS += LOCAL_INSTALLED_APPS
+        MIDDLEWARE_CLASSES += LOCAL_MIDDLEWARE_CLASSES
+    except:
+        pass
