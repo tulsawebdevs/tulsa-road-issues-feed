@@ -4,8 +4,11 @@ from django.conf.urls.defaults import patterns, include, url
 from django.contrib import admin
 admin.autodiscover()
 
+from manifesto.views import ManifestView
+
 urlpatterns = patterns('',
     url(r'^$', 'trif_feeds.views.home', name='home'),
+    url(r'^manifest\.appcache$', ManifestView.as_view(), name='cache_manifest'),
     url(r'^index.html|alerts.html|alerts$', 'trif_feeds.views.home'),
     url(r'^alerts.(?P<file_type>xml|json)$', 'trif_feeds.views.alerts_feed',
         name='alerts_feed'),
@@ -26,7 +29,7 @@ urlpatterns = patterns('',
         'trif_feeds.views.closure_details', name='closure_details'),
     url(r'^alerts/closures/dot_cl(?P<id>[0-9]+).html$',
         'trif_feeds.views.dot_closure_details', name='dot_closure_details'),
-    
+
     #url(r'^versions.html', 'trif_feeds.views.versions', name='versions'),
 
     # Uncomment the admin/doc line below to enable admin documentation:

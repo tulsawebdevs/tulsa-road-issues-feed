@@ -1,0 +1,10 @@
+  html { height: 100% }
+  body { height: 100%; margin: 0; padding: 0; font-size:10pt; font-family:arial, helvetica, georgia, sans-serif}
+  #map_canvas { height: 100% }
+  #side_bar {width:400px; height: 100%; z-index:16000; float:left; background:#fff; position:relative;}
+  #side_bar .close_btn{position:absolute; top:19px; right: -36px;padding: 2px 3px 3px; background:#68c; border: 3px solid #46a;font-size:21px; font-weight:bold;color:#fff;}
+  .unmapped {width:100%; border-spacing: 0}
+  .unmapped tr:nth-child(even){background:#ddd;}
+  .unmapped th{background: #68c; text-align:center;}
+  .unmapped td{}
+  .logo_block {width:100%; text-align:center; font-size:12pt; font-variant: small-caps}
