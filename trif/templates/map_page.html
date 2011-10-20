@@ -22,11 +22,20 @@
 <script type="text/javascript">
 
     var map;
+    var lat = 36.1113;
+    var lon = -95.931;
+    var zoom = 12;
 
     function initialize() {
-        var latlng = new google.maps.LatLng(36.1113, -95.931);
+        if (navigator.geolocation){
+            navigator.geolocation.getCurrentPosition(function(position){
+                map.setCenter(new google.maps.LatLng(position.coords.latitude, position.coords.longitude));
+                map.setZoom(13);
+            });
+        }
+        var latlng = new google.maps.LatLng(lat, lon);
         var myOptions = {
-          zoom: 12,
+          zoom: zoom,
           center: latlng,
           mapTypeId: google.maps.MapTypeId.ROADMAP
         };
