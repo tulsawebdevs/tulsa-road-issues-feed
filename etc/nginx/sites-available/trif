@@ -15,8 +15,8 @@ server {
     root /home/trif/trif/trif/media;
   }
 
-  location /static/admin {
-    root /usr/local/lib/python2.6/dist-packages/django/contrib/admin/media;
+  location /admin/media {
+    root /usr/local/lib/python2.6/dist-packages/django/contrib;
   }
 
   location / {
