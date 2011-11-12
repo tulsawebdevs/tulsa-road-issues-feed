@@ -35,7 +35,9 @@ def alerts_feed(request, file_type='json'):
 
     template = 'feeds/alerts.%s' % file_type
 
-    if file_type.startswith('json'):
+    if file_type == 'jsonp':
+        mimetype = 'text/javascript'
+    elif file_type == 'json':
         mimetype = 'application/json'
     elif file_type == 'xml':
         mimetype = 'application/atom+xml'
