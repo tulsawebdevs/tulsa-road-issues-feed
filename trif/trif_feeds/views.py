@@ -56,7 +56,7 @@ def generic_feed(request, template, with_incidents=False,
         mimetype = 'application/json'
     if template.endswith('.jsonp'):
         mimetype = 'text/javascript'
-    elif file_type == 'xml':
+    elif template.endswith('.xml'):
         mimetype = 'application/atom+xml'
     else:
         mimetype = 'text/plain'
