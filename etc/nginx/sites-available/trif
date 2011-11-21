@@ -15,8 +15,12 @@ server {
     root /home/trif/trif/trif/media;
   }
 
-  location /static/admin {
-    root /usr/local/lib/python2.6/dist-packages/django/contrib/admin/media;
+  location /admin/media {
+    root /usr/local/lib/python2.6/dist-packages/django/contrib;
+  }
+
+  location /static {
+    root /home/trif/trif/trif/trif_feeds;
   }
 
   location / {
@@ -24,14 +28,14 @@ server {
         add_header 'Access-Control-Allow-Origin' '*';
         add_header 'Access-Control-Allow-Methods' 'GET, OPTIONS';
         # 20 days
-        add_header 'Access-Control-Max-Age' 1728000
+        add_header 'Access-Control-Max-Age' 1728000;
     }
 
     if ($request_method = 'GET') {
         add_header 'Access-Control-Allow-Origin' '*';
         add_header 'Access-Control-Allow-Methods' 'GET, OPTIONS';
         # 20 days
-        add_header 'Access-Control-Max-Age' 1728000
+        add_header 'Access-Control-Max-Age' 1728000;
     }
     proxy_pass http://127.0.0.1:29000;
   }

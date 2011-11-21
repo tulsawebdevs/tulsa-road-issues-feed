@@ -23,31 +23,61 @@ def about(request):
     return render_to_response('about.html')
 
 
-@require_http_methods(['GET'])
-def alerts_feed(request, file_type='json'):
-    incidents = Incident.objects.filter(end__isnull=True).order_by('-start')
-    # Fix some buggy geo-tagging
-    for i in incidents:
-        if i.ensure_geo():
-            assert(i.latitude is not None)
-            i.save()
-    closures = LocalClosure.objects.filter(end__isnull=True).order_by('-start')
-    dot_closures = DotClosure.objects.filter(end__isnull=True).order_by('-start')
+def generic_feed(request, template, with_incidents=False,
+    with_closures=False, with_dot_closures=False):
+
+    assert(with_incidents or with_closures or with_dot_closures)
+    assert(template)
+
+    if with_incidents:
+        incidents = Incident.objects.filter(end__isnull=True
+            ).order_by('-start')
+        # Fix some buggy geo-tagging
+        for i in incidents:
+            if i.ensure_geo():
+                assert(i.latitude is not None)
+                i.save()
+    else:
+        incidents = None
+
+    if with_closures:
+        closures = LocalClosure.objects.filter(end__isnull=True
+            ).order_by('-start')
+    else:
+        closures = None
+
+    if with_dot_closures:
+        dot_closures = DotClosure.objects.filter(end__isnull=True
+            ).order_by('-start')
+    else:
+        dot_closures = None
+
     callback = request.GET.get('callback', '')
-
-    template = 'feeds/alerts.%s' % file_type
-
-    if file_type.startswith('json'):
+    domain = Site.objects.get_current().domain
+    if template.endswith('.json'):
         mimetype = 'application/json'
-    elif file_type == 'xml':
+    if template.endswith('.jsonp'):
+        mimetype = 'text/javascript'
+    elif template.endswith('.xml'):
         mimetype = 'application/atom+xml'
     else:
         mimetype = 'text/plain'
 
-    c = RequestContext(request, {'incidents': incidents, 'closures': closures,
-                                 'dot_closures': dot_closures, 'callback': callback,
-                                 'domain': Site.objects.get_current().domain})
+    c = RequestContext(request, {
+        'incidents': incidents,
+        'closures': closures,
+        'dot_closures': dot_closures,
+        'callback': callback,
+        'domain': domain
+    })
     return render_to_response(template, context_instance=c, mimetype=mimetype)
+
+
+@require_http_methods(['GET'])
+def alerts_feed(request, file_type='json'):
+    template = 'feeds/alerts.%s' % file_type
+    return generic_feed(request, template, with_incidents=True,
+        with_closures=True, with_dot_closures=True)
 
 
 @require_http_methods(['GET'])
@@ -62,26 +92,8 @@ def incidents_dev(request):
 
 @require_http_methods(['GET'])
 def incidents_feed(request, file_type='json'):
-    incidents = Incident.objects.filter(end__isnull=True).order_by('-start')
-    # Fix some buggy geo-tagging
-    for i in incidents:
-        if i.ensure_geo():
-            assert(i.latitude is not None)
-            i.save()
-    callback = request.GET.get('callback', '')
-
     template = 'feeds/incidents.%s' % file_type
-
-    if file_type.startswith('json'):
-        mimetype = 'application/json'
-    elif file_type == 'xml':
-        mimetype = 'application/atom+xml'
-    else:
-        mimetype = 'text/plain'
-
-    c = RequestContext(request, {'incidents': incidents, 'callback': callback,
-                                 'domain': Site.objects.get_current().domain})
-    return render_to_response(template, context_instance=c, mimetype=mimetype)
+    return generic_feed(request, template, with_incidents=True)
 
 
 @require_http_methods(['GET'])
@@ -101,24 +113,8 @@ def closures_dev(request):
 
 @require_http_methods(['GET'])
 def closures_feed(request, file_type='json'):
-    closures = LocalClosure.objects.filter(end__isnull=True).order_by('-start')
-    dot_closures = DotClosure.objects.filter(end__isnull=True).order_by(
-        '-start')
-    callback = request.GET.get('callback', '')
-
-    template = 'feeds/closures.%s' % file_type
-
-    if file_type.startswith('json'):
-        mimetype = 'application/json'
-    elif file_type == 'xml':
-        mimetype = 'application/atom+xml'
-    else:
-        mimetype = 'text/plain'
-
-    c = RequestContext(request, {'closures': closures,
-                                 'dot_closures': dot_closures, 'callback': callback,
-                                 'domain': Site.objects.get_current().domain})
-    return render_to_response(template, context_instance=c, mimetype=mimetype)
+    return generic_feed(request, template, with_closures=True,
+        with_dot_closures=True)
 
 
 @require_http_methods(['GET'])
