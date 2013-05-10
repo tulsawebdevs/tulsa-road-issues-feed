@@ -1,3 +1,4 @@
+import socket
 from django.core.management.base import BaseCommand, CommandError
 from trif.trif_feeds import utils
 
@@ -6,6 +7,7 @@ class Command(BaseCommand):
     
     def handle(self, *args, **options):
         v = int(options['verbosity'])
+        socket.setdefaulttimeout(2)
 
         if v > 0:
             self.stdout.write('Reading 911 incidents\n')
