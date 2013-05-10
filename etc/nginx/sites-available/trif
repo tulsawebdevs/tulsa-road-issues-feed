@@ -23,6 +23,12 @@ server {
     root /home/trif/trif/trif/trif_feeds;
   }
 
+  location /last_feed_run.txt {
+    types {}
+    default_type text/plain; 
+    alias /tmp/last_feed_run.txt;
+  }
+
   location / {
     if ($request_method = 'OPTIONS') {
         add_header 'Access-Control-Allow-Origin' '*';
