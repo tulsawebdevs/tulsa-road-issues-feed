@@ -1,5 +1,7 @@
 Tulsa Road Issues Feed
 ======================
+**This project is archived.** It was active from about 2011 to 2013.
+
 The Tulsa Road Issues Feed (TRIF) aggregates road information from several
 sources into a single feed.  This can be used by media outlets to report
 issues to their audience, or as the raw data for interactive web projects.
