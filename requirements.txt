@@ -1,4 +1,4 @@
-django==1.11.28
+django==1.11.29
 south==0.7.3
 django-extensions==0.6
 django-mobility==0.1
